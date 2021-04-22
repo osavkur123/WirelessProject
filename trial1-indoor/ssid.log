@@ -1,0 +1,3796 @@
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=40/70  Signal level=-70 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:19:53.924
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=40/70  Signal level=-70 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:19:55.061
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=40/70  Signal level=-70 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:19:56.189
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=40/70  Signal level=-70 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:19:57.317
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=39/70  Signal level=-71 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:19:58.449
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=52 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=40/70  Signal level=-70 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:19:59.579
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=43.3 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=40/70  Signal level=-70 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:00.708
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=52 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=41/70  Signal level=-69 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:01.855
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=43.3 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=41/70  Signal level=-69 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:02.989
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=28.8 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=41/70  Signal level=-69 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:04.118
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=28.8 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=39/70  Signal level=-71 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:05.273
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=28.8 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=40/70  Signal level=-70 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:06.411
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=39/70  Signal level=-71 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:07.540
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=28.8 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=40/70  Signal level=-70 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:08.664
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=43.3 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=40/70  Signal level=-70 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:09.803
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=43.3 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=40/70  Signal level=-70 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:10.941
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=43.3 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=39/70  Signal level=-71 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:12.072
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=43.3 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=40/70  Signal level=-70 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:13.215
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=28.8 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=35/70  Signal level=-75 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:14.361
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=12 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=28/70  Signal level=-82 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:15.490
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=14.4 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=35/70  Signal level=-75 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:16.612
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=28.8 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=45/70  Signal level=-65 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:17.749
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=45/70  Signal level=-65 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:18.893
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=43.3 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=50/70  Signal level=-60 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:20.040
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=57.7 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=45/70  Signal level=-65 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:21.171
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=43.3 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=41/70  Signal level=-69 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:22.298
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=43.3 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=47/70  Signal level=-63 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:23.428
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=52 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=42/70  Signal level=-68 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:24.560
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=52 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=47/70  Signal level=-63 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:25.689
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=57.7 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=47/70  Signal level=-63 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:26.818
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=57.7 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=50/70  Signal level=-60 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:27.954
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=65 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=49/70  Signal level=-61 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:29.077
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=72.2 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=49/70  Signal level=-61 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:30.220
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=72.2 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=53/70  Signal level=-57 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:31.351
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=72.2 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=60/70  Signal level=-50 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:32.480
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=72.2 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=59/70  Signal level=-51 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:33.606
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=72.2 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=62/70  Signal level=-48 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:34.732
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=72.2 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=56/70  Signal level=-54 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:35.857
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=72.2 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=64/70  Signal level=-46 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:36.982
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=72.2 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=70/70  Signal level=-40 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:38.109
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=72.2 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=49/70  Signal level=-61 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:39.239
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=72.2 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=51/70  Signal level=-59 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:40.378
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=72.2 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=50/70  Signal level=-60 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:41.510
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=72.2 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=48/70  Signal level=-62 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:42.640
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=65 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=55/70  Signal level=-55 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:43.769
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=65 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=67/70  Signal level=-43 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:44.905
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=72.2 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=69/70  Signal level=-41 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:46.036
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=72.2 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=69/70  Signal level=-41 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:47.164
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=72.2 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=59/70  Signal level=-51 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:48.292
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=72.2 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=60/70  Signal level=-50 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:49.419
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=72.2 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=61/70  Signal level=-49 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:50.554
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=72.2 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=61/70  Signal level=-49 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:51.692
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=72.2 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=57/70  Signal level=-53 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:52.840
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=72.2 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=62/70  Signal level=-48 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:53.967
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=72.2 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=56/70  Signal level=-54 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:55.096
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=72.2 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=65/70  Signal level=-45 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:56.223
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=72.2 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=61/70  Signal level=-49 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:57.354
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=72.2 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=61/70  Signal level=-49 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:58.488
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=61/70  Signal level=-49 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:20:59.615
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=61/70  Signal level=-49 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:00.741
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=61/70  Signal level=-49 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:01.868
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=61/70  Signal level=-49 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:02.996
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=61/70  Signal level=-49 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:04.122
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=61/70  Signal level=-49 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:05.248
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=61/70  Signal level=-49 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:06.372
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=61/70  Signal level=-49 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:07.495
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=61/70  Signal level=-49 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:08.621
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=61/70  Signal level=-49 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:09.745
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=51/70  Signal level=-59 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:10.875
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=50/70  Signal level=-60 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:12.003
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=50/70  Signal level=-60 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:13.128
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=50/70  Signal level=-60 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:14.254
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=50/70  Signal level=-60 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:15.381
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=45/70  Signal level=-65 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:16.507
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=47/70  Signal level=-63 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:17.636
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=45/70  Signal level=-65 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:18.764
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=45/70  Signal level=-65 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:19.890
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=42/70  Signal level=-68 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:21.015
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=42/70  Signal level=-68 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:22.141
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=42/70  Signal level=-68 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:23.267
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=42/70  Signal level=-68 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:24.392
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=42/70  Signal level=-68 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:25.519
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=42/70  Signal level=-68 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:26.643
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=41/70  Signal level=-69 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:27.769
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=38/70  Signal level=-72 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:28.894
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=38/70  Signal level=-72 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:6  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:30.020
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=38/70  Signal level=-72 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:7  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:31.145
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=38/70  Signal level=-72 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:7  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:32.271
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=38/70  Signal level=-72 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:8  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:33.396
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=38/70  Signal level=-72 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:8  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:34.523
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=38/70  Signal level=-72 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:8  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:35.649
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=38/70  Signal level=-72 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:8  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:36.774
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=31/70  Signal level=-79 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:8  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:37.900
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=29/70  Signal level=-81 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:8  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:39.027
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=30/70  Signal level=-80 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:8  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:40.153
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=30/70  Signal level=-80 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:8  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:41.282
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=30/70  Signal level=-80 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:9  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:42.409
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=30/70  Signal level=-80 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:9  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:43.537
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=28/70  Signal level=-82 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:9  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:44.666
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=28/70  Signal level=-82 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:9  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:45.792
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=28/70  Signal level=-82 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:9  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:46.923
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:9  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:48.048
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:9  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:49.176
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:9  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:50.304
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:9  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:51.430
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:9  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:52.557
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:9  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:53.685
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:9  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:54.812
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:9  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:55.938
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:11  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:57.067
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:11  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:58.195
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:11  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:21:59.324
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=65 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=24/70  Signal level=-86 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:12  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:00.455
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=65 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=24/70  Signal level=-86 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:12  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:01.582
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=65 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:14  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:02.699
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=58.5 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:15  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:03.827
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=58.5 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:15  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:04.953
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=25/70  Signal level=-85 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:15  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:06.079
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=19.5 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=30/70  Signal level=-80 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:15  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:07.218
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=6.5 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:16  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:08.350
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=6 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:44  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:09.479
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=5.5 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:69  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:10.607
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=5.5 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:85  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:11.734
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=5.5 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:85  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:12.860
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=5.5 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:112  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:13.980
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=5.5 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:113  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:15.108
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=5.5 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:113  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:16.233
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=5.5 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:115  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:17.346
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=5.5 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:115  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:18.474
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=2 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:116  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:19.614
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=2 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:116  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:20.748
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=2 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:116  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:21.878
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=2 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:116  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:23.005
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=2 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:116  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:24.135
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=2 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=27/70  Signal level=-83 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:116  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:25.252
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:off/any  
+          Mode:Managed  Access Point: Not-Associated   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          
+2021-04-21T18:22:26.373
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=39 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=26/70  Signal level=-84 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:27.502
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=26 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=30/70  Signal level=-80 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:28.631
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=19.5 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=28/70  Signal level=-82 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:29.763
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=12 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=29/70  Signal level=-81 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:30.896
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=19.5 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=36/70  Signal level=-74 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:32.041
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=21.6 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=36/70  Signal level=-74 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:33.169
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=21.6 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=37/70  Signal level=-73 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:34.410
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=21.6 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=37/70  Signal level=-73 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:35.527
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=21.6 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=37/70  Signal level=-73 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:36.613
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=21.6 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=38/70  Signal level=-72 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:37.739
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=21.6 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=40/70  Signal level=-70 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:38.864
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=12 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=40/70  Signal level=-70 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:40.032
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=12 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=45/70  Signal level=-65 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:41.165
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=21.6 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=45/70  Signal level=-65 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:42.301
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=21.6 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=52/70  Signal level=-58 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:43.428
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=12 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=53/70  Signal level=-57 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:44.554
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=12 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=53/70  Signal level=-57 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:45.690
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=12 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=58/70  Signal level=-52 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:46.817
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=19.5 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=55/70  Signal level=-55 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:47.947
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=19.5 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=54/70  Signal level=-56 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:49.086
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=19.5 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=54/70  Signal level=-56 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:50.212
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=19.5 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=54/70  Signal level=-56 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:51.350
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=12 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=54/70  Signal level=-56 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:52.477
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=12 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=54/70  Signal level=-56 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:53.602
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=12 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=50/70  Signal level=-60 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:54.725
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=12 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=50/70  Signal level=-60 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:55.813
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=12 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=50/70  Signal level=-60 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:56.892
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=12 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=47/70  Signal level=-63 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:58.005
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=12 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=46/70  Signal level=-64 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:22:59.120
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=12 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=46/70  Signal level=-64 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:00.235
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=12 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=46/70  Signal level=-64 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:01.349
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=12 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=46/70  Signal level=-64 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:02.474
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=12 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=46/70  Signal level=-64 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:03.599
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=12 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=45/70  Signal level=-65 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:04.726
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=12 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=45/70  Signal level=-65 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:05.852
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=12 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=45/70  Signal level=-65 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:06.966
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=12 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=46/70  Signal level=-64 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:08.071
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=12 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=46/70  Signal level=-64 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:09.188
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=12 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=46/70  Signal level=-64 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:10.306
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=12 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=45/70  Signal level=-65 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:11.414
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=12 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=46/70  Signal level=-64 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:12.482
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=12 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=46/70  Signal level=-64 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:13.557
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=12 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=46/70  Signal level=-64 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:14.683
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=12 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=46/70  Signal level=-64 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:15.808
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=12 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=46/70  Signal level=-64 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:16.933
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=12 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=46/70  Signal level=-64 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:18.050
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=12 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=45/70  Signal level=-65 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:19.154
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=12 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=45/70  Signal level=-65 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:20.269
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=12 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=45/70  Signal level=-65 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:21.381
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=12 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=45/70  Signal level=-65 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:22.502
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=12 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=45/70  Signal level=-65 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:23.609
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=12 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=45/70  Signal level=-65 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:24.728
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=12 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=43/70  Signal level=-67 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:25.861
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=12 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=42/70  Signal level=-68 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:26.987
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=12 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=41/70  Signal level=-69 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:28.113
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=12 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=39/70  Signal level=-71 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:29.238
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=21.6 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=37/70  Signal level=-73 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:30.364
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=21.6 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=37/70  Signal level=-73 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:31.489
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=12 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=37/70  Signal level=-73 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:32.615
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=12 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=34/70  Signal level=-76 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:33.726
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=12 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=33/70  Signal level=-77 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:34.827
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=12 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=33/70  Signal level=-77 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:35.937
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:CC:AA:D5   
+          Bit Rate=12 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=33/70  Signal level=-77 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:37.064
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=65 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=70/70  Signal level=-35 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:38.189
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=72.2 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=70/70  Signal level=-40 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:39.306
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=72.2 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=68/70  Signal level=-42 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:40.374
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=68/70  Signal level=-42 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:41.454
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=72.2 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=64/70  Signal level=-46 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:42.591
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=72.2 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=59/70  Signal level=-51 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:43.730
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=65 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=57/70  Signal level=-53 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:44.861
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=65 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=55/70  Signal level=-55 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:45.928
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=65 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=54/70  Signal level=-56 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:47.014
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=72.2 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=52/70  Signal level=-58 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:48.144
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=72.2 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=52/70  Signal level=-58 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:49.271
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=52/70  Signal level=-58 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:50.397
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=72.2 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=51/70  Signal level=-59 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:51.525
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=72.2 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=51/70  Signal level=-59 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:52.624
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=65 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=48/70  Signal level=-62 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:53.692
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=65 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=48/70  Signal level=-62 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:54.771
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=48/70  Signal level=-62 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:55.896
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=48/70  Signal level=-62 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:57.024
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=48/70  Signal level=-62 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:58.150
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=45/70  Signal level=-65 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:23:59.279
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=45/70  Signal level=-65 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:24:00.409
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=45/70  Signal level=-65 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:24:01.535
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=45/70  Signal level=-65 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:24:02.662
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=45/70  Signal level=-65 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:24:03.786
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=45/70  Signal level=-65 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:24:04.913
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=45/70  Signal level=-65 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:24:06.039
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=45/70  Signal level=-65 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:24:07.154
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=45/70  Signal level=-65 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:24:08.272
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=65 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=42/70  Signal level=-68 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:24:09.399
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=65 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=42/70  Signal level=-68 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:24:10.526
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=42/70  Signal level=-68 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:24:11.653
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=42/70  Signal level=-68 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:24:12.766
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=42/70  Signal level=-68 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:24:13.881
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=38/70  Signal level=-72 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:24:15.003
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=38/70  Signal level=-72 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:24:16.132
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=38/70  Signal level=-72 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:24:17.258
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=38/70  Signal level=-72 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:24:18.382
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=38/70  Signal level=-72 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:24:19.506
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=38/70  Signal level=-72 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:24:20.639
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=38/70  Signal level=-72 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:24:21.767
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=38/70  Signal level=-72 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:24:22.892
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=38/70  Signal level=-72 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:24:24.002
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=38/70  Signal level=-72 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:24:25.125
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=38/70  Signal level=-72 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:24:26.235
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=38/70  Signal level=-72 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:24:27.347
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=38/70  Signal level=-72 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:24:28.461
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=38/70  Signal level=-72 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:24:29.576
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=38/70  Signal level=-72 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:24:30.679
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=38/70  Signal level=-72 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:24:31.807
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=38/70  Signal level=-72 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:24:32.935
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=38/70  Signal level=-72 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:24:34.061
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=38/70  Signal level=-72 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:24:35.178
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=38/70  Signal level=-72 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:24:36.293
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=38/70  Signal level=-72 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:24:37.409
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=38/70  Signal level=-72 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:24:38.529
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=38/70  Signal level=-72 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:24:39.659
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=38/70  Signal level=-72 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:1  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:24:40.788
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=38/70  Signal level=-72 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:2  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:24:41.890
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=33/70  Signal level=-77 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:2  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:24:43.019
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=33/70  Signal level=-77 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:2  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:24:44.145
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=33/70  Signal level=-77 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:2  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:24:45.263
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=33/70  Signal level=-77 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:2  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:24:46.380
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=52 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=33/70  Signal level=-77 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:4  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:24:47.487
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=33/70  Signal level=-77 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:5  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:24:48.565
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:75:C1:31   
+          Bit Rate=24 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=33/70  Signal level=-77 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:33  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:24:49.693
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:off/any  
+          Mode:Managed  Access Point: Not-Associated   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          
+2021-04-21T18:24:50.816
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:off/any  
+          Mode:Managed  Access Point: Not-Associated   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          
+2021-04-21T18:24:51.937
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:off/any  
+          Mode:Managed  Access Point: Not-Associated   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          
+2021-04-21T18:24:53.057
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:off/any  
+          Mode:Managed  Access Point: Not-Associated   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          
+2021-04-21T18:24:54.181
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:off/any  
+          Mode:Managed  Access Point: Not-Associated   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          
+2021-04-21T18:24:55.306
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:off/any  
+          Mode:Managed  Access Point: Not-Associated   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          
+2021-04-21T18:24:56.426
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:off/any  
+          Mode:Managed  Access Point: Not-Associated   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          
+2021-04-21T18:24:57.547
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:off/any  
+          Mode:Managed  Access Point: Not-Associated   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          
+2021-04-21T18:24:58.673
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:off/any  
+          Mode:Managed  Access Point: Not-Associated   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          
+2021-04-21T18:24:59.794
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:off/any  
+          Mode:Managed  Access Point: Not-Associated   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          
+2021-04-21T18:25:00.905
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=52 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=29/70  Signal level=-81 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:25:02.043
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=39 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=34/70  Signal level=-76 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:25:03.173
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=39 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=32/70  Signal level=-78 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:25:04.298
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=39 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=31/70  Signal level=-79 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:25:05.431
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=39 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=32/70  Signal level=-78 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:25:06.539
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=43.3 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=41/70  Signal level=-69 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:25:07.664
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=43.3 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=42/70  Signal level=-68 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:25:08.813
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=43.3 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=44/70  Signal level=-66 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:25:09.932
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=39 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=44/70  Signal level=-66 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:25:11.000
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=39 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=44/70  Signal level=-66 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:25:12.080
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=39 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=44/70  Signal level=-66 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:25:13.208
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=39 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=45/70  Signal level=-65 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:25:14.331
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=39 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=47/70  Signal level=-63 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:25:15.462
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=39 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=52/70  Signal level=-58 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:25:16.590
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=39 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=54/70  Signal level=-56 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:25:17.713
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=39 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=56/70  Signal level=-54 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:25:18.842
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=39 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=54/70  Signal level=-56 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:25:19.959
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=39 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=53/70  Signal level=-57 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:25:21.085
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=39 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=53/70  Signal level=-57 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:25:22.214
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=39 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=50/70  Signal level=-60 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:25:23.342
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=39 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=46/70  Signal level=-64 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:25:24.469
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=39 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=46/70  Signal level=-64 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:25:25.597
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=39 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=46/70  Signal level=-64 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:25:26.723
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=39 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=44/70  Signal level=-66 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:25:27.849
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=39 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=42/70  Signal level=-68 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:25:28.975
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=39 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=40/70  Signal level=-70 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:25:30.101
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=39 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=37/70  Signal level=-73 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:25:31.225
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=39 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=37/70  Signal level=-73 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:25:32.353
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=39 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=38/70  Signal level=-72 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:25:33.476
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=39 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=36/70  Signal level=-74 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:25:34.617
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=39 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=35/70  Signal level=-75 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:25:35.748
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=39 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=35/70  Signal level=-75 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:25:36.883
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=39 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=35/70  Signal level=-75 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:25:38.022
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=39 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=39/70  Signal level=-71 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:25:39.150
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=39 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=39/70  Signal level=-71 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:25:40.286
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=39 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=41/70  Signal level=-69 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:25:41.422
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=39 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=43/70  Signal level=-67 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:25:42.551
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=39 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=45/70  Signal level=-65 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:25:43.678
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=39 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=47/70  Signal level=-63 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:25:44.806
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=39 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=46/70  Signal level=-64 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:25:45.953
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=39 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=46/70  Signal level=-64 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:25:47.084
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=39 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=46/70  Signal level=-64 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:25:48.223
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=39 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=46/70  Signal level=-64 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:25:49.355
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=39 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=45/70  Signal level=-65 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:25:50.483
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=39 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=45/70  Signal level=-65 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:25:51.613
+*-*
+Result
+wlan0     IEEE 802.11  ESSID:"WirelessProject"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: B8:27:EB:6C:F0:84   
+          Bit Rate=39 Mb/s   Tx-Power=31 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+          Link Quality=45/70  Signal level=-65 dBm  
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0
+          Tx excessive retries:0  Invalid misc:0   Missed beacon:0
+
+2021-04-21T18:25:52.751
+*-*
