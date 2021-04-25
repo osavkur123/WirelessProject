@@ -1,0 +1,1778 @@
+iperf3: interrupt - the client has terminated
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37196 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1012 KBytes  8.29 Mbits/sec    0   88.6 KBytes       
+[  5]   1.00-2.00   sec   631 KBytes  5.16 Mbits/sec    0    109 KBytes       
+[  5]   2.00-3.00   sec   883 KBytes  7.23 Mbits/sec    0    129 KBytes       
+[  5]   3.00-4.00   sec   568 KBytes  4.65 Mbits/sec    0    144 KBytes       
+[  5]   4.00-5.00   sec  1.11 MBytes  9.30 Mbits/sec    0    161 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  4.13 MBytes  6.93 Mbits/sec    0             sender
+[  5]   0.00-5.00   sec  3.78 MBytes  6.34 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37204 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   256 KBytes  2.10 Mbits/sec    1   55.0 KBytes       
+[  5]   1.00-2.00   sec   458 KBytes  3.75 Mbits/sec    0   72.5 KBytes       
+[  5]   2.00-3.00   sec   505 KBytes  4.13 Mbits/sec    2   42.9 KBytes       
+[  5]   3.00-4.00   sec   315 KBytes  2.58 Mbits/sec    1   52.3 KBytes       
+[  5]   4.00-5.00   sec   631 KBytes  5.17 Mbits/sec    0   57.7 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  2.11 MBytes  3.55 Mbits/sec    4             sender
+[  5]   0.00-5.00   sec  1.96 MBytes  3.28 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37208 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.23 MBytes  10.3 Mbits/sec    0    145 KBytes       
+[  5]   1.00-2.00   sec  1.17 MBytes  9.82 Mbits/sec    0    178 KBytes       
+[  5]   2.00-3.00   sec  1.23 MBytes  10.3 Mbits/sec    0    212 KBytes       
+[  5]   3.00-4.00   sec  1009 KBytes  8.27 Mbits/sec    0    225 KBytes       
+[  5]   4.00-5.00   sec  1.23 MBytes  10.3 Mbits/sec    0    256 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  5.85 MBytes  9.81 Mbits/sec    0             sender
+[  5]   0.00-5.00   sec  5.17 MBytes  8.67 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37212 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.28 MBytes  10.7 Mbits/sec    0    122 KBytes       
+[  5]   1.00-2.00   sec  1.11 MBytes  9.30 Mbits/sec    0    160 KBytes       
+[  5]   2.00-3.00   sec  1009 KBytes  8.26 Mbits/sec    0    192 KBytes       
+[  5]   3.00-4.00   sec  1.23 MBytes  10.3 Mbits/sec    9    157 KBytes       
+[  5]   4.00-5.00   sec   820 KBytes  6.71 Mbits/sec    0    173 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  5.41 MBytes  9.07 Mbits/sec    9             sender
+[  5]   0.00-5.00   sec  5.11 MBytes  8.57 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37216 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.61 MBytes  13.5 Mbits/sec    0    164 KBytes       
+[  5]   1.00-2.00   sec   946 KBytes  7.75 Mbits/sec    0    182 KBytes       
+[  5]   2.00-3.00   sec  1.23 MBytes  10.3 Mbits/sec    0    219 KBytes       
+[  5]   3.00-4.00   sec   820 KBytes  6.71 Mbits/sec    0    233 KBytes       
+[  5]   4.00-5.00   sec  1.23 MBytes  10.3 Mbits/sec    0    271 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  5.80 MBytes  9.73 Mbits/sec    0             sender
+[  5]   0.00-5.00   sec  5.20 MBytes  8.73 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - the server is busy running a test. try again later
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37294 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.08 MBytes  9.03 Mbits/sec    1    187 KBytes       
+[  5]   1.00-2.00   sec   757 KBytes  6.20 Mbits/sec    0    199 KBytes       
+[  5]   2.00-3.00   sec  1.29 MBytes  10.8 Mbits/sec    0    235 KBytes       
+[  5]   3.00-4.00   sec  1.23 MBytes  10.3 Mbits/sec    0    271 KBytes       
+[  5]   4.00-5.00   sec  1.35 MBytes  11.4 Mbits/sec    0    293 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  5.70 MBytes  9.56 Mbits/sec    1             sender
+[  5]   0.00-5.00   sec  5.02 MBytes  8.42 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - the server is busy running a test. try again later
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37300 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.03 MBytes  8.62 Mbits/sec    0   85.9 KBytes       
+[  5]   1.00-2.00   sec   378 KBytes  3.10 Mbits/sec    1   99.3 KBytes       
+[  5]   2.00-3.00   sec  1009 KBytes  8.27 Mbits/sec    0    137 KBytes       
+[  5]   3.00-4.00   sec   757 KBytes  6.20 Mbits/sec    9   93.9 KBytes       
+[  5]   4.00-5.00   sec   946 KBytes  7.75 Mbits/sec    0    115 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  4.05 MBytes  6.79 Mbits/sec   10             sender
+[  5]   0.00-5.00   sec  3.73 MBytes  6.26 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - the server is busy running a test. try again later
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37306 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.12 MBytes  9.42 Mbits/sec    0    113 KBytes       
+[  5]   1.00-2.00   sec   757 KBytes  6.20 Mbits/sec    0    140 KBytes       
+[  5]   2.00-3.00   sec   946 KBytes  7.75 Mbits/sec    0    160 KBytes       
+[  5]   3.00-4.00   sec  1009 KBytes  8.27 Mbits/sec    0    185 KBytes       
+[  5]   4.00-5.00   sec  1009 KBytes  8.26 Mbits/sec    0    216 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  4.76 MBytes  7.98 Mbits/sec    0             sender
+[  5]   0.00-5.00   sec  4.29 MBytes  7.20 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - the server is busy running a test. try again later
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37312 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   786 KBytes  6.44 Mbits/sec    0   76.5 KBytes       
+[  5]   1.00-2.00   sec   883 KBytes  7.23 Mbits/sec    0    105 KBytes       
+[  5]   2.00-3.00   sec   820 KBytes  6.72 Mbits/sec    0    131 KBytes       
+[  5]   3.00-4.00   sec   946 KBytes  7.75 Mbits/sec    0    154 KBytes       
+[  5]   4.00-5.00   sec  1.11 MBytes  9.30 Mbits/sec    0    188 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  4.46 MBytes  7.49 Mbits/sec    0             sender
+[  5]   0.00-5.00   sec  4.06 MBytes  6.82 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to receive control message: Connection reset by peer
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37318 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.12 MBytes  9.37 Mbits/sec    0    141 KBytes       
+[  5]   1.00-2.00   sec   946 KBytes  7.75 Mbits/sec    0    165 KBytes       
+[  5]   2.00-3.00   sec  1.17 MBytes  9.82 Mbits/sec    0    196 KBytes       
+[  5]   3.00-4.00   sec   757 KBytes  6.20 Mbits/sec    0    217 KBytes       
+[  5]   4.00-5.00   sec  1.17 MBytes  9.82 Mbits/sec    0    256 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  5.12 MBytes  8.59 Mbits/sec    0             sender
+[  5]   0.00-5.00   sec  4.66 MBytes  7.82 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37324 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.05 MBytes  8.81 Mbits/sec    0    115 KBytes       
+[  5]   1.00-2.00   sec   946 KBytes  7.75 Mbits/sec    0    145 KBytes       
+[  5]   2.00-3.00   sec  1.23 MBytes  10.3 Mbits/sec    0    187 KBytes       
+[  5]   3.00-4.00   sec  1.23 MBytes  10.3 Mbits/sec    0    205 KBytes       
+[  5]   4.00-5.00   sec  1.11 MBytes  9.30 Mbits/sec    0    235 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  5.55 MBytes  9.31 Mbits/sec    0             sender
+[  5]   0.00-5.00   sec  5.05 MBytes  8.47 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37340 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.01 MBytes  8.47 Mbits/sec    0   88.6 KBytes       
+[  5]   1.00-2.00   sec   946 KBytes  7.75 Mbits/sec    0    113 KBytes       
+[  5]   2.00-3.00   sec  1.05 MBytes  8.78 Mbits/sec    0    141 KBytes       
+[  5]   3.00-4.00   sec  1.17 MBytes  9.82 Mbits/sec    0    176 KBytes       
+[  5]   4.00-5.00   sec  1009 KBytes  8.27 Mbits/sec    0    201 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  5.14 MBytes  8.62 Mbits/sec    0             sender
+[  5]   0.00-5.00   sec  4.82 MBytes  8.08 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - the server is busy running a test. try again later
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37344 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   990 KBytes  8.11 Mbits/sec    1    200 KBytes       
+[  5]   1.00-2.00   sec  1.29 MBytes  10.9 Mbits/sec    0    237 KBytes       
+[  5]   2.00-3.00   sec  1009 KBytes  8.27 Mbits/sec    0    279 KBytes       
+[  5]   3.00-4.00   sec  1.05 MBytes  8.78 Mbits/sec    0    322 KBytes       
+[  5]   4.00-5.00   sec  1.11 MBytes  9.30 Mbits/sec    0    356 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  5.40 MBytes  9.06 Mbits/sec    1             sender
+[  5]   0.00-5.00   sec  4.68 MBytes  7.84 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37350 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   244 KBytes  2.00 Mbits/sec    0   49.6 KBytes       
+[  5]   1.00-2.00   sec   910 KBytes  7.45 Mbits/sec    0   87.2 KBytes       
+[  5]   2.00-3.00   sec  1.05 MBytes  8.78 Mbits/sec    0    125 KBytes       
+[  5]   3.00-4.00   sec  1009 KBytes  8.27 Mbits/sec    0    158 KBytes       
+[  5]   4.00-5.00   sec  1.05 MBytes  8.78 Mbits/sec    0    191 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  4.21 MBytes  7.06 Mbits/sec    0             sender
+[  5]   0.00-5.00   sec  3.87 MBytes  6.49 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37354 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.05 MBytes  8.78 Mbits/sec    1    150 KBytes       
+[  5]   1.00-2.00   sec  1.29 MBytes  10.8 Mbits/sec    0    185 KBytes       
+[  5]   2.00-3.00   sec  1.29 MBytes  10.8 Mbits/sec    0    217 KBytes       
+[  5]   3.00-4.00   sec   757 KBytes  6.20 Mbits/sec    0    229 KBytes       
+[  5]   4.00-5.00   sec  1.48 MBytes  12.4 Mbits/sec    0    263 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  5.85 MBytes  9.82 Mbits/sec    1             sender
+[  5]   0.00-5.00   sec  5.29 MBytes  8.87 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to receive control message: Connection reset by peer
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37364 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   156 KBytes  1.27 Mbits/sec    3   13.4 KBytes       
+[  5]   1.00-2.00   sec   165 KBytes  1.35 Mbits/sec    1   13.4 KBytes       
+[  5]   2.00-3.00   sec   188 KBytes  1.54 Mbits/sec    0   20.1 KBytes       
+[  5]   3.00-4.00   sec   130 KBytes  1.07 Mbits/sec    0   24.2 KBytes       
+[  5]   4.00-5.00   sec   127 KBytes  1.04 Mbits/sec    0   28.2 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   766 KBytes  1.26 Mbits/sec    4             sender
+[  5]   0.00-5.00   sec   722 KBytes  1.18 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37368 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   794 KBytes  6.51 Mbits/sec    0   87.2 KBytes       
+[  5]   1.00-2.00   sec   568 KBytes  4.65 Mbits/sec    0    107 KBytes       
+[  5]   2.00-3.00   sec   568 KBytes  4.65 Mbits/sec    0    119 KBytes       
+[  5]   3.00-4.00   sec   757 KBytes  6.20 Mbits/sec    0    134 KBytes       
+[  5]   4.00-5.00   sec   568 KBytes  4.65 Mbits/sec    0    148 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  3.18 MBytes  5.33 Mbits/sec    0             sender
+[  5]   0.00-5.00   sec  2.93 MBytes  4.91 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37372 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   933 KBytes  7.64 Mbits/sec    1    146 KBytes       
+[  5]   1.00-2.00   sec   757 KBytes  6.20 Mbits/sec    0    158 KBytes       
+[  5]   2.00-3.00   sec   568 KBytes  4.65 Mbits/sec    0    173 KBytes       
+[  5]   3.00-4.00   sec   694 KBytes  5.68 Mbits/sec    0    185 KBytes       
+[  5]   4.00-5.00   sec   505 KBytes  4.13 Mbits/sec    0    196 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  3.37 MBytes  5.66 Mbits/sec    1             sender
+[  5]   0.00-5.00   sec  3.02 MBytes  5.07 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37376 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   840 KBytes  6.88 Mbits/sec    0    101 KBytes       
+[  5]   1.00-2.00   sec   820 KBytes  6.72 Mbits/sec    0    118 KBytes       
+[  5]   2.00-3.00   sec   757 KBytes  6.20 Mbits/sec    0    142 KBytes       
+[  5]   3.00-4.00   sec   946 KBytes  7.75 Mbits/sec    0    162 KBytes       
+[  5]   4.00-5.00   sec  1009 KBytes  8.27 Mbits/sec    0    176 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  4.27 MBytes  7.16 Mbits/sec    0             sender
+[  5]   0.00-5.00   sec  3.85 MBytes  6.46 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37380 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   832 KBytes  6.81 Mbits/sec    0   92.6 KBytes       
+[  5]   1.00-2.00   sec  1009 KBytes  8.26 Mbits/sec    0    129 KBytes       
+[  5]   2.00-3.00   sec   757 KBytes  6.20 Mbits/sec    0    149 KBytes       
+[  5]   3.00-4.00   sec   757 KBytes  6.20 Mbits/sec    0    172 KBytes       
+[  5]   4.00-5.00   sec   757 KBytes  6.20 Mbits/sec    0    181 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  4.01 MBytes  6.74 Mbits/sec    0             sender
+[  5]   0.00-5.00   sec  3.73 MBytes  6.26 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37412 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.68 MBytes  14.1 Mbits/sec    0    168 KBytes       
+[  5]   1.00-2.00   sec  1.79 MBytes  15.0 Mbits/sec    0    199 KBytes       
+[  5]   2.00-3.00   sec  1.97 MBytes  16.5 Mbits/sec    0    239 KBytes       
+[  5]   3.00-4.00   sec  1.66 MBytes  13.9 Mbits/sec    0    286 KBytes       
+[  5]   4.00-5.00   sec  1.91 MBytes  16.0 Mbits/sec    0    326 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  9.01 MBytes  15.1 Mbits/sec    0             sender
+[  5]   0.00-5.00   sec  8.16 MBytes  13.7 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37416 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.72 MBytes  14.4 Mbits/sec    0    191 KBytes       
+[  5]   1.00-2.00   sec  1.60 MBytes  13.4 Mbits/sec    0    237 KBytes       
+[  5]   2.00-3.00   sec  1.91 MBytes  16.0 Mbits/sec    0    270 KBytes       
+[  5]   3.00-4.00   sec  1.79 MBytes  15.0 Mbits/sec    0    317 KBytes       
+[  5]   4.00-5.00   sec  1.66 MBytes  13.9 Mbits/sec    0    356 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  8.68 MBytes  14.6 Mbits/sec    0             sender
+[  5]   0.00-5.00   sec  8.14 MBytes  13.7 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37420 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  2.21 MBytes  18.6 Mbits/sec    0    266 KBytes       
+[  5]   1.00-2.00   sec  1.66 MBytes  13.9 Mbits/sec    0    298 KBytes       
+[  5]   2.00-3.00   sec  2.09 MBytes  17.6 Mbits/sec    0    339 KBytes       
+[  5]   3.00-4.00   sec  1.72 MBytes  14.5 Mbits/sec    0    369 KBytes       
+[  5]   4.00-5.00   sec  1.91 MBytes  16.0 Mbits/sec    0    417 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  9.60 MBytes  16.1 Mbits/sec    0             sender
+[  5]   0.00-5.00   sec  8.80 MBytes  14.8 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37446 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.66 MBytes  13.9 Mbits/sec    0    134 KBytes       
+[  5]   1.00-2.00   sec  1.54 MBytes  12.9 Mbits/sec    0    181 KBytes       
+[  5]   2.00-3.00   sec  1.48 MBytes  12.4 Mbits/sec    8    149 KBytes       
+[  5]   3.00-4.00   sec  1.54 MBytes  12.9 Mbits/sec    0    165 KBytes       
+[  5]   4.00-5.00   sec  1.54 MBytes  12.9 Mbits/sec    0    178 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  7.76 MBytes  13.0 Mbits/sec    8             sender
+[  5]   0.00-5.00   sec  7.43 MBytes  12.5 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37452 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.72 MBytes  14.4 Mbits/sec    0    184 KBytes       
+[  5]   1.00-2.00   sec  1.48 MBytes  12.4 Mbits/sec    8   61.7 KBytes       
+[  5]   2.00-3.00   sec  1.60 MBytes  13.4 Mbits/sec    0    170 KBytes       
+[  5]   3.00-4.00   sec  1.60 MBytes  13.4 Mbits/sec    0    201 KBytes       
+[  5]   4.00-5.00   sec  1.54 MBytes  12.9 Mbits/sec    0    213 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  7.94 MBytes  13.3 Mbits/sec    8             sender
+[  5]   0.00-5.00   sec  7.53 MBytes  12.6 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37458 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.05 MBytes  8.81 Mbits/sec    0   91.2 KBytes       
+[  5]   1.00-2.00   sec  1.35 MBytes  11.4 Mbits/sec    0    136 KBytes       
+[  5]   2.00-3.00   sec  1.17 MBytes  9.82 Mbits/sec    7    118 KBytes       
+[  5]   3.00-4.00   sec  1.29 MBytes  10.8 Mbits/sec    0    145 KBytes       
+[  5]   4.00-5.00   sec  1.54 MBytes  12.9 Mbits/sec    0    160 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  6.41 MBytes  10.8 Mbits/sec    7             sender
+[  5]   0.00-5.00   sec  5.88 MBytes  9.87 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37464 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.92 MBytes  16.1 Mbits/sec    0    267 KBytes       
+[  5]   1.00-2.00   sec  1.72 MBytes  14.5 Mbits/sec    0    298 KBytes       
+[  5]   2.00-3.00   sec  1.60 MBytes  13.4 Mbits/sec    0    322 KBytes       
+[  5]   3.00-4.00   sec  1.72 MBytes  14.5 Mbits/sec    0    364 KBytes       
+[  5]   4.00-5.00   sec  2.16 MBytes  18.1 Mbits/sec    0    384 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  9.13 MBytes  15.3 Mbits/sec    0             sender
+[  5]   0.00-5.00   sec  8.38 MBytes  14.1 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37470 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.53 MBytes  12.9 Mbits/sec    0    136 KBytes       
+[  5]   1.00-2.00   sec  1.29 MBytes  10.8 Mbits/sec    0    177 KBytes       
+[  5]   2.00-3.00   sec  1.48 MBytes  12.4 Mbits/sec    0    207 KBytes       
+[  5]   3.00-4.00   sec  1.29 MBytes  10.9 Mbits/sec    0    231 KBytes       
+[  5]   4.00-5.00   sec  1.54 MBytes  12.9 Mbits/sec    0    244 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  7.14 MBytes  12.0 Mbits/sec    0             sender
+[  5]   0.00-5.00   sec  6.64 MBytes  11.1 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37478 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.67 MBytes  14.0 Mbits/sec    0    185 KBytes       
+[  5]   1.00-2.00   sec  1.72 MBytes  14.5 Mbits/sec    0    223 KBytes       
+[  5]   2.00-3.00   sec  1.72 MBytes  14.5 Mbits/sec    0    263 KBytes       
+[  5]   3.00-4.00   sec  2.03 MBytes  17.0 Mbits/sec    0    310 KBytes       
+[  5]   4.00-5.00   sec  1.60 MBytes  13.4 Mbits/sec    0    329 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  8.75 MBytes  14.7 Mbits/sec    0             sender
+[  5]   0.00-5.00   sec  8.09 MBytes  13.6 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37484 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.18 MBytes  9.87 Mbits/sec    1    133 KBytes       
+[  5]   1.00-2.00   sec  1.23 MBytes  10.3 Mbits/sec    0    174 KBytes       
+[  5]   2.00-3.00   sec  1.54 MBytes  12.9 Mbits/sec    0    213 KBytes       
+[  5]   3.00-4.00   sec  1.79 MBytes  15.0 Mbits/sec    0    251 KBytes       
+[  5]   4.00-5.00   sec  2.03 MBytes  17.0 Mbits/sec    0    291 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  7.77 MBytes  13.0 Mbits/sec    1             sender
+[  5]   0.00-5.00   sec  6.86 MBytes  11.5 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37490 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  2.08 MBytes  17.5 Mbits/sec    0    219 KBytes       
+[  5]   1.00-2.00   sec  1.85 MBytes  15.5 Mbits/sec    0    267 KBytes       
+[  5]   2.00-3.00   sec  1.79 MBytes  15.0 Mbits/sec    0    302 KBytes       
+[  5]   3.00-4.00   sec  1.97 MBytes  16.5 Mbits/sec    0    341 KBytes       
+[  5]   4.00-5.00   sec  1.72 MBytes  14.5 Mbits/sec    0    366 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  9.41 MBytes  15.8 Mbits/sec    0             sender
+[  5]   0.00-5.00   sec  8.62 MBytes  14.5 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37496 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.73 MBytes  14.5 Mbits/sec    0    145 KBytes       
+[  5]   1.00-2.00   sec  1.60 MBytes  13.4 Mbits/sec    0    192 KBytes       
+[  5]   2.00-3.00   sec  1.48 MBytes  12.4 Mbits/sec    0    224 KBytes       
+[  5]   3.00-4.00   sec  1.97 MBytes  16.5 Mbits/sec    0    266 KBytes       
+[  5]   4.00-5.00   sec  1.85 MBytes  15.5 Mbits/sec    0    298 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  8.63 MBytes  14.5 Mbits/sec    0             sender
+[  5]   0.00-5.00   sec  8.06 MBytes  13.5 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37502 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.53 MBytes  12.8 Mbits/sec    0    204 KBytes       
+[  5]   1.00-2.00   sec  1.60 MBytes  13.4 Mbits/sec    0    240 KBytes       
+[  5]   2.00-3.00   sec  1.29 MBytes  10.8 Mbits/sec    0    242 KBytes       
+[  5]   3.00-4.00   sec  1.85 MBytes  15.5 Mbits/sec    0    287 KBytes       
+[  5]   4.00-5.00   sec  1.48 MBytes  12.4 Mbits/sec    0    325 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  7.75 MBytes  13.0 Mbits/sec    0             sender
+[  5]   0.00-5.00   sec  7.40 MBytes  12.4 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37508 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.66 MBytes  13.9 Mbits/sec    0    156 KBytes       
+[  5]   1.00-2.00   sec  1.79 MBytes  15.0 Mbits/sec    0    211 KBytes       
+[  5]   2.00-3.00   sec  1.66 MBytes  13.9 Mbits/sec    0    236 KBytes       
+[  5]   3.00-4.00   sec  1.60 MBytes  13.4 Mbits/sec    0    284 KBytes       
+[  5]   4.00-5.00   sec  1.85 MBytes  15.5 Mbits/sec    7    213 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  8.55 MBytes  14.4 Mbits/sec    7             sender
+[  5]   0.00-5.00   sec  7.90 MBytes  13.3 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37514 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.23 MBytes  10.4 Mbits/sec    0    136 KBytes       
+[  5]   1.00-2.00   sec  1.29 MBytes  10.9 Mbits/sec    0    174 KBytes       
+[  5]   2.00-3.00   sec  1.79 MBytes  15.0 Mbits/sec    0    229 KBytes       
+[  5]   3.00-4.00   sec  1.54 MBytes  12.9 Mbits/sec    0    246 KBytes       
+[  5]   4.00-5.00   sec  2.03 MBytes  17.0 Mbits/sec    0    288 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  7.89 MBytes  13.2 Mbits/sec    0             sender
+[  5]   0.00-5.00   sec  7.33 MBytes  12.3 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37520 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.61 MBytes  13.5 Mbits/sec    0    152 KBytes       
+[  5]   1.00-2.00   sec  1.66 MBytes  13.9 Mbits/sec    0    200 KBytes       
+[  5]   2.00-3.00   sec  1.66 MBytes  13.9 Mbits/sec    0    242 KBytes       
+[  5]   3.00-4.00   sec  1.85 MBytes  15.5 Mbits/sec    0    286 KBytes       
+[  5]   4.00-5.00   sec  1.97 MBytes  16.5 Mbits/sec    0    322 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  8.75 MBytes  14.7 Mbits/sec    0             sender
+[  5]   0.00-5.00   sec  8.01 MBytes  13.4 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37526 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.31 MBytes  11.0 Mbits/sec    0    134 KBytes       
+[  5]   1.00-2.00   sec  1.29 MBytes  10.8 Mbits/sec    0    173 KBytes       
+[  5]   2.00-3.00   sec  1.54 MBytes  12.9 Mbits/sec    0    213 KBytes       
+[  5]   3.00-4.00   sec  1.42 MBytes  11.9 Mbits/sec    0    251 KBytes       
+[  5]   4.00-5.00   sec  1.60 MBytes  13.4 Mbits/sec    0    283 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  7.16 MBytes  12.0 Mbits/sec    0             sender
+[  5]   0.00-5.00   sec  6.64 MBytes  11.1 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37532 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.78 MBytes  15.0 Mbits/sec    0    173 KBytes       
+[  5]   1.00-2.00   sec  1.79 MBytes  15.0 Mbits/sec    0    215 KBytes       
+[  5]   2.00-3.00   sec  1.79 MBytes  15.0 Mbits/sec    0    254 KBytes       
+[  5]   3.00-4.00   sec  1.97 MBytes  16.5 Mbits/sec    0    318 KBytes       
+[  5]   4.00-5.00   sec  1.66 MBytes  13.9 Mbits/sec    0    358 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  8.99 MBytes  15.1 Mbits/sec    0             sender
+[  5]   0.00-5.00   sec  8.30 MBytes  13.9 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37544 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  2.10 MBytes  17.7 Mbits/sec    0    254 KBytes       
+[  5]   1.00-2.00   sec  1.72 MBytes  14.5 Mbits/sec    0    297 KBytes       
+[  5]   2.00-3.00   sec  1.91 MBytes  16.0 Mbits/sec    0    334 KBytes       
+[  5]   3.00-4.00   sec  1.60 MBytes  13.4 Mbits/sec    0    366 KBytes       
+[  5]   4.00-5.00   sec  2.03 MBytes  17.0 Mbits/sec    0    456 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  9.37 MBytes  15.7 Mbits/sec    0             sender
+[  5]   0.00-5.00   sec  8.47 MBytes  14.2 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37550 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  2.05 MBytes  17.2 Mbits/sec    0    211 KBytes       
+[  5]   1.00-2.00   sec  1.35 MBytes  11.4 Mbits/sec    0    243 KBytes       
+[  5]   2.00-3.00   sec  2.09 MBytes  17.6 Mbits/sec    0    291 KBytes       
+[  5]   3.00-4.00   sec  1.91 MBytes  16.0 Mbits/sec    0    326 KBytes       
+[  5]   4.00-5.00   sec  1.60 MBytes  13.4 Mbits/sec    0    346 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  9.01 MBytes  15.1 Mbits/sec    0             sender
+[  5]   0.00-5.00   sec  8.19 MBytes  13.7 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37556 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.53 MBytes  12.8 Mbits/sec    0    201 KBytes       
+[  5]   1.00-2.00   sec  1.60 MBytes  13.4 Mbits/sec    0    232 KBytes       
+[  5]   2.00-3.00   sec  1.54 MBytes  12.9 Mbits/sec    0    263 KBytes       
+[  5]   3.00-4.00   sec  1.48 MBytes  12.4 Mbits/sec   12    204 KBytes       
+[  5]   4.00-5.00   sec  1.79 MBytes  15.0 Mbits/sec    0    228 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  7.93 MBytes  13.3 Mbits/sec   12             sender
+[  5]   0.00-5.00   sec  7.22 MBytes  12.1 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to receive control message: Connection reset by peer
+iperf3: error - unable to receive control message: Connection reset by peer
+iperf3: error - unable to receive control message: Connection reset by peer
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to write to stream socket: Connection reset by peer
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37652 connected to 172.26.211.223 port 5201
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37658 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.60 MBytes  13.4 Mbits/sec    0    144 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.60 MBytes  13.4 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec  1.34 MBytes  11.2 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37664 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.78 MBytes  14.9 Mbits/sec    0    193 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.78 MBytes  14.9 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec  1.38 MBytes  11.6 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37670 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  2.05 MBytes  17.2 Mbits/sec    0    192 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  2.05 MBytes  17.2 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec  1.61 MBytes  13.5 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37676 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.71 MBytes  14.4 Mbits/sec    0    191 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.71 MBytes  14.4 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec  1.40 MBytes  11.7 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37682 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.36 MBytes  11.4 Mbits/sec    1    217 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.36 MBytes  11.4 Mbits/sec    1             sender
+[  5]   0.00-1.00   sec   988 KBytes  8.09 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37688 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.63 MBytes  13.6 Mbits/sec    0    284 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.63 MBytes  13.6 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec  1.15 MBytes  9.67 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37694 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.59 MBytes  13.3 Mbits/sec    0    152 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.59 MBytes  13.3 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec  1.35 MBytes  11.4 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37700 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.53 MBytes  12.8 Mbits/sec    0    141 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.53 MBytes  12.8 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec  1.34 MBytes  11.3 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37808 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.25 MBytes  10.5 Mbits/sec    0    170 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.25 MBytes  10.5 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec   735 KBytes  6.02 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37814 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.31 MBytes  11.0 Mbits/sec    0    199 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.31 MBytes  11.0 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec   988 KBytes  8.09 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37820 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.11 MBytes  9.29 Mbits/sec    0    137 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.11 MBytes  9.29 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec   951 KBytes  7.79 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37826 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.78 MBytes  15.0 Mbits/sec    0    288 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.78 MBytes  15.0 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec  1.12 MBytes  9.41 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37832 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.23 MBytes  10.3 Mbits/sec    0    181 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.23 MBytes  10.3 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec   969 KBytes  7.93 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37838 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   494 KBytes  4.04 Mbits/sec    1    110 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec   494 KBytes  4.04 Mbits/sec    1             sender
+[  5]   0.00-1.00   sec   295 KBytes  2.42 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37844 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1010 KBytes  8.27 Mbits/sec    0    131 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1010 KBytes  8.27 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec   894 KBytes  7.32 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37862 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.59 MBytes  13.3 Mbits/sec    0    372 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.59 MBytes  13.3 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec  1.02 MBytes  8.54 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37868 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.16 MBytes  9.71 Mbits/sec    0    233 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.16 MBytes  9.71 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec   755 KBytes  6.19 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37874 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   750 KBytes  6.14 Mbits/sec    0    137 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec   750 KBytes  6.14 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec   491 KBytes  4.02 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37880 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.08 MBytes  9.07 Mbits/sec    0    162 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.08 MBytes  9.07 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec   892 KBytes  7.31 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37886 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.17 MBytes  9.84 Mbits/sec    0    254 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.17 MBytes  9.84 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec   794 KBytes  6.50 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+iperf3: interrupt - the client has terminated
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37914 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.72 MBytes  14.4 Mbits/sec    0    182 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.72 MBytes  14.4 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec  1.43 MBytes  12.0 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37920 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.44 MBytes  12.1 Mbits/sec    0    118 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.44 MBytes  12.1 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec  1.18 MBytes  9.91 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37926 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.47 MBytes  12.3 Mbits/sec    0    137 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.47 MBytes  12.3 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec  1.19 MBytes  10.0 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37932 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.47 MBytes  12.3 Mbits/sec    0    141 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.47 MBytes  12.3 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec  1.18 MBytes  9.91 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37938 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.47 MBytes  12.3 Mbits/sec    0    118 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.47 MBytes  12.3 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec  1.10 MBytes  9.26 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37944 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.65 MBytes  13.8 Mbits/sec    0    165 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.65 MBytes  13.8 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec  1.31 MBytes  11.0 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37950 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.47 MBytes  12.3 Mbits/sec    0    137 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.47 MBytes  12.3 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec  1.23 MBytes  10.3 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37956 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.50 MBytes  12.5 Mbits/sec    0    138 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.50 MBytes  12.5 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec  1.25 MBytes  10.5 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37962 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.78 MBytes  14.9 Mbits/sec    1    192 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.78 MBytes  14.9 Mbits/sec    1             sender
+[  5]   0.00-1.00   sec  1.39 MBytes  11.6 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37968 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.21 MBytes  10.1 Mbits/sec    0   93.9 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.21 MBytes  10.1 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec  1.04 MBytes  8.71 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37974 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.24 MBytes  10.4 Mbits/sec    0    102 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.24 MBytes  10.4 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec  1.07 MBytes  9.00 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37986 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.07 MBytes  8.93 Mbits/sec    0    123 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.07 MBytes  8.93 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec   837 KBytes  6.86 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37992 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.84 MBytes  15.4 Mbits/sec    0    172 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.84 MBytes  15.4 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec  1.39 MBytes  11.6 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 37998 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.26 MBytes  10.6 Mbits/sec    0   98.0 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.26 MBytes  10.6 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec  1.14 MBytes  9.55 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 38004 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.65 MBytes  13.8 Mbits/sec    0    152 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.65 MBytes  13.8 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec  1.23 MBytes  10.3 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 38010 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.40 MBytes  11.8 Mbits/sec    0    133 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.40 MBytes  11.8 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec  1.17 MBytes  9.81 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 38016 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.63 MBytes  13.7 Mbits/sec    0    172 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.63 MBytes  13.7 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec  1.40 MBytes  11.7 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 38022 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.24 MBytes  10.4 Mbits/sec    0   93.9 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.24 MBytes  10.4 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec  1.01 MBytes  8.51 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 38028 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.49 MBytes  12.5 Mbits/sec    0    130 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.49 MBytes  12.5 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec  1.24 MBytes  10.4 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 38034 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.27 MBytes  10.6 Mbits/sec    0    102 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.27 MBytes  10.6 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec  1.17 MBytes  9.80 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 38040 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.04 MBytes  8.70 Mbits/sec    0    118 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.04 MBytes  8.70 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec   802 KBytes  6.57 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 38046 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.11 MBytes  9.29 Mbits/sec    0    118 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.11 MBytes  9.29 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec   981 KBytes  8.03 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 38052 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.21 MBytes  10.2 Mbits/sec    0   92.6 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.21 MBytes  10.2 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec  1.04 MBytes  8.69 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 38058 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   747 KBytes  6.12 Mbits/sec    0    105 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec   747 KBytes  6.12 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec   573 KBytes  4.69 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 38064 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.46 MBytes  12.2 Mbits/sec    0    123 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.46 MBytes  12.2 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec  1.23 MBytes  10.3 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 38070 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   589 KBytes  4.82 Mbits/sec    0    131 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec   589 KBytes  4.82 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec   421 KBytes  3.45 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 38076 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.16 MBytes  9.76 Mbits/sec    0    122 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.16 MBytes  9.76 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec   836 KBytes  6.85 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 38082 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.29 MBytes  10.8 Mbits/sec    0   98.0 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.29 MBytes  10.8 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec  1.17 MBytes  9.80 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 38088 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.78 MBytes  14.9 Mbits/sec    0    174 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.78 MBytes  14.9 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec  1.34 MBytes  11.2 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 38094 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.59 MBytes  13.4 Mbits/sec    0    141 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.59 MBytes  13.4 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec  1.27 MBytes  10.6 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 38100 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.55 MBytes  13.0 Mbits/sec    0    141 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.55 MBytes  13.0 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec  1.21 MBytes  10.2 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 38106 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.20 MBytes  10.0 Mbits/sec    0   98.0 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.20 MBytes  10.0 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec  1.01 MBytes  8.45 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 38112 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   978 KBytes  8.01 Mbits/sec    0   85.9 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec   978 KBytes  8.01 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec   780 KBytes  6.38 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 38118 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   970 KBytes  7.95 Mbits/sec    0   84.5 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec   970 KBytes  7.95 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec   841 KBytes  6.89 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 38124 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   900 KBytes  7.37 Mbits/sec    1   49.6 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec   900 KBytes  7.37 Mbits/sec    1             sender
+[  5]   0.00-1.00   sec   797 KBytes  6.53 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 38130 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.36 MBytes  11.4 Mbits/sec    0    117 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.36 MBytes  11.4 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec  1.15 MBytes  9.68 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 38136 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.35 MBytes  11.3 Mbits/sec    8   88.6 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.35 MBytes  11.3 Mbits/sec    8             sender
+[  5]   0.00-1.00   sec  1.13 MBytes  9.50 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 38208 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   916 KBytes  7.51 Mbits/sec    0   83.2 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec   916 KBytes  7.51 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec   823 KBytes  6.74 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 38214 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.28 MBytes  10.7 Mbits/sec    0    131 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.28 MBytes  10.7 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec  1.15 MBytes  9.60 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 5201
+[  5] local 192.168.7.171 port 38220 connected to 172.26.211.223 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.48 MBytes  12.4 Mbits/sec    0    140 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec  1.48 MBytes  12.4 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec  1.24 MBytes  10.4 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Connection refused
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - unable to receive control message: Connection reset by peer
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - unable to receive control message: Connection reset by peer
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+Connecting to host iperf.scottlinux.com, port 5201
+[  5] local 192.168.7.171 port 60522 connected to 45.33.39.39 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.74 MBytes  14.6 Mbits/sec    4    216 KBytes       
+[  5]   1.00-2.00   sec  1.53 MBytes  12.9 Mbits/sec    0    256 KBytes       
+[  5]   2.00-3.00   sec  1.23 MBytes  10.3 Mbits/sec    0    283 KBytes       
+[  5]   3.00-4.00   sec  1.59 MBytes  13.4 Mbits/sec    0    298 KBytes       
+[  5]   4.00-5.00   sec  1.59 MBytes  13.4 Mbits/sec    0    303 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  7.69 MBytes  12.9 Mbits/sec    4             sender
+[  5]   0.00-5.11   sec  6.94 MBytes  11.4 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host iperf.scottlinux.com, port 5201
+[  5] local 192.168.7.171 port 60526 connected to 45.33.39.39 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.99 MBytes  16.7 Mbits/sec    0    342 KBytes       
+[  5]   1.00-2.00   sec  1.72 MBytes  14.4 Mbits/sec    0    369 KBytes       
+[  5]   2.00-3.00   sec  1.35 MBytes  11.3 Mbits/sec    8    258 KBytes       
+[  5]   3.00-4.00   sec  1.53 MBytes  12.9 Mbits/sec    1    206 KBytes       
+[  5]   4.00-5.00   sec  1.72 MBytes  14.4 Mbits/sec    0    228 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  8.30 MBytes  13.9 Mbits/sec    9             sender
+[  5]   0.00-5.10   sec  7.40 MBytes  12.2 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to receive control message: Connection reset by peer
+iperf3: error - the server is busy running a test. try again later
+Connecting to host iperf.scottlinux.com, port 5201
+[  5] local 192.168.7.171 port 60534 connected to 45.33.39.39 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.69 MBytes  14.2 Mbits/sec    0    275 KBytes       
+[  5]   1.00-2.00   sec  1.72 MBytes  14.4 Mbits/sec    0    310 KBytes       
+[  5]   2.00-3.00   sec  1.90 MBytes  15.9 Mbits/sec    0    318 KBytes       
+[  5]   3.00-4.00   sec  1.53 MBytes  12.9 Mbits/sec    0    318 KBytes       
+[  5]   4.00-5.00   sec  1.84 MBytes  15.4 Mbits/sec    0    337 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  8.68 MBytes  14.6 Mbits/sec    0             sender
+[  5]   0.00-5.11   sec  7.86 MBytes  12.9 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host iperf.scottlinux.com, port 5201
+[  5] local 192.168.7.171 port 60538 connected to 45.33.39.39 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  2.30 MBytes  19.3 Mbits/sec    0    449 KBytes       
+[  5]   1.00-2.00   sec  1.47 MBytes  12.3 Mbits/sec    0    449 KBytes       
+[  5]   2.00-3.00   sec  1.53 MBytes  12.9 Mbits/sec   11    164 KBytes       
+[  5]   3.00-4.00   sec  1.59 MBytes  13.4 Mbits/sec    0    319 KBytes       
+[  5]   4.00-5.00   sec  2.08 MBytes  17.5 Mbits/sec    0    319 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  8.99 MBytes  15.1 Mbits/sec   11             sender
+[  5]   0.00-5.10   sec  7.83 MBytes  12.9 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host iperf.scottlinux.com, port 5201
+[  5] local 192.168.7.171 port 60542 connected to 45.33.39.39 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.90 MBytes  15.9 Mbits/sec    0    299 KBytes       
+[  5]   1.00-2.00   sec  1.90 MBytes  15.9 Mbits/sec    0    343 KBytes       
+[  5]   2.00-3.00   sec  1.72 MBytes  14.4 Mbits/sec    0    370 KBytes       
+[  5]   3.00-4.00   sec  1.72 MBytes  14.4 Mbits/sec    0    370 KBytes       
+[  5]   4.00-5.00   sec  1.29 MBytes  10.8 Mbits/sec    0    370 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  8.52 MBytes  14.3 Mbits/sec    0             sender
+[  5]   0.00-5.12   sec  7.83 MBytes  12.8 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host iperf.scottlinux.com, port 5201
+[  5] local 192.168.7.171 port 60546 connected to 45.33.39.39 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.54 MBytes  12.9 Mbits/sec    0    180 KBytes       
+[  5]   1.00-2.00   sec  1.66 MBytes  13.9 Mbits/sec    0    256 KBytes       
+[  5]   2.00-3.00   sec  1.59 MBytes  13.4 Mbits/sec    0    271 KBytes       
+[  5]   3.00-4.00   sec  1.96 MBytes  16.5 Mbits/sec    0    293 KBytes       
+[  5]   4.00-5.00   sec  1.90 MBytes  15.9 Mbits/sec    0    318 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  8.65 MBytes  14.5 Mbits/sec    0             sender
+[  5]   0.00-5.11   sec  7.83 MBytes  12.9 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - the server is busy running a test. try again later
+iperf3: interrupt - the client has terminated
+Connecting to host iperf.biznetnetworks.com, port 5201
+[  5] local 192.168.7.171 port 51110 connected to 117.102.109.186 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   415 KBytes  3.40 Mbits/sec    0    102 KBytes       
+[  5]   1.00-2.00   sec  1.36 MBytes  11.4 Mbits/sec    0    513 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-2.00   sec  1.77 MBytes  7.41 Mbits/sec    0             sender
+[  5]   0.00-2.00   sec  0.00 Bytes  0.00 bits/sec                  receiver
+iperf3: interrupt - the client has terminated
+Connecting to host iperf.biznetnetworks.com, port 5201
+[  5] local 192.168.7.171 port 51114 connected to 117.102.109.186 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-0.52   sec  93.5 KBytes  1.46 Mbits/sec    0   26.7 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-0.52   sec  93.5 KBytes  1.46 Mbits/sec    0             sender
+[  5]   0.00-0.52   sec  0.00 Bytes  0.00 bits/sec                  receiver
+iperf3: interrupt - the client has terminated
+Connecting to host iperf.biznetnetworks.com, port 5201
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+Connecting to host ec2-18-210-17-65.compute-1.amazonaws.com, port 5201
+[  5] local 192.168.7.171 port 53692 connected to 18.210.17.65 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   585 KBytes  4.79 Mbits/sec    1   45.4 KBytes       
+[  5]   1.00-2.00   sec   541 KBytes  4.43 Mbits/sec    0   45.4 KBytes       
+[  5]   2.00-3.00   sec   433 KBytes  3.55 Mbits/sec    0   45.4 KBytes       
+[  5]   3.00-4.00   sec   469 KBytes  3.84 Mbits/sec    2   30.7 KBytes       
+[  5]   4.00-5.00   sec   493 KBytes  4.04 Mbits/sec    1   30.7 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  2.46 MBytes  4.13 Mbits/sec    4             sender
+[  5]   0.00-5.00   sec  2.36 MBytes  3.95 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host ec2-18-210-17-65.compute-1.amazonaws.com, port 5201
+[  5] local 192.168.7.171 port 53700 connected to 18.210.17.65 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   657 KBytes  5.38 Mbits/sec    0   45.4 KBytes       
+[  5]   1.00-2.00   sec   589 KBytes  4.83 Mbits/sec    0   45.4 KBytes       
+[  5]   2.00-3.00   sec   445 KBytes  3.64 Mbits/sec    3   30.7 KBytes       
+[  5]   3.00-4.00   sec   589 KBytes  4.82 Mbits/sec    0   30.7 KBytes       
+[  5]   4.00-5.00   sec   541 KBytes  4.43 Mbits/sec    0   30.7 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  2.76 MBytes  4.62 Mbits/sec    3             sender
+[  5]   0.00-5.00   sec  2.68 MBytes  4.50 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host ec2-18-210-17-65.compute-1.amazonaws.com, port 5201
+[  5] local 192.168.7.171 port 53704 connected to 18.210.17.65 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   597 KBytes  4.89 Mbits/sec    0   45.4 KBytes       
+[  5]   1.00-2.00   sec   541 KBytes  4.43 Mbits/sec    0   45.4 KBytes       
+[  5]   2.00-3.00   sec   445 KBytes  3.64 Mbits/sec    1   45.4 KBytes       
+[  5]   3.00-4.00   sec   541 KBytes  4.43 Mbits/sec    0   45.4 KBytes       
+[  5]   4.00-5.00   sec   457 KBytes  3.74 Mbits/sec    1   45.4 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  2.52 MBytes  4.23 Mbits/sec    2             sender
+[  5]   0.00-5.00   sec  2.41 MBytes  4.05 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host ec2-18-210-17-65.compute-1.amazonaws.com, port 5201
+[  5] local 192.168.7.171 port 53712 connected to 18.210.17.65 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   574 KBytes  4.70 Mbits/sec    1   46.8 KBytes       
+[  5]   1.00-2.00   sec   493 KBytes  4.04 Mbits/sec    9   32.1 KBytes       
+[  5]   2.00-3.00   sec   529 KBytes  4.33 Mbits/sec    0   32.1 KBytes       
+[  5]   3.00-4.00   sec   565 KBytes  4.63 Mbits/sec    0   32.1 KBytes       
+[  5]   4.00-5.00   sec   421 KBytes  3.45 Mbits/sec    1   22.7 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  2.52 MBytes  4.23 Mbits/sec   11             sender
+[  5]   0.00-5.00   sec  2.45 MBytes  4.12 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host ec2-18-210-17-65.compute-1.amazonaws.com, port 5201
+[  5] local 192.168.7.171 port 53716 connected to 18.210.17.65 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   585 KBytes  4.79 Mbits/sec    1   46.8 KBytes       
+[  5]   1.00-2.00   sec   577 KBytes  4.73 Mbits/sec    0   46.8 KBytes       
+[  5]   2.00-3.00   sec   565 KBytes  4.63 Mbits/sec    0   46.8 KBytes       
+[  5]   3.00-4.00   sec   613 KBytes  5.02 Mbits/sec    0   46.8 KBytes       
+[  5]   4.00-5.00   sec   517 KBytes  4.23 Mbits/sec    0   46.8 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  2.79 MBytes  4.68 Mbits/sec    1             sender
+[  5]   0.00-5.00   sec  2.71 MBytes  4.54 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host ec2-18-210-17-65.compute-1.amazonaws.com, port 5201
+[  5] local 192.168.7.171 port 53720 connected to 18.210.17.65 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   649 KBytes  5.32 Mbits/sec    0   46.8 KBytes       
+[  5]   1.00-2.00   sec   553 KBytes  4.53 Mbits/sec    0   46.8 KBytes       
+[  5]   2.00-3.00   sec   613 KBytes  5.02 Mbits/sec    0   46.8 KBytes       
+[  5]   3.00-4.00   sec   565 KBytes  4.63 Mbits/sec    0   46.8 KBytes       
+[  5]   4.00-5.00   sec   385 KBytes  3.15 Mbits/sec    1   46.8 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  2.70 MBytes  4.53 Mbits/sec    1             sender
+[  5]   0.00-5.00   sec  2.62 MBytes  4.40 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host ec2-18-210-17-65.compute-1.amazonaws.com, port 5201
+[  5] local 192.168.7.171 port 53724 connected to 18.210.17.65 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   633 KBytes  5.19 Mbits/sec    0   45.4 KBytes       
+[  5]   1.00-2.00   sec   565 KBytes  4.63 Mbits/sec    0   45.4 KBytes       
+[  5]   2.00-3.00   sec   469 KBytes  3.84 Mbits/sec    0   45.4 KBytes       
+[  5]   3.00-4.00   sec   457 KBytes  3.74 Mbits/sec    1   45.4 KBytes       
+[  5]   4.00-5.00   sec   577 KBytes  4.73 Mbits/sec    0   45.4 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  2.64 MBytes  4.43 Mbits/sec    1             sender
+[  5]   0.00-5.00   sec  2.57 MBytes  4.32 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host ec2-18-210-17-65.compute-1.amazonaws.com, port 5201
+[  5] local 192.168.7.171 port 53728 connected to 18.210.17.65 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   489 KBytes  4.00 Mbits/sec    2   33.4 KBytes       
+[  5]   1.00-2.00   sec   433 KBytes  3.55 Mbits/sec    1   33.4 KBytes       
+[  5]   2.00-3.00   sec   541 KBytes  4.43 Mbits/sec    0   33.4 KBytes       
+[  5]   3.00-4.00   sec   481 KBytes  3.94 Mbits/sec    4   24.0 KBytes       
+[  5]   4.00-5.00   sec   361 KBytes  2.95 Mbits/sec    0   24.0 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  2.25 MBytes  3.78 Mbits/sec    7             sender
+[  5]   0.00-5.00   sec  2.15 MBytes  3.61 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host ec2-18-210-17-65.compute-1.amazonaws.com, port 5201
+[  5] local 192.168.7.171 port 53732 connected to 18.210.17.65 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   669 KBytes  5.48 Mbits/sec    0   49.4 KBytes       
+[  5]   1.00-2.00   sec   601 KBytes  4.92 Mbits/sec    0   49.4 KBytes       
+[  5]   2.00-3.00   sec   481 KBytes  3.94 Mbits/sec    1   49.4 KBytes       
+[  5]   3.00-4.00   sec   481 KBytes  3.94 Mbits/sec    1   33.4 KBytes       
+[  5]   4.00-5.00   sec   541 KBytes  4.43 Mbits/sec    0   33.4 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  2.71 MBytes  4.54 Mbits/sec    2             sender
+[  5]   0.00-5.00   sec  2.60 MBytes  4.37 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host ec2-18-210-17-65.compute-1.amazonaws.com, port 5201
+[  5] local 192.168.7.171 port 53736 connected to 18.210.17.65 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   429 KBytes  3.51 Mbits/sec    0   45.4 KBytes       
+[  5]   1.00-2.00   sec   240 KBytes  1.97 Mbits/sec    1   45.4 KBytes       
+[  5]   2.00-3.00   sec   445 KBytes  3.64 Mbits/sec    1   45.4 KBytes       
+[  5]   3.00-4.00   sec   252 KBytes  2.07 Mbits/sec    0   45.4 KBytes       
+[  5]   4.00-5.00   sec   577 KBytes  4.73 Mbits/sec    0   45.4 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  1.90 MBytes  3.18 Mbits/sec    2             sender
+[  5]   0.00-5.00   sec  1.80 MBytes  3.03 Mbits/sec                  receiver
+
+iperf Done.
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - the server is busy running a test. try again later
+iperf3: error - unable to connect to server: Connection refused
