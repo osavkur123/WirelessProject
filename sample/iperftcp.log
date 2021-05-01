@@ -1,0 +1,790 @@
+Fri Apr 30 17:43:15 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 17:43:22 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 17:43:29 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 17:43:36 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 17:43:43 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 17:43:50 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 17:43:57 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 17:44:04 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 17:44:11 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 17:44:18 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 17:44:25 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 17:44:32 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 17:44:39 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 17:44:46 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 17:44:53 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 17:45:00 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 17:45:07 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 17:45:14 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 17:45:21 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 17:45:28 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 17:45:35 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 17:45:42 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 17:45:49 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 17:45:56 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6003
+[  5] local 192.168.7.92 port 33498 connected to 172.26.211.223 port 6003
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   178 KBytes  1.46 Mbits/sec    6   22.8 KBytes       
+[  5]   1.00-2.00   sec  89.9 KBytes   736 Kbits/sec    3   17.4 KBytes       
+[  5]   2.00-3.00   sec  0.00 Bytes  0.00 bits/sec   12   1.34 KBytes       
+[  5]   3.00-4.00   sec   136 KBytes  1.11 Mbits/sec    7   12.1 KBytes       
+[  5]   4.00-5.00   sec   153 KBytes  1.25 Mbits/sec    2   14.8 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   557 KBytes   912 Kbits/sec   30             sender
+[  5]   0.00-5.00   sec   439 KBytes   719 Kbits/sec                  receiver
+
+iperf Done.
+Fri Apr 30 17:46:03 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6003
+[  5] local 192.168.7.92 port 33502 connected to 172.26.211.223 port 6003
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   166 KBytes  1.36 Mbits/sec    8   12.1 KBytes       
+[  5]   1.00-2.00   sec   114 KBytes   934 Kbits/sec    5   13.4 KBytes       
+[  5]   2.00-3.00   sec  89.9 KBytes   736 Kbits/sec    0   17.4 KBytes       
+[  5]   3.00-4.00   sec  38.9 KBytes   319 Kbits/sec    0   20.1 KBytes       
+[  5]   4.00-5.00   sec   107 KBytes   879 Kbits/sec    7   14.8 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   517 KBytes   846 Kbits/sec   20             sender
+[  5]   0.00-5.00   sec   464 KBytes   761 Kbits/sec                  receiver
+
+iperf Done.
+Fri Apr 30 17:46:10 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6003
+[  5] local 192.168.7.92 port 33506 connected to 172.26.211.223 port 6003
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   114 KBytes   934 Kbits/sec    3   12.1 KBytes       
+[  5]   1.00-2.00   sec  88.6 KBytes   726 Kbits/sec    0   14.8 KBytes       
+[  5]   2.00-3.00   sec  47.0 KBytes   385 Kbits/sec    0   16.1 KBytes       
+[  5]   3.00-4.00   sec  52.3 KBytes   429 Kbits/sec    0   18.8 KBytes       
+[  5]   4.00-5.00   sec  55.0 KBytes   451 Kbits/sec    0   21.5 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   357 KBytes   585 Kbits/sec    3             sender
+[  5]   0.00-5.00   sec   341 KBytes   558 Kbits/sec                  receiver
+
+iperf Done.
+Fri Apr 30 17:46:17 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6003
+[  5] local 192.168.7.92 port 33510 connected to 172.26.211.223 port 6003
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   117 KBytes   956 Kbits/sec    1   17.4 KBytes       
+[  5]   1.00-2.00   sec  38.9 KBytes   319 Kbits/sec    1   13.4 KBytes       
+[  5]   2.00-3.00   sec  40.3 KBytes   330 Kbits/sec    0   14.8 KBytes       
+[  5]   3.00-4.00   sec  83.2 KBytes   682 Kbits/sec    2   9.39 KBytes       
+[  5]   4.00-5.00   sec  91.2 KBytes   748 Kbits/sec    0   17.4 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   370 KBytes   607 Kbits/sec    4             sender
+[  5]   0.00-5.00   sec   329 KBytes   539 Kbits/sec                  receiver
+
+iperf Done.
+Fri Apr 30 17:46:24 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6003
+[  5] local 192.168.7.92 port 33514 connected to 172.26.211.223 port 6003
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   268 KBytes  2.20 Mbits/sec    0   59.0 KBytes       
+[  5]   1.00-2.00   sec   211 KBytes  1.73 Mbits/sec   20   29.5 KBytes       
+[  5]   2.00-3134.24 sec   126 KBytes   330 bits/sec   18   14.8 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-3134.24 sec   605 KBytes  1.58 Kbits/sec   38             sender
+[  5]   0.00-3134.24 sec   382 KBytes  1000 bits/sec                  receiver
+
+iperf Done.
+Fri Apr 30 18:38:43 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6003
+[  5] local 192.168.7.92 port 33518 connected to 172.26.211.223 port 6003
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   563 KBytes  4.61 Mbits/sec   10   63.1 KBytes       
+[  5]   1.00-2.00   sec   126 KBytes  1.03 Mbits/sec   22   30.9 KBytes       
+[  5]   2.00-3.00   sec  0.00 Bytes  0.00 bits/sec    9   14.8 KBytes       
+[  5]   3.00-4.00   sec   252 KBytes  2.07 Mbits/sec    2   17.4 KBytes       
+[  5]   4.00-5.00   sec   126 KBytes  1.03 Mbits/sec   14   9.39 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  1.04 MBytes  1.75 Mbits/sec   57             sender
+[  5]   0.00-5.00   sec   775 KBytes  1.27 Mbits/sec                  receiver
+
+iperf Done.
+Fri Apr 30 18:38:50 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6003
+[  5] local 192.168.7.92 port 33522 connected to 172.26.211.223 port 6003
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   176 KBytes  1.44 Mbits/sec   15   10.7 KBytes       
+[  5]   1.00-2.00   sec   137 KBytes  1.12 Mbits/sec   15   12.1 KBytes       
+[  5]   2.00-3.00   sec   138 KBytes  1.13 Mbits/sec   10   10.7 KBytes       
+[  5]   3.00-4.00   sec   129 KBytes  1.06 Mbits/sec    7   6.71 KBytes       
+[  5]   4.00-5.00   sec   201 KBytes  1.65 Mbits/sec    5   14.8 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   781 KBytes  1.28 Mbits/sec   52             sender
+[  5]   0.00-5.00   sec   645 KBytes  1.06 Mbits/sec                  receiver
+
+iperf Done.
+Fri Apr 30 18:38:57 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6003
+[  5] local 192.168.7.92 port 33526 connected to 172.26.211.223 port 6003
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   178 KBytes  1.46 Mbits/sec   15   14.8 KBytes       
+[  5]   1.00-2.00   sec  65.7 KBytes   538 Kbits/sec    6   6.71 KBytes       
+[  5]   2.00-3.00   sec  63.1 KBytes   517 Kbits/sec    7   6.71 KBytes       
+[  5]   3.00-4.00   sec  0.00 Bytes  0.00 bits/sec    1   1.34 KBytes       
+[  5]   4.00-5.00   sec   126 KBytes  1.03 Mbits/sec    4   1.34 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   433 KBytes   710 Kbits/sec   33             sender
+[  5]   0.00-5.00   sec   313 KBytes   512 Kbits/sec                  receiver
+
+iperf Done.
+Fri Apr 30 18:39:04 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6003
+[  5] local 192.168.7.92 port 33530 connected to 172.26.211.223 port 6003
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   197 KBytes  1.61 Mbits/sec   10   9.39 KBytes       
+[  5]   1.00-2.00   sec   160 KBytes  1.31 Mbits/sec    9   10.7 KBytes       
+[  5]   2.00-3.00   sec   166 KBytes  1.36 Mbits/sec    0   18.8 KBytes       
+[  5]   3.00-4.00   sec  0.00 Bytes  0.00 bits/sec    2   8.05 KBytes       
+[  5]   4.00-5.00   sec  83.2 KBytes   682 Kbits/sec    2   16.1 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   606 KBytes   994 Kbits/sec   23             sender
+[  5]   0.00-5.00   sec   506 KBytes   829 Kbits/sec                  receiver
+
+iperf Done.
+Fri Apr 30 18:39:11 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6003
+[  5] local 192.168.7.92 port 33534 connected to 172.26.211.223 port 6003
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   319 KBytes  2.61 Mbits/sec   15   48.3 KBytes       
+[  5]   1.00-2.00   sec   189 KBytes  1.55 Mbits/sec    3   34.9 KBytes       
+[  5]   2.00-3.00   sec   126 KBytes  1.03 Mbits/sec   15   14.8 KBytes       
+[  5]   3.00-4.00   sec   126 KBytes  1.03 Mbits/sec    3   22.8 KBytes       
+[  5]   4.00-5.00   sec  0.00 Bytes  0.00 bits/sec   13   8.05 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   761 KBytes  1.25 Mbits/sec   49             sender
+[  5]   0.00-5.00   sec   560 KBytes   917 Kbits/sec                  receiver
+
+iperf Done.
+Fri Apr 30 18:39:18 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6003
+[  5] local 192.168.7.92 port 33538 connected to 172.26.211.223 port 6003
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   344 KBytes  2.81 Mbits/sec    9   34.9 KBytes       
+[  5]   1.00-2.00   sec  0.00 Bytes  0.00 bits/sec   13   25.5 KBytes       
+[  5]   2.00-3.00   sec  0.00 Bytes  0.00 bits/sec   17   25.5 KBytes       
+[  5]   3.00-4.00   sec  63.1 KBytes   517 Kbits/sec    5   14.8 KBytes       
+[  5]   4.00-5.00   sec   189 KBytes  1.55 Mbits/sec    1   16.1 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   596 KBytes   976 Kbits/sec   45             sender
+[  5]   0.00-5.00   sec   470 KBytes   769 Kbits/sec                  receiver
+
+iperf Done.
+Fri Apr 30 18:39:25 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6003
+[  5] local 192.168.7.92 port 33542 connected to 172.26.211.223 port 6003
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   180 KBytes  1.47 Mbits/sec    0   49.6 KBytes       
+[  5]   1.00-2.00   sec  91.2 KBytes   748 Kbits/sec   13   24.2 KBytes       
+[  5]   2.00-3.00   sec   157 KBytes  1.29 Mbits/sec    4   18.8 KBytes       
+[  5]   3.00-4.00   sec  63.1 KBytes   517 Kbits/sec    0   20.1 KBytes       
+[  5]   4.00-5.00   sec  63.1 KBytes   517 Kbits/sec   15   10.7 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   554 KBytes   908 Kbits/sec   32             sender
+[  5]   0.00-5.00   sec   420 KBytes   688 Kbits/sec                  receiver
+
+iperf Done.
+Fri Apr 30 18:39:32 2021
+Fri Apr 30 18:39:39 2021
+Fri Apr 30 18:39:46 2021
+Fri Apr 30 18:39:53 2021
+Fri Apr 30 18:40:00 2021
+Fri Apr 30 18:40:07 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 18:40:14 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 18:40:21 2021
+Fri Apr 30 18:40:28 2021
+Fri Apr 30 18:40:35 2021
+Fri Apr 30 18:40:42 2021
+Fri Apr 30 18:40:49 2021
+Fri Apr 30 18:40:56 2021
+Fri Apr 30 18:41:03 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 18:41:10 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 18:41:17 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6001
+[  5] local 192.168.7.92 port 57678 connected to 172.26.211.223 port 6001
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  76.5 KBytes   626 Kbits/sec    2   12.1 KBytes       
+[  5]   1.00-2.00   sec  0.00 Bytes  0.00 bits/sec    2   5.37 KBytes       
+[  5]   2.00-3.00   sec  42.9 KBytes   352 Kbits/sec    4   2.68 KBytes       
+[  5]   3.00-4.00   sec  38.9 KBytes   319 Kbits/sec    2   4.03 KBytes       
+[  5]   4.00-5.00   sec  0.00 Bytes  0.00 bits/sec    1   5.37 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   158 KBytes   259 Kbits/sec   11             sender
+[  5]   0.00-5.00   sec   122 KBytes   200 Kbits/sec                  receiver
+
+iperf Done.
+Fri Apr 30 18:41:24 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6001
+[  5] local 192.168.7.92 port 57682 connected to 172.26.211.223 port 6001
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  76.5 KBytes   626 Kbits/sec    2   2.68 KBytes       
+[  5]   1.00-2.00   sec  0.00 Bytes  0.00 bits/sec    0   10.7 KBytes       
+[  5]   2.00-3.00   sec  0.00 Bytes  0.00 bits/sec    4   6.71 KBytes       
+[  5]   3.00-4.00   sec  61.7 KBytes   506 Kbits/sec    2   2.68 KBytes       
+[  5]   4.00-5.00   sec  0.00 Bytes  0.00 bits/sec    0   2.68 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   138 KBytes   226 Kbits/sec    8             sender
+[  5]   0.00-5.00   sec  79.2 KBytes   130 Kbits/sec                  receiver
+
+iperf Done.
+Fri Apr 30 18:41:31 2021
+Fri Apr 30 18:41:38 2021
+Fri Apr 30 18:41:45 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 18:41:52 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6002
+[  5] local 192.168.7.92 port 55950 connected to 172.26.211.223 port 6002
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   157 KBytes  1.29 Mbits/sec   12   6.71 KBytes       
+[  5]   1.00-2.00   sec  37.6 KBytes   308 Kbits/sec   11   5.37 KBytes       
+[  5]   2.00-3.00   sec   146 KBytes  1.20 Mbits/sec    7   8.05 KBytes       
+[  5]   3.00-4.00   sec  0.00 Bytes  0.00 bits/sec    6   6.71 KBytes       
+[  5]   4.00-5.00   sec  40.3 KBytes   330 Kbits/sec    3   4.03 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   381 KBytes   624 Kbits/sec   39             sender
+[  5]   0.00-5.00   sec   317 KBytes   519 Kbits/sec                  receiver
+
+iperf Done.
+Fri Apr 30 18:41:59 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6002
+[  5] local 192.168.7.92 port 55954 connected to 172.26.211.223 port 6002
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   133 KBytes  1.09 Mbits/sec   11   22.8 KBytes       
+[  5]   1.00-2.00   sec  55.0 KBytes   451 Kbits/sec    4   17.4 KBytes       
+[  5]   2.00-3.00   sec   133 KBytes  1.09 Mbits/sec    8   6.71 KBytes       
+[  5]   3.00-4.00   sec  83.2 KBytes   682 Kbits/sec    6   4.03 KBytes       
+[  5]   4.00-5.00   sec  36.2 KBytes   297 Kbits/sec    2   6.71 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   440 KBytes   721 Kbits/sec   31             sender
+[  5]   0.00-5.00   sec   376 KBytes   616 Kbits/sec                  receiver
+
+iperf Done.
+Fri Apr 30 18:42:06 2021
+Fri Apr 30 18:42:13 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6002
+[  5] local 192.168.7.92 port 55962 connected to 172.26.211.223 port 6002
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   118 KBytes   967 Kbits/sec   13   6.71 KBytes       
+[  5]   1.00-2.00   sec   176 KBytes  1.44 Mbits/sec   10   4.03 KBytes       
+[  5]   2.00-3.00   sec  87.2 KBytes   714 Kbits/sec    6   5.37 KBytes       
+[  5]   3.00-4.00   sec   185 KBytes  1.52 Mbits/sec    6   8.05 KBytes       
+[  5]   4.00-5.00   sec   142 KBytes  1.16 Mbits/sec    6   6.71 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   708 KBytes  1.16 Mbits/sec   41             sender
+[  5]   0.00-5.00   sec   675 KBytes  1.11 Mbits/sec                  receiver
+
+iperf Done.
+Fri Apr 30 18:42:20 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6002
+[  5] local 192.168.7.92 port 55966 connected to 172.26.211.223 port 6002
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   123 KBytes  1.01 Mbits/sec    6   6.71 KBytes       
+[  5]   1.00-2.00   sec   115 KBytes   946 Kbits/sec    7   5.37 KBytes       
+[  5]   2.00-3.00   sec  77.8 KBytes   638 Kbits/sec    4   6.71 KBytes       
+[  5]   3.00-4.00   sec  79.2 KBytes   649 Kbits/sec    4   8.05 KBytes       
+[  5]   4.00-5.00   sec  93.9 KBytes   769 Kbits/sec    0   13.4 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   490 KBytes   802 Kbits/sec   21             sender
+[  5]   0.00-5.00   sec   429 KBytes   703 Kbits/sec                  receiver
+
+iperf Done.
+Fri Apr 30 18:42:27 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6002
+[  5] local 192.168.7.92 port 55970 connected to 172.26.211.223 port 6002
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   122 KBytes  1000 Kbits/sec    9   4.03 KBytes       
+[  5]   1.00-2.00   sec  80.5 KBytes   660 Kbits/sec   10   4.03 KBytes       
+[  5]   2.00-3.00   sec  0.00 Bytes  0.00 bits/sec    6   2.68 KBytes       
+[  5]   3.00-4.00   sec  37.6 KBytes   308 Kbits/sec    1   5.37 KBytes       
+[  5]   4.00-5.00   sec  41.6 KBytes   341 Kbits/sec    1   4.03 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   282 KBytes   462 Kbits/sec   27             sender
+[  5]   0.00-5.00   sec   248 KBytes   407 Kbits/sec                  receiver
+
+iperf Done.
+Fri Apr 30 18:42:34 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6002
+[  5] local 192.168.7.92 port 55974 connected to 172.26.211.223 port 6002
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   145 KBytes  1.19 Mbits/sec   13   6.71 KBytes       
+[  5]   1.00-2.00   sec  67.1 KBytes   549 Kbits/sec    5   4.03 KBytes       
+[  5]   2.00-3.00   sec  67.1 KBytes   549 Kbits/sec   12   1.34 KBytes       
+[  5]   3.00-4.00   sec  95.3 KBytes   781 Kbits/sec   14   6.71 KBytes       
+[  5]   4.00-5.00   sec   105 KBytes   857 Kbits/sec   13   6.71 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   479 KBytes   785 Kbits/sec   57             sender
+[  5]   0.00-5.00   sec   427 KBytes   699 Kbits/sec                  receiver
+
+iperf Done.
+Fri Apr 30 18:42:41 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6002
+[  5] local 192.168.7.92 port 55978 connected to 172.26.211.223 port 6002
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   177 KBytes  1.45 Mbits/sec   14   10.7 KBytes       
+[  5]   1.00-2.00   sec  69.8 KBytes   572 Kbits/sec    7   8.05 KBytes       
+[  5]   2.00-3.00   sec  63.1 KBytes   517 Kbits/sec    1   9.39 KBytes       
+[  5]   3.00-4.00   sec  64.4 KBytes   527 Kbits/sec   11   2.68 KBytes       
+[  5]   4.00-5.00   sec  63.1 KBytes   517 Kbits/sec   10   1.34 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   437 KBytes   717 Kbits/sec   43             sender
+[  5]   0.00-5.00   sec   310 KBytes   508 Kbits/sec                  receiver
+
+iperf Done.
+Fri Apr 30 18:42:48 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6002
+[  5] local 192.168.7.92 port 55982 connected to 172.26.211.223 port 6002
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   366 KBytes  3.00 Mbits/sec   15   26.8 KBytes       
+[  5]   1.00-2.00   sec  63.1 KBytes   517 Kbits/sec   20   8.05 KBytes       
+[  5]   2.00-3.00   sec   126 KBytes  1.03 Mbits/sec   16   6.71 KBytes       
+[  5]   3.00-4.00   sec   189 KBytes  1.55 Mbits/sec    7   8.05 KBytes       
+[  5]   4.00-5.00   sec   252 KBytes  2.07 Mbits/sec    5   20.1 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   997 KBytes  1.63 Mbits/sec   63             sender
+[  5]   0.00-5.00   sec   839 KBytes  1.37 Mbits/sec                  receiver
+
+iperf Done.
+Fri Apr 30 18:42:55 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6002
+[  5] local 192.168.7.92 port 55986 connected to 172.26.211.223 port 6002
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   248 KBytes  2.03 Mbits/sec    5   24.2 KBytes       
+[  5]   1.00-2.00   sec  79.2 KBytes   648 Kbits/sec   16   10.7 KBytes       
+[  5]   2.00-3.00   sec   131 KBytes  1.08 Mbits/sec   13   5.37 KBytes       
+[  5]   3.00-4.00   sec  67.1 KBytes   549 Kbits/sec    8   5.37 KBytes       
+[  5]   4.00-5.00   sec   136 KBytes  1.11 Mbits/sec    9   5.37 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   662 KBytes  1.08 Mbits/sec   51             sender
+[  5]   0.00-5.00   sec   568 KBytes   930 Kbits/sec                  receiver
+
+iperf Done.
+Fri Apr 30 18:43:02 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6002
+[  5] local 192.168.7.92 port 55990 connected to 172.26.211.223 port 6002
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   217 KBytes  1.78 Mbits/sec    0   45.6 KBytes       
+[  5]   1.00-2.00   sec  0.00 Bytes  0.00 bits/sec    1   45.6 KBytes       
+[  5]   2.00-3.00   sec  85.9 KBytes   704 Kbits/sec   14   10.7 KBytes       
+[  5]   3.00-4.00   sec  63.1 KBytes   516 Kbits/sec    6   6.71 KBytes       
+[  5]   4.00-5.00   sec  63.1 KBytes   517 Kbits/sec    4   8.05 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   429 KBytes   703 Kbits/sec   25             sender
+[  5]   0.00-5.00   sec   323 KBytes   530 Kbits/sec                  receiver
+
+iperf Done.
+Fri Apr 30 18:43:09 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6002
+[  5] local 192.168.7.92 port 55994 connected to 172.26.211.223 port 6002
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  76.5 KBytes   626 Kbits/sec   11   12.1 KBytes       
+[  5]   1.00-2.00   sec  44.3 KBytes   363 Kbits/sec    4   6.71 KBytes       
+[  5]   2.00-3.00   sec  72.5 KBytes   594 Kbits/sec    8   5.37 KBytes       
+[  5]   3.00-4.00   sec  69.8 KBytes   572 Kbits/sec    4   8.05 KBytes       
+[  5]   4.00-5.00   sec  76.5 KBytes   627 Kbits/sec    4   8.05 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   339 KBytes   556 Kbits/sec   31             sender
+[  5]   0.00-5.00   sec   283 KBytes   464 Kbits/sec                  receiver
+
+iperf Done.
+Fri Apr 30 18:43:16 2021
+Fri Apr 30 18:43:23 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6002
+[  5] local 192.168.7.92 port 56002 connected to 172.26.211.223 port 6002
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  76.5 KBytes   626 Kbits/sec    1   36.2 KBytes       
+[  5]   1.00-2.00   sec   160 KBytes  1.31 Mbits/sec    9   6.71 KBytes       
+[  5]   2.00-3.00   sec  0.00 Bytes  0.00 bits/sec    6   5.37 KBytes       
+[  5]   3.00-4.00   sec  63.1 KBytes   517 Kbits/sec    4   5.37 KBytes       
+[  5]   4.00-5.00   sec  67.1 KBytes   550 Kbits/sec    8   4.03 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   366 KBytes   600 Kbits/sec   28             sender
+[  5]   0.00-5.00   sec   240 KBytes   394 Kbits/sec                  receiver
+
+iperf Done.
+Fri Apr 30 18:43:30 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6002
+[  5] local 192.168.7.92 port 56006 connected to 172.26.211.223 port 6002
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  76.5 KBytes   626 Kbits/sec    8   5.37 KBytes       
+[  5]   1.00-2.00   sec  93.9 KBytes   770 Kbits/sec   11   1.34 KBytes       
+[  5]   2.00-3.00   sec  45.6 KBytes   374 Kbits/sec    6   2.68 KBytes       
+[  5]   3.00-4.00   sec  80.5 KBytes   660 Kbits/sec    8   4.03 KBytes       
+[  5]   4.00-5.00   sec  45.6 KBytes   374 Kbits/sec    2   8.05 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   342 KBytes   561 Kbits/sec   35             sender
+[  5]   0.00-5.00   sec   299 KBytes   490 Kbits/sec                  receiver
+
+iperf Done.
+Fri Apr 30 18:43:37 2021
+Fri Apr 30 18:43:44 2021
+iperf3: error - the server is busy running a test. try again later
+Fri Apr 30 18:43:51 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6002
+[  5] local 192.168.7.92 port 56016 connected to 172.26.211.223 port 6002
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   114 KBytes   934 Kbits/sec    4   5.37 KBytes       
+[  5]   1.00-2.00   sec  75.1 KBytes   616 Kbits/sec    3   6.71 KBytes       
+[  5]   2.00-3.00   sec  37.6 KBytes   308 Kbits/sec    4   2.68 KBytes       
+[  5]   3.00-4.00   sec  64.4 KBytes   528 Kbits/sec    7   4.03 KBytes       
+[  5]   4.00-5.00   sec  32.2 KBytes   264 Kbits/sec    3   4.03 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   323 KBytes   530 Kbits/sec   21             sender
+[  5]   0.00-5.00   sec   293 KBytes   479 Kbits/sec                  receiver
+
+iperf Done.
+Fri Apr 30 18:43:58 2021
+Fri Apr 30 18:44:05 2021
+Fri Apr 30 18:44:12 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6002
+[  5] local 192.168.7.92 port 56026 connected to 172.26.211.223 port 6002
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  76.5 KBytes   626 Kbits/sec    3   18.8 KBytes       
+[  5]   1.00-2.00   sec  0.00 Bytes  0.00 bits/sec    5   12.1 KBytes       
+[  5]   2.00-3.00   sec  0.00 Bytes  0.00 bits/sec    1   14.8 KBytes       
+[  5]   3.00-4.00   sec  59.0 KBytes   484 Kbits/sec    2   10.7 KBytes       
+[  5]   4.00-5.00   sec  0.00 Bytes  0.00 bits/sec    1   6.71 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   136 KBytes   222 Kbits/sec   12             sender
+[  5]   0.00-5.00   sec  79.2 KBytes   130 Kbits/sec                  receiver
+
+iperf Done.
+Fri Apr 30 18:44:19 2021
+Fri Apr 30 18:44:26 2021
+Fri Apr 30 18:44:33 2021
+Fri Apr 30 18:44:40 2021
+Fri Apr 30 18:44:47 2021
+Fri Apr 30 18:44:54 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 18:45:01 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 18:45:08 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6001
+[  5] local 192.168.7.92 port 57786 connected to 172.26.211.223 port 6001
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.06 MBytes  8.92 Mbits/sec    0    114 KBytes       
+[  5]   1.00-2.00   sec   505 KBytes  4.13 Mbits/sec    1   89.9 KBytes       
+[  5]   2.00-3.00   sec   568 KBytes  4.65 Mbits/sec    0    111 KBytes       
+[  5]   3.00-4.00   sec   694 KBytes  5.68 Mbits/sec    0    121 KBytes       
+[  5]   4.00-5.00   sec   946 KBytes  7.75 Mbits/sec    0    125 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  3.71 MBytes  6.23 Mbits/sec    1             sender
+[  5]   0.00-5.00   sec  3.50 MBytes  5.87 Mbits/sec                  receiver
+
+iperf Done.
+Fri Apr 30 18:45:15 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6001
+[  5] local 192.168.7.92 port 57790 connected to 172.26.211.223 port 6001
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   939 KBytes  7.69 Mbits/sec    0    114 KBytes       
+[  5]   1.00-2.00   sec  1009 KBytes  8.27 Mbits/sec    0    150 KBytes       
+[  5]   2.00-3.00   sec   441 KBytes  3.61 Mbits/sec    0    165 KBytes       
+[  5]   3.00-4.00   sec   378 KBytes  3.10 Mbits/sec    0    170 KBytes       
+[  5]   4.00-5.00   sec   694 KBytes  5.68 Mbits/sec    0    181 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  3.38 MBytes  5.67 Mbits/sec    0             sender
+[  5]   0.00-5.00   sec  3.19 MBytes  5.35 Mbits/sec                  receiver
+
+iperf Done.
+Fri Apr 30 18:45:22 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6001
+[  5] local 192.168.7.92 port 57794 connected to 172.26.211.223 port 6001
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   814 KBytes  6.67 Mbits/sec    0    157 KBytes       
+[  5]   1.00-2.00   sec   378 KBytes  3.10 Mbits/sec    0    157 KBytes       
+[  5]   2.00-3.00   sec   441 KBytes  3.62 Mbits/sec    0    165 KBytes       
+[  5]   3.00-4.00   sec   441 KBytes  3.62 Mbits/sec    0    176 KBytes       
+[  5]   4.00-5.00   sec   252 KBytes  2.07 Mbits/sec    0    176 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  2.27 MBytes  3.81 Mbits/sec    0             sender
+[  5]   0.00-5.00   sec  1.88 MBytes  3.15 Mbits/sec                  receiver
+
+iperf Done.
+Fri Apr 30 18:45:29 2021
+Fri Apr 30 18:45:36 2021
+Fri Apr 30 18:45:43 2021
+Fri Apr 30 18:45:50 2021
+Fri Apr 30 18:45:57 2021
+Fri Apr 30 18:46:04 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6001
+[  5] local 192.168.7.92 port 57806 connected to 172.26.211.223 port 6001
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1002 KBytes  8.21 Mbits/sec    2    137 KBytes       
+[  5]   1.00-2.00   sec  1.23 MBytes  10.3 Mbits/sec    0    170 KBytes       
+[  5]   2.00-3.00   sec  1009 KBytes  8.26 Mbits/sec    0    188 KBytes       
+[  5]   3.00-4.00   sec   883 KBytes  7.23 Mbits/sec    0    200 KBytes       
+[  5]   4.00-5.00   sec   820 KBytes  6.71 Mbits/sec    0    205 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  4.86 MBytes  8.15 Mbits/sec    2             sender
+[  5]   0.00-5.00   sec  4.55 MBytes  7.63 Mbits/sec                  receiver
+
+iperf Done.
+Fri Apr 30 18:46:11 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6001
+[  5] local 192.168.7.92 port 57810 connected to 172.26.211.223 port 6001
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   538 KBytes  4.41 Mbits/sec    0    121 KBytes       
+[  5]   1.00-2.00   sec   631 KBytes  5.17 Mbits/sec    0    144 KBytes       
+[  5]   2.00-3.00   sec   441 KBytes  3.62 Mbits/sec    6    111 KBytes       
+[  5]   3.00-4.00   sec   946 KBytes  7.75 Mbits/sec    0    134 KBytes       
+[  5]   4.00-5.00   sec  1.05 MBytes  8.78 Mbits/sec    0    145 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  3.54 MBytes  5.94 Mbits/sec    6             sender
+[  5]   0.00-5.00   sec  3.25 MBytes  5.46 Mbits/sec                  receiver
+
+iperf Done.
+Fri Apr 30 18:46:18 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6001
+[  5] local 192.168.7.92 port 57814 connected to 172.26.211.223 port 6001
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   553 KBytes  4.53 Mbits/sec    0    105 KBytes       
+[  5]   1.00-2.00   sec   568 KBytes  4.65 Mbits/sec    0    130 KBytes       
+[  5]   2.00-3.00   sec   378 KBytes  3.10 Mbits/sec    0    145 KBytes       
+[  5]   3.00-4.00   sec   883 KBytes  7.23 Mbits/sec    0    173 KBytes       
+[  5]   4.00-5.00   sec   820 KBytes  6.72 Mbits/sec    0    203 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  3.13 MBytes  5.25 Mbits/sec    0             sender
+[  5]   0.00-5.00   sec  2.75 MBytes  4.62 Mbits/sec                  receiver
+
+iperf Done.
+Fri Apr 30 18:46:25 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6001
+[  5] local 192.168.7.92 port 57818 connected to 172.26.211.223 port 6001
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   462 KBytes  3.78 Mbits/sec    1   53.7 KBytes       
+[  5]   1.00-2.00   sec   378 KBytes  3.10 Mbits/sec    2   44.3 KBytes       
+[  5]   2.00-3.00   sec   378 KBytes  3.10 Mbits/sec    0   49.6 KBytes       
+[  5]   3.00-4.00   sec   378 KBytes  3.10 Mbits/sec    0   51.0 KBytes       
+[  5]   4.00-5.00   sec   378 KBytes  3.10 Mbits/sec    2   51.0 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  1.93 MBytes  3.24 Mbits/sec    5             sender
+[  5]   0.00-5.00   sec  1.74 MBytes  2.92 Mbits/sec                  receiver
+
+iperf Done.
+Fri Apr 30 18:46:32 2021
+Fri Apr 30 18:46:39 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6001
+[  5] local 192.168.7.92 port 57826 connected to 172.26.211.223 port 6001
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   476 KBytes  3.90 Mbits/sec    3   24.2 KBytes       
+[  5]   1.00-2.00   sec   330 KBytes  2.70 Mbits/sec    0   32.2 KBytes       
+[  5]   2.00-3.00   sec   276 KBytes  2.26 Mbits/sec    1   25.5 KBytes       
+[  5]   3.00-4.00   sec   176 KBytes  1.44 Mbits/sec    0   34.9 KBytes       
+[  5]   4.00-5.00   sec   242 KBytes  1.98 Mbits/sec    1   28.2 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  1.46 MBytes  2.46 Mbits/sec    5             sender
+[  5]   0.00-5.00   sec  1.37 MBytes  2.30 Mbits/sec                  receiver
+
+iperf Done.
+Fri Apr 30 18:46:46 2021
+Fri Apr 30 18:46:53 2021
+Fri Apr 30 18:47:00 2021
+Fri Apr 30 18:47:07 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 18:47:14 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6002
+[  5] local 192.168.7.92 port 56098 connected to 172.26.211.223 port 6002
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  76.5 KBytes   626 Kbits/sec   11   1.34 KBytes       
+[  5]   1.00-2.00   sec  88.6 KBytes   726 Kbits/sec    9   4.03 KBytes       
+[  5]   2.00-3.00   sec   122 KBytes  1.00 Mbits/sec    6   4.03 KBytes       
+[  5]   3.00-4.00   sec   118 KBytes   968 Kbits/sec    6   6.71 KBytes       
+[  5]   4.00-5.00   sec  84.5 KBytes   692 Kbits/sec    8   5.37 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   490 KBytes   802 Kbits/sec   40             sender
+[  5]   0.00-5.00   sec   463 KBytes   758 Kbits/sec                  receiver
+
+iperf Done.
+Fri Apr 30 18:47:21 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6002
+[  5] local 192.168.7.92 port 56102 connected to 172.26.211.223 port 6002
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   243 KBytes  1.99 Mbits/sec    9   6.71 KBytes       
+[  5]   1.00-2.00   sec  72.5 KBytes   594 Kbits/sec    7   8.05 KBytes       
+[  5]   2.00-3.00   sec   142 KBytes  1.17 Mbits/sec    4   5.37 KBytes       
+[  5]   3.00-4.00   sec  73.8 KBytes   604 Kbits/sec    5   6.71 KBytes       
+[  5]   4.00-5.00   sec  68.4 KBytes   561 Kbits/sec    3   5.37 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   600 KBytes   983 Kbits/sec   28             sender
+[  5]   0.00-5.00   sec   507 KBytes   831 Kbits/sec                  receiver
+
+iperf Done.
+Fri Apr 30 18:47:28 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6002
+[  5] local 192.168.7.92 port 56106 connected to 172.26.211.223 port 6002
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   185 KBytes  1.52 Mbits/sec    1   33.5 KBytes       
+[  5]   1.00-2.00   sec   137 KBytes  1.12 Mbits/sec    6   8.05 KBytes       
+[  5]   2.00-3.00   sec  63.1 KBytes   516 Kbits/sec    5   6.71 KBytes       
+[  5]   3.00-4.00   sec  63.1 KBytes   517 Kbits/sec    5   8.05 KBytes       
+[  5]   4.00-5.00   sec   126 KBytes  1.03 Mbits/sec    7   8.05 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   574 KBytes   941 Kbits/sec   24             sender
+[  5]   0.00-5.00   sec   421 KBytes   690 Kbits/sec                  receiver
+
+iperf Done.
+Fri Apr 30 18:47:35 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6002
+[  5] local 192.168.7.92 port 56110 connected to 172.26.211.223 port 6002
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   115 KBytes   945 Kbits/sec   16   8.05 KBytes       
+[  5]   1.00-2.00   sec   121 KBytes   989 Kbits/sec    5   4.03 KBytes       
+[  5]   2.00-3.00   sec  0.00 Bytes  0.00 bits/sec    2   4.03 KBytes       
+[  5]   3.00-4.00   sec  80.5 KBytes   660 Kbits/sec    8   5.37 KBytes       
+[  5]   4.00-5.00   sec  81.8 KBytes   671 Kbits/sec    4   5.37 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   399 KBytes   653 Kbits/sec   35             sender
+[  5]   0.00-5.00   sec   326 KBytes   534 Kbits/sec                  receiver
+
+iperf Done.
+Fri Apr 30 18:47:42 2021
+Fri Apr 30 18:47:49 2021
+Fri Apr 30 18:47:56 2021
+Fri Apr 30 18:48:03 2021
+Fri Apr 30 18:48:10 2021
+Fri Apr 30 18:48:17 2021
+Fri Apr 30 18:48:24 2021
+Fri Apr 30 18:48:31 2021
+Fri Apr 30 18:48:38 2021
+Fri Apr 30 18:48:45 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 18:48:52 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 18:48:59 2021
+Fri Apr 30 18:49:06 2021
+Fri Apr 30 18:49:13 2021
+Fri Apr 30 18:49:20 2021
+Fri Apr 30 18:49:27 2021
+Fri Apr 30 18:49:34 2021
+Fri Apr 30 18:49:41 2021
+Fri Apr 30 18:49:48 2021
+Fri Apr 30 18:49:55 2021
+Fri Apr 30 18:50:02 2021
+Fri Apr 30 18:50:09 2021
+Fri Apr 30 18:50:16 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 18:50:23 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 18:50:30 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 18:50:37 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 18:50:44 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 18:50:51 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 18:50:58 2021
+Fri Apr 30 18:51:05 2021
+Fri Apr 30 18:51:12 2021
+Fri Apr 30 18:51:19 2021
+Fri Apr 30 18:51:26 2021
+Fri Apr 30 18:51:33 2021
+Fri Apr 30 18:51:40 2021
+Fri Apr 30 18:51:47 2021
+Fri Apr 30 18:51:54 2021
+Fri Apr 30 18:52:01 2021
+Fri Apr 30 18:52:08 2021
+Fri Apr 30 18:52:15 2021
+Fri Apr 30 18:52:22 2021
+Fri Apr 30 18:52:29 2021
+Fri Apr 30 18:52:36 2021
+Fri Apr 30 18:52:43 2021
+Fri Apr 30 18:52:50 2021
+Fri Apr 30 18:52:57 2021
+Fri Apr 30 18:53:04 2021
+Fri Apr 30 18:53:11 2021
+Fri Apr 30 18:53:18 2021
+Fri Apr 30 18:53:25 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 18:53:32 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 18:53:39 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 18:53:46 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 18:53:53 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 18:54:00 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 18:54:07 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 18:54:14 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 18:54:21 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 18:54:28 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 18:54:35 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Fri Apr 30 18:54:42 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable

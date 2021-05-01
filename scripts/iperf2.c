@@ -32,19 +32,15 @@ int main(){
 	while(fgets(MAC,BUFSIZE, fp) != NULL){
 	}
 	pclose(fp);
-	printf("PREV MAC:%s", prevMAC);
 	printf("RESULT:%s", MAC);
 	if (strcmp(MAC, "\n") != 0 && strcmp(MAC, (const char*) prevMAC) != 0) {
-		printf("HERE\n");
 		if(strcmp((const char*) prevMAC, (const char*) MAC1) == 0){
-			printf("CHANGING AP1\n");
 			ap1 = 0;
 		}
 		else if(strcmp((const char*) prevMAC, (const char*) MAC2) == 0){
 			ap2 = 0;
 		}
 		else if(strcmp((const char*) prevMAC, (const char*) MAC3) == 0){
-			printf("CHANGING AP3\n");
 			ap3 = 0;
 		}
 	}
@@ -52,26 +48,11 @@ int main(){
 	// Determine port number
 	char port[10] = "5201";
        	if (strcmp(MAC, (const char*) MAC1) == 0) {
-		printf("AP1=%d\n", ap1);
-		if (ap1 == -1) {
-			strcpy(port, "6001");
-		} else if (ap1 == 0) {
-			strcpy(port, "6002");
-		}
+		strcpy(port, "6001");
 	} else if (strcmp(MAC, (const char*) MAC2) == 0) {
-		printf("AP2=%d\n", ap2);
-		if (ap2 == -1) {
-			strcpy(port, "6003");
-		} else if (ap2 == 0) {
-			strcpy(port, "6004");
-		}
+		strcpy(port, "6002");
 	} else if (strcmp(MAC, (const char*) MAC3) == 0) {
-		printf("AP3=%d\n", ap3);
-		if (ap3 == -1) {
-			strcpy(port, "6005");
-		} else if (ap3 == 0) {
-			strcpy(port, "6006");
-		}
+		strcpy(port, "6003");
 	}
 	printf("%s\n", port);	
 
@@ -89,9 +70,7 @@ int main(){
 	char *args[]={"iperf3", "-c", "nprabhalmac.wifi.local.cmu.edu", "-p", port, "-t","5", 0};
 	char *env[] = {0};
 	if (strcmp(MAC, "\n") != 0) {
-		printf("Updating prevmac\n");
 		memcpy((void*) prevMAC, (void*) MAC, BUFSIZE);
-		printf("PREVMAC:%s", prevMAC);
 	}
 	execve("/usr/bin/iperf3",args,env);
 	printf("EXEC failed \n");
