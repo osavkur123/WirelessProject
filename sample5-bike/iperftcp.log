@@ -1,0 +1,294 @@
+Sat May  1 15:35:05 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sat May  1 15:35:12 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sat May  1 15:35:19 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sat May  1 15:35:26 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sat May  1 15:35:33 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sat May  1 15:35:40 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sat May  1 15:35:47 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sat May  1 15:35:54 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sat May  1 15:36:01 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sat May  1 15:36:08 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sat May  1 15:36:15 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sat May  1 15:36:22 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sat May  1 15:36:29 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sat May  1 15:36:36 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sat May  1 15:36:43 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sat May  1 15:36:50 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sat May  1 15:36:57 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sat May  1 15:37:04 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sat May  1 15:37:11 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sat May  1 15:37:18 2021
+Sat May  1 15:37:25 2021
+Sat May  1 15:37:33 2021
+Sat May  1 16:28:34 2021
+Sat May  1 16:28:41 2021
+Sat May  1 16:28:48 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6003
+[  5] local 192.168.7.176 port 58980 connected to 172.26.211.223 port 6003
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   306 KBytes  2.50 Mbits/sec    0   83.2 KBytes       
+[  5]   1.00-2.00   sec   378 KBytes  3.10 Mbits/sec   13   44.3 KBytes       
+[  5]   2.00-3.00   sec   126 KBytes  1.03 Mbits/sec   11   22.8 KBytes       
+[  5]   3.00-4.00   sec   126 KBytes  1.03 Mbits/sec   10   6.71 KBytes       
+[  5]   4.00-5.00   sec   252 KBytes  2.07 Mbits/sec    2   17.4 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  1.16 MBytes  1.95 Mbits/sec   36             sender
+[  5]   0.00-5.00   sec   918 KBytes  1.50 Mbits/sec                  receiver
+
+iperf Done.
+Sat May  1 16:28:55 2021
+Sat May  1 16:29:02 2021
+Sat May  1 16:29:09 2021
+Sat May  1 16:29:16 2021
+Sat May  1 16:29:23 2021
+Sat May  1 16:29:30 2021
+Sat May  1 16:29:37 2021
+Sat May  1 16:29:44 2021
+Sat May  1 16:29:51 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6003
+[  5] local 192.168.7.176 port 59010 connected to 172.26.211.223 port 6003
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  71.1 KBytes   582 Kbits/sec    1   24.2 KBytes       
+[  5]   1.00-2.00   sec  0.00 Bytes  0.00 bits/sec    2   18.8 KBytes       
+[  5]   2.00-3.00   sec  53.7 KBytes   440 Kbits/sec    0   25.5 KBytes       
+[  5]   3.00-4.00   sec  0.00 Bytes  0.00 bits/sec    8   10.7 KBytes       
+[  5]   4.00-5.00   sec  76.5 KBytes   627 Kbits/sec    3   20.1 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   201 KBytes   330 Kbits/sec   14             sender
+[  5]   0.00-5.00   sec   133 KBytes   218 Kbits/sec                  receiver
+
+iperf Done.
+Sat May  1 16:29:58 2021
+Sat May  1 16:30:05 2021
+Sat May  1 16:30:12 2021
+Sat May  1 16:30:19 2021
+Sat May  1 16:30:26 2021
+Sat May  1 16:30:33 2021
+Sat May  1 16:30:40 2021
+Sat May  1 16:30:47 2021
+Sat May  1 16:30:54 2021
+Sat May  1 16:31:01 2021
+Sat May  1 16:31:08 2021
+Sat May  1 16:31:15 2021
+Sat May  1 16:31:22 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6003
+[  5] local 192.168.7.176 port 59060 connected to 172.26.211.223 port 6003
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   177 KBytes  1.45 Mbits/sec    5   22.8 KBytes       
+[  5]   1.00-2.00   sec  0.00 Bytes  0.00 bits/sec   16   10.7 KBytes       
+[  5]   2.00-3.00   sec  72.5 KBytes   594 Kbits/sec    5   1.34 KBytes       
+[  5]   3.00-4.00   sec  0.00 Bytes  0.00 bits/sec    5   4.03 KBytes       
+[  5]   4.00-5.00   sec  63.1 KBytes   517 Kbits/sec    3   4.03 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   313 KBytes   512 Kbits/sec   34             sender
+[  5]   0.00-5.00   sec   187 KBytes   306 Kbits/sec                  receiver
+
+iperf Done.
+Sat May  1 16:31:29 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6003
+[  5] local 192.168.7.176 port 59064 connected to 172.26.211.223 port 6003
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  76.5 KBytes   626 Kbits/sec   13   9.39 KBytes       
+[  5]   1.00-2.00   sec  45.6 KBytes   374 Kbits/sec    7   6.71 KBytes       
+[  5]   2.00-3.00   sec  0.00 Bytes  0.00 bits/sec    2   6.71 KBytes       
+[  5]   3.00-4.00   sec  44.3 KBytes   363 Kbits/sec    4   4.03 KBytes       
+[  5]   4.00-5.00   sec  42.9 KBytes   352 Kbits/sec    8   2.68 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   209 KBytes   343 Kbits/sec   34             sender
+[  5]   0.00-5.00   sec   146 KBytes   240 Kbits/sec                  receiver
+
+iperf Done.
+Sat May  1 16:31:36 2021
+Sat May  1 16:31:43 2021
+Sat May  1 16:31:50 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6003
+[  5] local 192.168.7.176 port 59076 connected to 172.26.211.223 port 6003
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   482 KBytes  3.95 Mbits/sec    1   60.4 KBytes       
+[  5]   1.00-2.00   sec   378 KBytes  3.10 Mbits/sec    0   73.8 KBytes       
+[  5]   2.00-3.00   sec   631 KBytes  5.17 Mbits/sec    5   56.4 KBytes       
+[  5]   3.00-4.00   sec   505 KBytes  4.13 Mbits/sec    0   65.7 KBytes       
+[  5]   4.00-5.00   sec   378 KBytes  3.10 Mbits/sec   17   33.5 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  2.32 MBytes  3.89 Mbits/sec   23             sender
+[  5]   0.00-5.00   sec  2.11 MBytes  3.53 Mbits/sec                  receiver
+
+iperf Done.
+Sat May  1 16:31:57 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6003
+[  5] local 192.168.7.176 port 59080 connected to 172.26.211.223 port 6003
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   436 KBytes  3.57 Mbits/sec   24   21.5 KBytes       
+[  5]   1.00-2.00   sec   189 KBytes  1.55 Mbits/sec    6   16.1 KBytes       
+[  5]   2.00-3.00   sec   126 KBytes  1.03 Mbits/sec    0   21.5 KBytes       
+[  5]   3.00-4.00   sec   126 KBytes  1.03 Mbits/sec   12   10.7 KBytes       
+[  5]   4.00-5.00   sec   126 KBytes  1.03 Mbits/sec    5   6.71 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  1004 KBytes  1.64 Mbits/sec   47             sender
+[  5]   0.00-5.00   sec   853 KBytes  1.40 Mbits/sec                  receiver
+
+iperf Done.
+Sat May  1 16:32:04 2021
+Sat May  1 16:32:11 2021
+Sat May  1 16:32:18 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sat May  1 16:32:25 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sat May  1 16:32:32 2021
+Sat May  1 16:32:39 2021
+Sat May  1 16:32:46 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6002
+[  5] local 192.168.7.176 port 46434 connected to 172.26.211.223 port 6002
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   123 KBytes  1.01 Mbits/sec   17   5.37 KBytes       
+[  5]   1.00-2.00   sec  93.9 KBytes   770 Kbits/sec    3   6.71 KBytes       
+[  5]   2.00-3.00   sec  0.00 Bytes  0.00 bits/sec    4   5.37 KBytes       
+[  5]   3.00-4.00   sec  0.00 Bytes  0.00 bits/sec    1   4.03 KBytes       
+[  5]   4.00-5.00   sec  0.00 Bytes  0.00 bits/sec    0   4.03 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   217 KBytes   356 Kbits/sec   25             sender
+[  5]   0.00-5.00   sec   195 KBytes   319 Kbits/sec                  receiver
+
+iperf Done.
+Sat May  1 16:32:53 2021
+Sat May  1 16:33:00 2021
+Sat May  1 16:33:07 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sat May  1 16:33:14 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6001
+[  5] local 192.168.7.176 port 53054 connected to 172.26.211.223 port 6001
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   346 KBytes  2.84 Mbits/sec   16   21.5 KBytes       
+[  5]   1.00-2.00   sec   303 KBytes  2.48 Mbits/sec   10   14.8 KBytes       
+[  5]   2.00-3.00   sec   276 KBytes  2.26 Mbits/sec   10   20.1 KBytes       
+[  5]   3.00-4.00   sec   141 KBytes  1.15 Mbits/sec   15   12.1 KBytes       
+[  5]   4.00-5.00   sec   204 KBytes  1.67 Mbits/sec    2   17.4 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  1.24 MBytes  2.08 Mbits/sec   53             sender
+[  5]   0.00-5.00   sec  1.14 MBytes  1.91 Mbits/sec                  receiver
+
+iperf Done.
+Sat May  1 16:33:21 2021
+Sat May  1 16:33:28 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sat May  1 16:33:35 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sat May  1 16:33:42 2021
+Sat May  1 16:33:49 2021
+Sat May  1 16:33:56 2021
+Sat May  1 16:34:03 2021
+Sat May  1 16:34:10 2021
+Sat May  1 16:34:17 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sat May  1 16:34:24 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sat May  1 16:34:31 2021
+Sat May  1 16:34:38 2021
+Sat May  1 16:34:45 2021
+Sat May  1 16:34:52 2021
+Sat May  1 16:34:59 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6003
+[  5] local 192.168.7.176 port 59132 connected to 172.26.211.223 port 6003
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   174 KBytes  1.43 Mbits/sec    0   37.6 KBytes       
+[  5]   1.00-2.00   sec  84.5 KBytes   693 Kbits/sec    0   56.4 KBytes       
+[  5]   2.00-3.00   sec  0.00 Bytes  0.00 bits/sec    1   38.9 KBytes       
+[  5]   3.00-4.00   sec   246 KBytes  2.01 Mbits/sec    0   48.3 KBytes       
+[  5]   4.00-5.00   sec   323 KBytes  2.65 Mbits/sec    1   37.6 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   828 KBytes  1.36 Mbits/sec    2             sender
+[  5]   0.00-5.00   sec   725 KBytes  1.19 Mbits/sec                  receiver
+
+iperf Done.
+Sat May  1 16:35:06 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6003
+[  5] local 192.168.7.176 port 59136 connected to 172.26.211.223 port 6003
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   684 KBytes  5.60 Mbits/sec    2   44.3 KBytes       
+[  5]   1.00-2.00   sec   757 KBytes  6.20 Mbits/sec    4   72.5 KBytes       
+[  5]   2.00-3.00   sec   378 KBytes  3.10 Mbits/sec   12   36.2 KBytes       
+[  5]   3.00-4.00   sec   568 KBytes  4.65 Mbits/sec   16   22.8 KBytes       
+[  5]   4.00-5.00   sec   189 KBytes  1.55 Mbits/sec    1   24.2 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  2.52 MBytes  4.22 Mbits/sec   35             sender
+[  5]   0.00-5.00   sec  2.21 MBytes  3.71 Mbits/sec                  receiver
+
+iperf Done.
+Sat May  1 16:35:13 2021
+iperf3: error - the server has terminated
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6003
+[  5] local 192.168.7.176 port 59140 connected to 172.26.211.223 port 6003
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   435 KBytes  3.56 Mbits/sec    0   73.8 KBytes       
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   435 KBytes  3.56 Mbits/sec    0   73.8 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-1.00   sec   561 KBytes  4.59 Mbits/sec    0             sender
+[  5]   0.00-1.00   sec  0.00 Bytes  0.00 bits/sec                  receiver
+Sat May  1 16:35:20 2021
+iperf3: error - unable to connect to server: Connection refused
+Sat May  1 16:35:27 2021
+iperf3: error - unable to connect to server: Connection refused
+Sat May  1 16:35:34 2021
+iperf3: error - unable to connect to server: Connection refused
+Sat May  1 16:35:41 2021
+iperf3: error - unable to connect to server: Connection refused
+Sat May  1 16:35:48 2021
+iperf3: error - unable to connect to server: Connection refused
+Sat May  1 16:35:55 2021
+iperf3: error - unable to connect to server: Connection refused
+Sat May  1 16:36:02 2021
+Sat May  1 16:36:09 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sat May  1 16:36:16 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sat May  1 16:36:23 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sat May  1 16:36:30 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sat May  1 16:36:37 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sat May  1 16:36:44 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sat May  1 16:36:51 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sat May  1 16:36:58 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sat May  1 16:37:05 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sat May  1 16:37:12 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sat May  1 16:37:19 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sat May  1 16:37:26 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable

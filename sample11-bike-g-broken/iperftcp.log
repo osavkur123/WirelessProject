@@ -1,0 +1,245 @@
+Sun May  2 02:15:42 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:15:49 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:15:56 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:16:03 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:16:10 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:16:17 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:16:24 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:16:31 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:16:38 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:16:45 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:16:52 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:16:59 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:17:06 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:17:13 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:17:20 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:17:27 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:17:34 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:17:41 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:17:48 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:17:55 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:18:02 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:18:09 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:18:16 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:18:23 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:18:30 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:18:37 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:18:44 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:18:51 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:18:58 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:19:05 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:19:12 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:19:19 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:19:26 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:19:33 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:19:40 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:19:47 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:19:54 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:20:01 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:20:08 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:20:15 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:20:22 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:20:29 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:20:36 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:20:43 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:20:50 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:20:57 2021
+Sun May  2 02:21:04 2021
+Sun May  2 02:21:11 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6003
+[  5] local 192.168.17.53 port 54204 connected to 172.26.211.223 port 6003
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   127 KBytes  1.04 Mbits/sec    0   44.3 KBytes       
+[  5]   1.00-2.00   sec  95.3 KBytes   781 Kbits/sec    0   44.3 KBytes       
+[  5]   2.00-3.00   sec  0.00 Bytes  0.00 bits/sec    0   47.0 KBytes       
+[  5]   3.00-4.00   sec  0.00 Bytes  0.00 bits/sec    0   47.0 KBytes       
+[  5]   4.00-5.00   sec  0.00 Bytes  0.00 bits/sec   15   10.7 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   223 KBytes   365 Kbits/sec   15             sender
+[  5]   0.00-5.00   sec   115 KBytes   189 Kbits/sec                  receiver
+
+iperf Done.
+Sun May  2 02:21:18 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6003
+[  5] local 192.168.17.53 port 54208 connected to 172.26.211.223 port 6003
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  71.1 KBytes   582 Kbits/sec    5   5.37 KBytes       
+[  5]   1.00-2.00   sec  41.6 KBytes   341 Kbits/sec    3   4.03 KBytes       
+[  5]   2.00-3.00   sec  0.00 Bytes  0.00 bits/sec    0   6.71 KBytes       
+[  5]   3.00-4.00   sec  45.6 KBytes   374 Kbits/sec    5   2.68 KBytes       
+[  5]   4.00-5.00   sec  0.00 Bytes  0.00 bits/sec    3   4.03 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   158 KBytes   259 Kbits/sec   16             sender
+[  5]   0.00-5.00   sec   142 KBytes   233 Kbits/sec                  receiver
+
+iperf Done.
+Sun May  2 02:21:25 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6003
+[  5] local 192.168.17.53 port 54212 connected to 172.26.211.223 port 6003
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   176 KBytes  1.44 Mbits/sec    1   41.6 KBytes       
+[  5]   1.00-2.00   sec   126 KBytes  1.03 Mbits/sec    0   84.5 KBytes       
+[  5]   2.00-3.00   sec   189 KBytes  1.55 Mbits/sec    1   42.9 KBytes       
+[  5]   3.00-4.00   sec  0.00 Bytes  0.00 bits/sec    4   44.3 KBytes       
+[  5]   4.00-5.00   sec   126 KBytes  1.03 Mbits/sec    0   57.7 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   617 KBytes  1.01 Mbits/sec    6             sender
+[  5]   0.00-5.00   sec   283 KBytes   464 Kbits/sec                  receiver
+
+iperf Done.
+Sun May  2 02:21:32 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6003
+[  5] local 192.168.17.53 port 54216 connected to 172.26.211.223 port 6003
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   173 KBytes  1.42 Mbits/sec    6   14.8 KBytes       
+[  5]   1.00-2.00   sec   154 KBytes  1.26 Mbits/sec   10   12.1 KBytes       
+[  5]   2.00-3.00   sec   409 KBytes  3.35 Mbits/sec    0   25.5 KBytes       
+[  5]   3.00-4.00   sec   500 KBytes  4.10 Mbits/sec    3   28.2 KBytes       
+[  5]   4.00-5.00   sec   433 KBytes  3.55 Mbits/sec    0   36.2 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  1.63 MBytes  2.74 Mbits/sec   19             sender
+[  5]   0.00-5.00   sec  1.51 MBytes  2.53 Mbits/sec                  receiver
+
+iperf Done.
+Sun May  2 02:21:39 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6003
+[  5] local 192.168.17.53 port 54220 connected to 172.26.211.223 port 6003
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   503 KBytes  4.12 Mbits/sec    8   67.1 KBytes       
+[  5]   1.00-2.00   sec   189 KBytes  1.55 Mbits/sec   11   36.2 KBytes       
+[  5]   2.00-3.00   sec   126 KBytes  1.03 Mbits/sec   23   18.8 KBytes       
+[  5]   3.00-4.00   sec   126 KBytes  1.03 Mbits/sec    0   21.5 KBytes       
+[  5]   4.00-5.00   sec   126 KBytes  1.03 Mbits/sec    9   18.8 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  1.05 MBytes  1.75 Mbits/sec   51             sender
+[  5]   0.00-5.00   sec   823 KBytes  1.35 Mbits/sec                  receiver
+
+iperf Done.
+Sun May  2 02:21:46 2021
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6003
+[  5] local 192.168.17.53 port 54224 connected to 172.26.211.223 port 6003
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   169 KBytes  1.38 Mbits/sec    8   32.2 KBytes       
+[  5]   1.00-2.00   sec   110 KBytes   901 Kbits/sec    0   36.2 KBytes       
+[  5]   2.00-3.00   sec  0.00 Bytes  0.00 bits/sec   10   24.2 KBytes       
+[  5]   3.00-4.00   sec   126 KBytes  1.03 Mbits/sec   15   16.1 KBytes       
+[  5]   4.00-5.00   sec  0.00 Bytes  0.00 bits/sec    3   10.7 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   405 KBytes   664 Kbits/sec   36             sender
+[  5]   0.00-5.00   sec   239 KBytes   391 Kbits/sec                  receiver
+
+iperf Done.
+Sun May  2 02:21:53 2021
+Sun May  2 02:22:00 2021
+Sun May  2 02:22:07 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:22:14 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:22:21 2021
+Sun May  2 02:22:28 2021
+Sun May  2 02:22:35 2021
+Sun May  2 02:22:42 2021
+Sun May  2 02:22:49 2021
+Sun May  2 02:22:56 2021
+Sun May  2 02:23:03 2021
+Sun May  2 02:23:10 2021
+Sun May  2 02:23:17 2021
+Sun May  2 02:23:24 2021
+Sun May  2 02:23:31 2021
+Sun May  2 02:23:38 2021
+Sun May  2 02:23:45 2021
+Sun May  2 02:23:52 2021
+Sun May  2 02:23:59 2021
+Sun May  2 02:24:06 2021
+Sun May  2 02:24:13 2021
+Sun May  2 02:24:20 2021
+Sun May  2 02:24:27 2021
+Sun May  2 02:24:34 2021
+Sun May  2 02:24:41 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:24:48 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:24:55 2021
+Sun May  2 02:25:02 2021
+Sun May  2 02:25:09 2021
+Sun May  2 02:25:16 2021
+Sun May  2 02:25:23 2021
+Sun May  2 02:25:30 2021
+Sun May  2 02:25:37 2021
+Sun May  2 02:25:44 2021
+Sun May  2 02:25:51 2021
+Sun May  2 02:25:58 2021
+Sun May  2 02:26:05 2021
+Sun May  2 02:26:12 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:26:19 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:26:26 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:26:33 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:26:40 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:26:47 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:26:54 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:27:01 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:27:08 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:27:15 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Sun May  2 02:27:22 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
