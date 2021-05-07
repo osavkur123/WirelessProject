@@ -1,0 +1,167 @@
+2021-05-02T02:34:32.205
+*-*
+2021-05-02T02:34:43.473
+*-*
+2021-05-02T02:34:54.734
+*-*
+2021-05-02T02:35:05.495
+*-*
+2021-05-02T02:35:16.265
+*-*
+2021-05-02T02:35:26.403
+*-*
+          Cell 88 - Address: B8:27:EB:CC:AA:D5
+                    Channel:11
+                    Frequency:2.462 GHz (Channel 11)
+                    Quality=20/70  Signal level=-90 dBm  
+                    Encryption key:on
+                    ESSID:"WirelessProject"
+                    Bit Rates:1 Mb/s; 2 Mb/s; 5.5 Mb/s; 11 Mb/s; 18 Mb/s
+                              24 Mb/s; 36 Mb/s; 54 Mb/s
+                    Bit Rates:6 Mb/s; 9 Mb/s; 12 Mb/s; 48 Mb/s
+                    Mode:Master
+                    Extra:tsf=0000000000000000
+2021-05-02T02:35:37.347
+*-*
+          Cell 45 - Address: B8:27:EB:CC:AA:D5
+                    Channel:11
+                    Frequency:2.462 GHz (Channel 11)
+                    Quality=23/70  Signal level=-87 dBm  
+                    Encryption key:on
+                    ESSID:"WirelessProject"
+                    Bit Rates:1 Mb/s; 2 Mb/s; 5.5 Mb/s; 11 Mb/s; 18 Mb/s
+                              24 Mb/s; 36 Mb/s; 54 Mb/s
+                    Bit Rates:6 Mb/s; 9 Mb/s; 12 Mb/s; 48 Mb/s
+                    Mode:Master
+                    Extra:tsf=0000000000000000
+2021-05-02T02:35:48.365
+*-*
+          Cell 23 - Address: B8:27:EB:CC:AA:D5
+                    Channel:11
+                    Frequency:2.462 GHz (Channel 11)
+                    Quality=23/70  Signal level=-87 dBm  
+                    Encryption key:on
+                    ESSID:"WirelessProject"
+                    Bit Rates:1 Mb/s; 2 Mb/s; 5.5 Mb/s; 11 Mb/s; 18 Mb/s
+                              24 Mb/s; 36 Mb/s; 54 Mb/s
+                    Bit Rates:6 Mb/s; 9 Mb/s; 12 Mb/s; 48 Mb/s
+                    Mode:Master
+                    Extra:tsf=0000000000000000
+2021-05-02T02:35:59.383
+*-*
+          Cell 23 - Address: B8:27:EB:CC:AA:D5
+                    Channel:11
+                    Frequency:2.462 GHz (Channel 11)
+                    Quality=22/70  Signal level=-88 dBm  
+                    Encryption key:on
+                    ESSID:"WirelessProject"
+                    Bit Rates:1 Mb/s; 2 Mb/s; 5.5 Mb/s; 11 Mb/s; 18 Mb/s
+                              24 Mb/s; 36 Mb/s; 54 Mb/s
+                    Bit Rates:6 Mb/s; 9 Mb/s; 12 Mb/s; 48 Mb/s
+                    Mode:Master
+                    Extra:tsf=0000000000000000
+2021-05-02T02:36:10.309
+*-*
+          Cell 23 - Address: B8:27:EB:CC:AA:D5
+                    Channel:11
+                    Frequency:2.462 GHz (Channel 11)
+                    Quality=22/70  Signal level=-88 dBm  
+                    Encryption key:on
+                    ESSID:"WirelessProject"
+                    Bit Rates:1 Mb/s; 2 Mb/s; 5.5 Mb/s; 11 Mb/s; 18 Mb/s
+                              24 Mb/s; 36 Mb/s; 54 Mb/s
+                    Bit Rates:6 Mb/s; 9 Mb/s; 12 Mb/s; 48 Mb/s
+                    Mode:Master
+                    Extra:tsf=0000000000000000
+2021-05-02T02:36:21.339
+*-*
+          Cell 22 - Address: B8:27:EB:CC:AA:D5
+                    Channel:11
+                    Frequency:2.462 GHz (Channel 11)
+                    Quality=27/70  Signal level=-83 dBm  
+                    Encryption key:on
+                    ESSID:"WirelessProject"
+                    Bit Rates:1 Mb/s; 2 Mb/s; 5.5 Mb/s; 11 Mb/s; 18 Mb/s
+                              24 Mb/s; 36 Mb/s; 54 Mb/s
+                    Bit Rates:6 Mb/s; 9 Mb/s; 12 Mb/s; 48 Mb/s
+                    Mode:Master
+                    Extra:tsf=0000000000000000
+2021-05-02T02:36:32.369
+*-*
+          Cell 10 - Address: B8:27:EB:CC:AA:D5
+                    Channel:11
+                    Frequency:2.462 GHz (Channel 11)
+                    Quality=42/70  Signal level=-68 dBm  
+                    Encryption key:on
+                    ESSID:"WirelessProject"
+                    Bit Rates:1 Mb/s; 2 Mb/s; 5.5 Mb/s; 11 Mb/s; 18 Mb/s
+                              24 Mb/s; 36 Mb/s; 54 Mb/s
+                    Bit Rates:6 Mb/s; 9 Mb/s; 12 Mb/s; 48 Mb/s
+                    Mode:Master
+                    Extra:tsf=0000000000000000
+2021-05-02T02:36:43.427
+*-*
+          Cell 07 - Address: B8:27:EB:CC:AA:D5
+                    Channel:11
+                    Frequency:2.462 GHz (Channel 11)
+                    Quality=38/70  Signal level=-72 dBm  
+                    Encryption key:on
+                    ESSID:"WirelessProject"
+                    Bit Rates:1 Mb/s; 2 Mb/s; 5.5 Mb/s; 11 Mb/s; 18 Mb/s
+                              24 Mb/s; 36 Mb/s; 54 Mb/s
+                    Bit Rates:6 Mb/s; 9 Mb/s; 12 Mb/s; 48 Mb/s
+                    Mode:Master
+                    Extra:tsf=0000000000000000
+2021-05-02T02:36:54.353
+*-*
+          Cell 02 - Address: B8:27:EB:CC:AA:D5
+                    Channel:11
+                    Frequency:2.462 GHz (Channel 11)
+                    Quality=28/70  Signal level=-82 dBm  
+                    Encryption key:on
+                    ESSID:"WirelessProject"
+                    Bit Rates:1 Mb/s; 2 Mb/s; 5.5 Mb/s; 11 Mb/s; 18 Mb/s
+                              24 Mb/s; 36 Mb/s; 54 Mb/s
+                    Bit Rates:6 Mb/s; 9 Mb/s; 12 Mb/s; 48 Mb/s
+                    Mode:Master
+                    Extra:tsf=0000000000000000
+--
+          Cell 59 - Address: B8:27:EB:75:C1:31
+                    Channel:6
+                    Frequency:2.437 GHz (Channel 6)
+                    Quality=15/70  Signal level=-95 dBm  
+                    Encryption key:on
+                    ESSID:"WirelessProject"
+                    Bit Rates:1 Mb/s; 2 Mb/s; 5.5 Mb/s; 11 Mb/s; 18 Mb/s
+                              24 Mb/s; 36 Mb/s; 54 Mb/s
+                    Bit Rates:6 Mb/s; 9 Mb/s; 12 Mb/s; 48 Mb/s
+                    Mode:Master
+                    Extra:tsf=0000000000000000
+2021-05-02T02:37:05.346
+*-*
+          Cell 01 - Address: B8:27:EB:CC:AA:D5
+                    Channel:11
+                    Frequency:2.462 GHz (Channel 11)
+                    Quality=28/70  Signal level=-82 dBm  
+                    Encryption key:on
+                    ESSID:"WirelessProject"
+                    Bit Rates:1 Mb/s; 2 Mb/s; 5.5 Mb/s; 11 Mb/s; 18 Mb/s
+                              24 Mb/s; 36 Mb/s; 54 Mb/s
+                    Bit Rates:6 Mb/s; 9 Mb/s; 12 Mb/s; 48 Mb/s
+                    Mode:Master
+                    Extra:tsf=0000000000000000
+--
+          Cell 48 - Address: B8:27:EB:75:C1:31
+                    Channel:6
+                    Frequency:2.437 GHz (Channel 6)
+                    Quality=15/70  Signal level=-95 dBm  
+                    Encryption key:on
+                    ESSID:"WirelessProject"
+                    Bit Rates:1 Mb/s; 2 Mb/s; 5.5 Mb/s; 11 Mb/s; 18 Mb/s
+                              24 Mb/s; 36 Mb/s; 54 Mb/s
+                    Bit Rates:6 Mb/s; 9 Mb/s; 12 Mb/s; 48 Mb/s
+                    Mode:Master
+                    Extra:tsf=0000000000000000
+2021-05-02T02:37:16.279
+*-*
+
