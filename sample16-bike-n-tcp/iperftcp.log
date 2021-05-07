@@ -1,0 +1,4566 @@
+Wed May  5 19:57:32 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 19:57:39 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 19:57:46 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 19:57:53 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 19:58:00 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 19:58:07 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 19:58:14 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 19:58:21 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 19:58:28 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 19:58:35 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 19:58:42 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 19:58:49 2021
+Wed May  5 19:58:56 2021
+Wed May  5 19:59:03 2021
+Wed May  5 19:59:10 2021
+Wed May  5 19:59:17 2021
+Wed May  5 19:59:24 2021
+Wed May  5 19:59:31 2021
+Wed May  5 19:59:38 2021
+Wed May  5 19:59:45 2021
+Wed May  5 19:59:52 2021
+Wed May  5 19:59:59 2021
+Wed May  5 20:00:06 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 20:00:13 2021
+send_parameters:
+{
+	"tcp":	true,
+	"omit":	0,
+	"time":	5,
+	"parallel":	1,
+	"len":	131072,
+	"pacing_timer":	1000,
+	"client_version":	"3.6"
+}
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6001
+SNDBUF is 16384, expecting 0
+RCVBUF is 131072, expecting 0
+Congestion algorithm is cubic
+[  5] local 192.168.17.57 port 54992 connected to 172.26.211.223 port 6001
+sent 78318 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+tcpi_snd_cwnd 7 tcpi_snd_mss 1374 tcpi_rtt 367084
+interval_len 1.001063 bytes_transferred 78318
+interval forces keep
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  76.5 KBytes   626 Kbits/sec    4   9.39 KBytes       
+sent 46716 bytes of 131072, total 125034
+sent 0 bytes of 131072, total 125034
+sent 0 bytes of 131072, total 125034
+sent 0 bytes of 131072, total 125034
+sent 0 bytes of 131072, total 125034
+sent 0 bytes of 131072, total 125034
+sent 0 bytes of 131072, total 125034
+sent 0 bytes of 131072, total 125034
+sent 0 bytes of 131072, total 125034
+sent 0 bytes of 131072, total 125034
+tcpi_snd_cwnd 14 tcpi_snd_mss 1374 tcpi_rtt 322145
+interval_len 0.999407 bytes_transferred 46716
+interval forces keep
+[  5]   1.00-2.00   sec  45.6 KBytes   374 Kbits/sec    0   18.8 KBytes       
+sent 49464 bytes of 131072, total 174498
+sent 0 bytes of 131072, total 174498
+sent 0 bytes of 131072, total 174498
+sent 0 bytes of 131072, total 174498
+sent 0 bytes of 131072, total 174498
+sent 0 bytes of 131072, total 174498
+sent 0 bytes of 131072, total 174498
+sent 0 bytes of 131072, total 174498
+sent 0 bytes of 131072, total 174498
+sent 0 bytes of 131072, total 174498
+tcpi_snd_cwnd 15 tcpi_snd_mss 1374 tcpi_rtt 491145
+interval_len 0.999950 bytes_transferred 49464
+interval forces keep
+[  5]   2.00-3.00   sec  48.3 KBytes   396 Kbits/sec    0   20.1 KBytes       
+sent 53586 bytes of 131072, total 228084
+sent 0 bytes of 131072, total 228084
+sent 0 bytes of 131072, total 228084
+sent 0 bytes of 131072, total 228084
+sent 0 bytes of 131072, total 228084
+sent 0 bytes of 131072, total 228084
+sent 0 bytes of 131072, total 228084
+sent 0 bytes of 131072, total 228084
+sent 0 bytes of 131072, total 228084
+sent 0 bytes of 131072, total 228084
+tcpi_snd_cwnd 15 tcpi_snd_mss 1374 tcpi_rtt 472132
+interval_len 1.000271 bytes_transferred 53586
+interval forces keep
+[  5]   3.00-4.00   sec  52.3 KBytes   429 Kbits/sec    0   20.1 KBytes       
+sent 52212 bytes of 131072, total 280296
+sent 0 bytes of 131072, total 280296
+sent 0 bytes of 131072, total 280296
+sent 0 bytes of 131072, total 280296
+sent 0 bytes of 131072, total 280296
+sent 0 bytes of 131072, total 280296
+sent 0 bytes of 131072, total 280296
+sent 0 bytes of 131072, total 280296
+sent 0 bytes of 131072, total 280296
+sent 0 bytes of 131072, total 280296
+tcpi_snd_cwnd 16 tcpi_snd_mss 1374 tcpi_rtt 505565
+send_results
+{
+	"cpu_util_total":	0.6310904283747808,
+	"cpu_util_user":	0.024866791044149655,
+	"cpu_util_system":	0.60639153014338232,
+	"sender_has_retransmits":	1,
+	"congestion_used":	"cubic",
+	"streams":	[{
+			"id":	1,
+			"bytes":	280296,
+			"retransmits":	4,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0,
+			"start_time":	0,
+			"end_time":	5.0006260871887207
+		}]
+}
+get_results
+{
+	"cpu_util_total":	0.009813,
+	"cpu_util_user":	0.002761,
+	"cpu_util_system":	0.007046,
+	"sender_has_retransmits":	-1,
+	"streams":	[{
+			"id":	1,
+			"bytes":	222588,
+			"retransmits":	-1,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0
+		}]
+}
+interval_len 0.999935 bytes_transferred 52212
+interval forces keep
+[  5]   4.00-5.00   sec  51.0 KBytes   418 Kbits/sec    0   21.5 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   274 KBytes   448 Kbits/sec    4             sender
+[  5]   0.00-5.00   sec   217 KBytes   356 Kbits/sec                  receiver
+
+iperf Done.
+Wed May  5 20:00:20 2021
+send_parameters:
+{
+	"tcp":	true,
+	"omit":	0,
+	"time":	5,
+	"parallel":	1,
+	"len":	131072,
+	"pacing_timer":	1000,
+	"client_version":	"3.6"
+}
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6001
+SNDBUF is 16384, expecting 0
+RCVBUF is 131072, expecting 0
+Congestion algorithm is cubic
+[  5] local 192.168.17.57 port 54996 connected to 172.26.211.223 port 6001
+sent 78318 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 105798 bytes of 131072, total 184116
+sent 0 bytes of 131072, total 184116
+sent 0 bytes of 131072, total 184116
+sent 0 bytes of 131072, total 184116
+sent 0 bytes of 131072, total 184116
+sent 0 bytes of 131072, total 184116
+sent 0 bytes of 131072, total 184116
+sent 0 bytes of 131072, total 184116
+sent 0 bytes of 131072, total 184116
+sent 0 bytes of 131072, total 184116
+sent 94806 bytes of 131072, total 278922
+sent 0 bytes of 131072, total 278922
+sent 0 bytes of 131072, total 278922
+sent 0 bytes of 131072, total 278922
+sent 0 bytes of 131072, total 278922
+sent 0 bytes of 131072, total 278922
+sent 0 bytes of 131072, total 278922
+sent 0 bytes of 131072, total 278922
+sent 0 bytes of 131072, total 278922
+sent 0 bytes of 131072, total 278922
+tcpi_snd_cwnd 41 tcpi_snd_mss 1374 tcpi_rtt 403313
+interval_len 1.000518 bytes_transferred 278922
+interval forces keep
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   272 KBytes  2.23 Mbits/sec    0   55.0 KBytes       
+sent 115416 bytes of 131072, total 394338
+sent 0 bytes of 131072, total 394338
+sent 0 bytes of 131072, total 394338
+sent 0 bytes of 131072, total 394338
+sent 0 bytes of 131072, total 394338
+sent 0 bytes of 131072, total 394338
+sent 0 bytes of 131072, total 394338
+sent 0 bytes of 131072, total 394338
+sent 0 bytes of 131072, total 394338
+sent 0 bytes of 131072, total 394338
+tcpi_snd_cwnd 30 tcpi_snd_mss 1374 tcpi_rtt 331382
+interval_len 1.000117 bytes_transferred 115416
+interval forces keep
+[  5]   1.00-2.00   sec   113 KBytes   923 Kbits/sec    1   40.3 KBytes       
+sent 64578 bytes of 131072, total 458916
+sent 0 bytes of 131072, total 458916
+sent 0 bytes of 131072, total 458916
+sent 0 bytes of 131072, total 458916
+sent 0 bytes of 131072, total 458916
+sent 0 bytes of 131072, total 458916
+sent 0 bytes of 131072, total 458916
+sent 0 bytes of 131072, total 458916
+sent 0 bytes of 131072, total 458916
+sent 0 bytes of 131072, total 458916
+sent 129156 bytes of 131072, total 588072
+sent 0 bytes of 131072, total 588072
+sent 0 bytes of 131072, total 588072
+sent 0 bytes of 131072, total 588072
+sent 0 bytes of 131072, total 588072
+sent 0 bytes of 131072, total 588072
+sent 0 bytes of 131072, total 588072
+sent 0 bytes of 131072, total 588072
+sent 0 bytes of 131072, total 588072
+sent 0 bytes of 131072, total 588072
+tcpi_snd_cwnd 16 tcpi_snd_mss 1374 tcpi_rtt 170184
+interval_len 0.999693 bytes_transferred 193734
+interval forces keep
+[  5]   2.00-3.00   sec   189 KBytes  1.55 Mbits/sec    5   21.5 KBytes       
+sent 64578 bytes of 131072, total 652650
+sent 0 bytes of 131072, total 652650
+sent 0 bytes of 131072, total 652650
+sent 0 bytes of 131072, total 652650
+sent 0 bytes of 131072, total 652650
+sent 0 bytes of 131072, total 652650
+sent 0 bytes of 131072, total 652650
+sent 0 bytes of 131072, total 652650
+sent 0 bytes of 131072, total 652650
+sent 0 bytes of 131072, total 652650
+tcpi_snd_cwnd 18 tcpi_snd_mss 1374 tcpi_rtt 180654
+interval_len 0.999975 bytes_transferred 64578
+interval forces keep
+[  5]   3.00-4.00   sec  63.1 KBytes   517 Kbits/sec    0   24.2 KBytes       
+sent 64578 bytes of 131072, total 717228
+sent 0 bytes of 131072, total 717228
+sent 0 bytes of 131072, total 717228
+sent 0 bytes of 131072, total 717228
+sent 0 bytes of 131072, total 717228
+sent 0 bytes of 131072, total 717228
+sent 0 bytes of 131072, total 717228
+sent 0 bytes of 131072, total 717228
+sent 0 bytes of 131072, total 717228
+sent 0 bytes of 131072, total 717228
+sent 64578 bytes of 131072, total 781806
+sent 0 bytes of 131072, total 781806
+sent 0 bytes of 131072, total 781806
+sent 0 bytes of 131072, total 781806
+sent 0 bytes of 131072, total 781806
+sent 0 bytes of 131072, total 781806
+sent 0 bytes of 131072, total 781806
+sent 64578 bytes of 131072, total 846384
+sent 0 bytes of 131072, total 846384
+sent 0 bytes of 131072, total 846384
+tcpi_snd_cwnd 20 tcpi_snd_mss 1374 tcpi_rtt 216210
+send_results
+{
+	"cpu_util_total":	0.87797249819353618,
+	"cpu_util_user":	0.002100087036940531,
+	"cpu_util_system":	0.87596963740830591,
+	"sender_has_retransmits":	1,
+	"congestion_used":	"cubic",
+	"streams":	[{
+			"id":	1,
+			"bytes":	846384,
+			"retransmits":	6,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0,
+			"start_time":	0,
+			"end_time":	5.0002648830413818
+		}]
+}
+get_results
+{
+	"cpu_util_total":	0.506981,
+	"cpu_util_user":	0.103315,
+	"cpu_util_system":	0.403683,
+	"sender_has_retransmits":	-1,
+	"streams":	[{
+			"id":	1,
+			"bytes":	654024,
+			"retransmits":	-1,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0
+		}]
+}
+interval_len 0.999962 bytes_transferred 193734
+interval forces keep
+[  5]   4.00-5.00   sec   189 KBytes  1.55 Mbits/sec    0   26.8 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   827 KBytes  1.35 Mbits/sec    6             sender
+[  5]   0.00-5.00   sec   639 KBytes  1.05 Mbits/sec                  receiver
+
+iperf Done.
+Wed May  5 20:00:27 2021
+send_parameters:
+{
+	"tcp":	true,
+	"omit":	0,
+	"time":	5,
+	"parallel":	1,
+	"len":	131072,
+	"pacing_timer":	1000,
+	"client_version":	"3.6"
+}
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6001
+SNDBUF is 16384, expecting 0
+RCVBUF is 131072, expecting 0
+Congestion algorithm is cubic
+[  5] local 192.168.17.57 port 55000 connected to 172.26.211.223 port 6001
+sent 78318 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 108546 bytes of 131072, total 186864
+sent 0 bytes of 131072, total 186864
+sent 0 bytes of 131072, total 186864
+sent 0 bytes of 131072, total 186864
+sent 0 bytes of 131072, total 186864
+sent 0 bytes of 131072, total 186864
+sent 0 bytes of 131072, total 186864
+sent 0 bytes of 131072, total 186864
+sent 0 bytes of 131072, total 186864
+sent 0 bytes of 131072, total 186864
+sent 129156 bytes of 131072, total 316020
+sent 0 bytes of 131072, total 316020
+sent 0 bytes of 131072, total 316020
+sent 0 bytes of 131072, total 316020
+sent 0 bytes of 131072, total 316020
+sent 0 bytes of 131072, total 316020
+sent 0 bytes of 131072, total 316020
+sent 0 bytes of 131072, total 316020
+sent 0 bytes of 131072, total 316020
+sent 0 bytes of 131072, total 316020
+tcpi_snd_cwnd 66 tcpi_snd_mss 1374 tcpi_rtt 178474
+interval_len 1.000626 bytes_transferred 316020
+interval forces keep
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   309 KBytes  2.53 Mbits/sec    0   88.6 KBytes       
+sent 129156 bytes of 131072, total 445176
+sent 0 bytes of 131072, total 445176
+sent 0 bytes of 131072, total 445176
+sent 0 bytes of 131072, total 445176
+sent 0 bytes of 131072, total 445176
+sent 0 bytes of 131072, total 445176
+sent 0 bytes of 131072, total 445176
+sent 0 bytes of 131072, total 445176
+sent 0 bytes of 131072, total 445176
+sent 0 bytes of 131072, total 445176
+tcpi_snd_cwnd 69 tcpi_snd_mss 1374 tcpi_rtt 912657
+interval_len 1.000366 bytes_transferred 129156
+interval forces keep
+[  5]   1.00-2.00   sec   126 KBytes  1.03 Mbits/sec    0   92.6 KBytes       
+sent 131072 bytes of 131072, total 576248
+sent 62662 bytes of 131072, total 638910
+sent 0 bytes of 131072, total 638910
+sent 0 bytes of 131072, total 638910
+sent 0 bytes of 131072, total 638910
+sent 0 bytes of 131072, total 638910
+sent 0 bytes of 131072, total 638910
+sent 0 bytes of 131072, total 638910
+sent 0 bytes of 131072, total 638910
+sent 0 bytes of 131072, total 638910
+tcpi_snd_cwnd 17 tcpi_snd_mss 1374 tcpi_rtt 297114
+interval_len 0.999776 bytes_transferred 193734
+interval forces keep
+[  5]   2.00-3.00   sec   189 KBytes  1.55 Mbits/sec    6   22.8 KBytes       
+sent 129156 bytes of 131072, total 768066
+sent 0 bytes of 131072, total 768066
+sent 0 bytes of 131072, total 768066
+sent 0 bytes of 131072, total 768066
+sent 0 bytes of 131072, total 768066
+sent 0 bytes of 131072, total 768066
+sent 0 bytes of 131072, total 768066
+sent 0 bytes of 131072, total 768066
+sent 0 bytes of 131072, total 768066
+sent 0 bytes of 131072, total 768066
+tcpi_snd_cwnd 39 tcpi_snd_mss 1374 tcpi_rtt 268024
+interval_len 1.000123 bytes_transferred 129156
+interval forces keep
+[  5]   3.00-4.00   sec   126 KBytes  1.03 Mbits/sec    0   52.3 KBytes       
+sent 129156 bytes of 131072, total 897222
+sent 0 bytes of 131072, total 897222
+sent 0 bytes of 131072, total 897222
+sent 0 bytes of 131072, total 897222
+sent 0 bytes of 131072, total 897222
+sent 0 bytes of 131072, total 897222
+sent 0 bytes of 131072, total 897222
+sent 0 bytes of 131072, total 897222
+sent 0 bytes of 131072, total 897222
+sent 0 bytes of 131072, total 897222
+tcpi_snd_cwnd 18 tcpi_snd_mss 1374 tcpi_rtt 198679
+send_results
+{
+	"cpu_util_total":	0.50259279878604834,
+	"cpu_util_user":	0.012765853232412385,
+	"cpu_util_system":	0.48984622931984806,
+	"sender_has_retransmits":	1,
+	"congestion_used":	"cubic",
+	"streams":Wed May  5 20:00:34 2021
+send_parameters:
+{
+	"tcp":	true,
+	"omit":	0,
+	"time":	5,
+	"parallel":	1,
+	"len":	131072,
+	"pacing_timer":	1000,
+	"client_version":	"3.6"
+}
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6001
+SNDBUF is 16384, expecting 0
+RCVBUF is 131072, expecting 0
+Congestion algorithm is cubic
+[  5] local 192.168.17.57 port 55004 connected to 172.26.211.223 port 6001
+sent 78318 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 116790 bytes of 131072, total 195108
+sent 0 bytes of 131072, total 195108
+sent 0 bytes of 131072, total 195108
+sent 0 bytes of 131072, total 195108
+sent 0 bytes of 131072, total 195108
+sent 0 bytes of 131072, total 195108
+sent 0 bytes of 131072, total 195108
+sent 0 bytes of 131072, total 195108
+sent 0 bytes of 131072, total 195108
+sent 0 bytes of 131072, total 195108
+tcpi_snd_cwnd 38 tcpi_snd_mss 1374 tcpi_rtt 461132
+interval_len 1.000799 bytes_transferred 195108
+interval forces keep
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   191 KBytes  1.56 Mbits/sec    0   51.0 KBytes       
+sent 131072 bytes of 131072, total 326180
+sent 7702 bytes of 131072, total 333882
+sent 0 bytes of 131072, total 333882
+sent 0 bytes of 131072, total 333882
+sent 0 bytes of 131072, total 333882
+sent 0 bytes of 131072, total 333882
+sent 0 bytes of 131072, total 333882
+sent 0 bytes of 131072, total 333882
+sent 0 bytes of 131072, total 333882
+sent 0 bytes of 131072, total 333882
+tcpi_snd_cwnd 28 tcpi_snd_mss 1374 tcpi_rtt 317308
+interval_len 0.999716 bytes_transferred 138774
+interval forces keep
+[  5]   1.00-2.00   sec   136 KBytes  1.11 Mbits/sec    2   37.6 KBytes       
+tcpi_snd_cwnd 21 tcpi_snd_mss 1374 tcpi_rtt 402331
+interval_len 1.000627 bytes_transferred 0
+interval forces keep
+[  5]   2.00-3.00   sec  0.00 Bytes  0.00 bits/sec    1   28.2 KBytes       
+sent 129156 bytes of 131072, total 463038
+sent 0 bytes of 131072, total 463038
+sent 0 bytes of 131072, total 463038
+sent 0 bytes of 131072, total 463038
+sent 0 bytes of 131072, total 463038
+sent 0 bytes of 131072, total 463038
+sent 0 bytes of 131072, total 463038
+sent 0 bytes of 131072, total 463038
+sent 0 bytes of 131072, total 463038
+sent 0 bytes of 131072, total 463038
+tcpi_snd_cwnd 16 tcpi_snd_mss 1374 tcpi_rtt 294936
+interval_len 0.999324 bytes_transferred 129156
+interval forces keep
+[  5]   3.00-4.00   sec   126 KBytes  1.03 Mbits/sec    1   21.5 KBytes       
+sent 64578 bytes of 131072, total 527616
+sent 0 bytes of 131072, total 527616
+sent 0 bytes of 131072, total 527616
+sent 0 bytes of 131072, total 527616
+sent 0 bytes of 131072, total 527616
+sent 0 bytes of 131072, total 527616
+sent 0 bytes of 131072, total 527616
+sent 0 bytes of 131072, total 527616
+sent 0 bytes of 131072, total 527616
+sent 0 bytes of 131072, total 527616
+tcpi_snd_cwnd 18 tcpi_snd_mss 1374 tcpi_rtt 205851
+send_results
+{
+	"cpu_util_total":	0.4661203099304484,
+	"cpu_util_user":	0,
+	"cpu_util_system":	0.46610087124201555,
+	"sender_has_retransmits":	1,
+	"congestion_used":	"cubic",
+	"streams":	[{
+			"id":	1,
+			"bytes":	527616,
+			"retransmits":	4,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0,
+			"start_time":	0,
+			"end_time":	5.0001730918884277
+		}]
+}
+get_results
+{
+	"cpu_util_total":	0.298634,
+	"cpu_util_user":	0.069783,
+	"cpu_util_system":	0.228833,
+	"sender_has_retransmits":	-1,
+	"streams":	[{
+			"id":	1,
+			"bytes":	375102,
+			"retransmits":	-1,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0
+		}]
+}
+interval_len 0.999707 bytes_transferred 64578
+interval forces keep
+[  5]   4.00-5.00   sec  63.1 KBytes   517 Kbits/sec    0   24.2 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   515 KBytes   844 Kbits/sec    4             sender
+[  5]   0.00-5.00   sec   366 KBytes   600 Kbits/sec                  receiver
+
+iperf Done.
+Wed May  5 20:00:41 2021
+send_parameters:
+{
+	"tcp":	true,
+	"omit":	0,
+	"time":	5,
+	"parallel":	1,
+	"len":	131072,
+	"pacing_timer":	1000,
+	"client_version":	"3.6"
+}
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6001
+SNDBUF is 16384, expecting 0
+RCVBUF is 131072, expecting 0
+Congestion algorithm is cubic
+[  5] local 192.168.17.57 port 55008 connected to 172.26.211.223 port 6001
+sent 78318 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+tcpi_snd_cwnd 25 tcpi_snd_mss 1374 tcpi_rtt 313211
+interval_len 1.001138 bytes_transferred 78318
+interval forces keep
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  76.5 KBytes   626 Kbits/sec    1   33.5 KBytes       
+sent 119538 bytes of 131072, total 197856
+sent 0 bytes of 131072, total 197856
+sent 0 bytes of 131072, total 197856
+sent 0 bytes of 131072, total 197856
+sent 0 bytes of 131072, total 197856
+sent 0 bytes of 131072, total 197856
+sent 0 bytes of 131072, total 197856
+sent 0 bytes of 131072, total 197856
+sent 0 bytes of 131072, total 197856
+sent 0 bytes of 131072, total 197856
+tcpi_snd_cwnd 37 tcpi_snd_mss 1374 tcpi_rtt 871078
+interval_len 0.999416 bytes_transferred 119538
+interval forces keep
+[  5]   1.00-2.00   sec   117 KBytes   957 Kbits/sec    0   49.6 KBytes       
+sent 93432 bytes of 131072, total 291288
+sent 0 bytes of 131072, total 291288
+sent 0 bytes of 131072, total 291288
+sent 0 bytes of 131072, total 291288
+sent 0 bytes of 131072, total 291288
+sent 0 bytes of 131072, total 291288
+sent 0 bytes of 131072, total 291288
+sent 0 bytes of 131072, total 291288
+sent 0 bytes of 131072, total 291288
+sent 0 bytes of 131072, total 291288
+tcpi_snd_cwnd 39 tcpi_snd_mss 1374 tcpi_rtt 699709
+interval_len 0.999679 bytes_transferred 93432
+interval forces keep
+[  5]   2.00-3.00   sec  91.2 KBytes   748 Kbits/sec    0   52.3 KBytes       
+tcpi_snd_cwnd 42 tcpi_snd_mss 1374 tcpi_rtt 724457
+interval_len 1.000855 bytes_transferred 0
+interval forces keep
+[  5]   3.00-4.00   sec  0.00 Bytes  0.00 bits/sec    0   56.4 KBytes       
+sent 92058 bytes of 131072, total 383346
+sent 0 bytes of 131072, total 383346
+sent 0 bytes of 131072, total 383346
+sent 0 bytes of 131072, total 383346
+sent 0 bytes of 131072, total 383346
+sent 0 bytes of 131072, total 383346
+sent 0 bytes of 131072, total 383346
+sent 0 bytes of 131072, total 383346
+sent 0 bytes of 131072, total 383346
+sent 0 bytes of 131072, total 383346
+sent 68700 bytes of 131072, total 452046
+sent 0 bytes of 131072, total 452046
+sent 0 bytes of 131072, total 452046
+sent 0 bytes of 131072, total 452046
+sent 0 bytes of 131072, total 452046
+sent 0 bytes of 131072, total 452046
+sent 0 bytes of 131072, total 452046
+sent 0 bytes of 131072, total 452046
+sent 0 bytes of 131072, total 452046
+sent 0 bytes of 131072, total 452046
+tcpi_snd_cwnd 33 tcpi_snd_mss 1374 tcpi_rtt 470441
+send_results
+{
+	"cpu_util_total":	0.50967276073482748,
+	"cpu_util_user":	0,
+	"cpu_util_system":	0.50965352562290023,
+	"sender_has_retransmits":	1,
+	"congestion_used":	"cubic",
+	"streams":	[{
+			"id":	1,
+			"bytes":	452046,
+			"retransmits":	3,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0,
+			"start_time":	0,
+			"end_time":	5.0006110668182373
+		}]
+}
+get_results
+{
+	"cpu_util_total":	0.226408,
+	"cpu_util_user":	0.049051,
+	"cpu_util_system":	0.177357,
+	"sender_has_retransmits":	-1,
+	"streams":	[{
+			"id":	1,
+			"bytes":	355866,
+			"retransmits":	-1,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0
+		}]
+}
+interval_len 0.999523 bytes_transferred 160758
+interval forces keep
+[  5]   4.00-5.00   sec   157 KBytes  1.29 Mbits/sec    2   44.3 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   441 KBytes   723 Kbits/sec    3             sender
+[  5]   0.00-5.00   sec   348 KBytes   569 Kbits/sec                  receiver
+
+iperf Done.
+Wed May  5 20:00:48 2021
+Wed May  5 20:00:56 2021
+send_parameters:
+{
+	"tcp":	true,
+	"omit":	0,
+	"time":	5,
+	"parallel":	1,
+	"len":	131072,
+	"pacing_timer":	1000,
+	"client_version":	"3.6"
+}
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6001
+SNDBUF is 16384, expecting 0
+RCVBUF is 131072, expecting 0
+Congestion algorithm is cubic
+[  5] local 192.168.17.57 port 55016 connected to 172.26.211.223 port 6001
+sent 78318 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+tcpi_snd_cwnd 25 tcpi_snd_mss 1374 tcpi_rtt 343059
+interval_len 1.001218 bytes_transferred 78318
+interval forces keep
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  76.5 KBytes   626 Kbits/sec    1   33.5 KBytes       
+sent 42594 bytes of 131072, total 120912
+sent 0 bytes of 131072, total 120912
+sent 0 bytes of 131072, total 120912
+sent 0 bytes of 131072, total 120912
+sent 0 bytes of 131072, total 120912
+sent 0 bytes of 131072, total 120912
+sent 0 bytes of 131072, total 120912
+sent 0 bytes of 131072, total 120912
+sent 0 bytes of 131072, total 120912
+sent 0 bytes of 131072, total 120912
+sent 115416 bytes of 131072, total 236328
+sent 0 bytes of 131072, total 236328
+sent 0 bytes of 131072, total 236328
+sent 0 bytes of 131072, total 236328
+sent 0 bytes of 131072, total 236328
+sent 0 bytes of 131072, total 236328
+sent 0 bytes of 131072, total 236328
+sent 0 bytes of 131072, total 236328
+sent 0 bytes of 131072, total 236328
+sent 0 bytes of 131072, total 236328
+tcpi_snd_cwnd 26 tcpi_snd_mss 1374 tcpi_rtt 162283
+interval_len 0.999247 bytes_transferred 158010
+interval forces keep
+[  5]   1.00-2.00   sec   154 KBytes  1.27 Mbits/sec    1   34.9 KBytes       
+sent 79692 bytes of 131072, total 316020
+sent 0 bytes of 131072, total 316020
+sent 0 bytes of 131072, total 316020
+sent 0 bytes of 131072, total 316020
+sent 0 bytes of 131072, total 316020
+sent 0 bytes of 131072, total 316020
+sent 0 bytes of 131072, total 316020
+sent 0 bytes of 131072, total 316020
+sent 0 bytes of 131072, total 316020
+sent 0 bytes of 131072, total 316020
+sent 71448 bytes of 131072, total 387468
+sent 0 bytes of 131072, total 387468
+sent 0 bytes of 131072, total 387468
+sent 0 bytes of 131072, total 387468
+sent 0 bytes of 131072, total 387468
+sent 0 bytes of 131072, total 387468
+sent 0 bytes of 131072, total 387468
+sent 0 bytes of 131072, total 387468
+sent 0 bytes of 131072, total 387468
+sent 0 bytes of 131072, total 387468
+tcpi_snd_cwnd 21 tcpi_snd_mss 1374 tcpi_rtt 224028
+interval_len 0.999819 bytes_transferred 151140
+interval forces keep
+[  5]   2.00-3.00   sec   148 KBytes  1.21 Mbits/sec    4   28.2 KBytes       
+sent 82440 bytes of 131072, total 469908
+sent 0 bytes of 131072, total 469908
+sent 0 bytes of 131072, total 469908
+sent 0 bytes of 131072, total 469908
+sent 0 bytes of 131072, total 469908
+sent 0 bytes of 131072, total 469908
+sent 0 bytes of 131072, total 469908
+sent 0 bytes of 131072, total 469908
+sent 0 bytes of 131072, total 469908
+sent 0 bytes of 131072, total 469908
+tcpi_snd_cwnd 22 tcpi_snd_mss 1374 tcpi_rtt 229706
+interval_len 1.000259 bytes_transferred 82440
+interval forces keep
+[  5]   3.00-4.00   sec  80.5 KBytes   659 Kbits/sec    0   29.5 KBytes       
+sent 75570 bytes of 131072, total 545478
+sent 0 bytes of 131072, total 545478
+sent 0 bytes of 131072, total 545478
+sent 0 bytes of 131072, total 545478
+sent 0 bytes of 131072, total 545478
+sent 0 bytes of 131072, total 545478
+sent 0 bytes of 131072, total 545478
+sent 0 bytes of 131072, total 545478
+sent 0 bytes of 131072, total 545478
+sent 0 bytes of 131072, total 545478
+sent 78318 bytes of 131072, total 623796
+sent 0 bytes of 131072, total 623796
+sent 0 bytes of 131072, total 623796
+sent 0 bytes of 131072, total 623796
+sent 0 bytes of 131072, total 623796
+sent 0 bytes of 131072, total 623796
+sent 0 bytes of 131072, total 623796
+sent Wed May  5 20:01:03 2021
+Wed May  5 20:01:10 2021
+Wed May  5 20:01:17 2021
+Wed May  5 20:01:24 2021
+Wed May  5 20:01:31 2021
+Wed May  5 20:01:38 2021
+Wed May  5 20:01:45 2021
+Wed May  5 20:01:52 2021
+Wed May  5 20:01:59 2021
+send_parameters:
+{
+	"tcp":	true,
+	"omit":	0,
+	"time":	5,
+	"parallel":	1,
+	"len":	131072,
+	"pacing_timer":	1000,
+	"client_version":	"3.6"
+}
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6001
+SNDBUF is 16384, expecting 0
+RCVBUF is 131072, expecting 0
+Congestion algorithm is cubic
+[  5] local 192.168.17.57 port 55052 connected to 172.26.211.223 port 6001
+sent 78318 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 38472 bytes of 131072, total 116790
+sent 64578 bytes of 131072, total 181368
+sent 0 bytes of 131072, total 181368
+sent 0 bytes of 131072, total 181368
+sent 0 bytes of 131072, total 181368
+sent 0 bytes of 131072, total 181368
+sent 0 bytes of 131072, total 181368
+sent 0 bytes of 131072, total 181368
+sent 0 bytes of 131072, total 181368
+sent 0 bytes of 131072, total 181368
+sent 97554 bytes of 131072, total 278922
+sent 0 bytes of 131072, total 278922
+sent 0 bytes of 131072, total 278922
+sent 0 bytes of 131072, total 278922
+sent 0 bytes of 131072, total 278922
+sent 0 bytes of 131072, total 278922
+sent 0 bytes of 131072, total 278922
+sent 0 bytes of 131072, total 278922
+sent 0 bytes of 131072, total 278922
+sent 0 bytes of 131072, total 278922
+tcpi_snd_cwnd 35 tcpi_snd_mss 1374 tcpi_rtt 351851
+interval_len 1.000358 bytes_transferred 278922
+interval forces keep
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   272 KBytes  2.23 Mbits/sec    0   47.0 KBytes       
+sent 97554 bytes of 131072, total 376476
+sent 0 bytes of 131072, total 376476
+sent 0 bytes of 131072, total 376476
+sent 0 bytes of 131072, total 376476
+sent 0 bytes of 131072, total 376476
+sent 0 bytes of 131072, total 376476
+sent 0 bytes of 131072, total 376476
+sent 0 bytes of 131072, total 376476
+sent 0 bytes of 131072, total 376476
+sent 0 bytes of 131072, total 376476
+tcpi_snd_cwnd 40 tcpi_snd_mss 1374 tcpi_rtt 342276
+interval_len 1.000291 bytes_transferred 97554
+interval forces keep
+[  5]   1.00-2.00   sec  95.3 KBytes   780 Kbits/sec    0   53.7 KBytes       
+sent 90684 bytes of 131072, total 467160
+sent 0 bytes of 131072, total 467160
+sent 0 bytes of 131072, total 467160
+sent 0 bytes of 131072, total 467160
+sent 0 bytes of 131072, total 467160
+sent 0 bytes of 131072, total 467160
+sent 0 bytes of 131072, total 467160
+sent 0 bytes of 131072, total 467160
+sent 0 bytes of 131072, total 467160
+sent 0 bytes of 131072, total 467160
+sent 93432 bytes of 131072, total 560592
+sent 0 bytes of 131072, total 560592
+sent 0 bytes of 131072, total 560592
+sent 0 bytes of 131072, total 560592
+sent 0 bytes of 131072, total 560592
+sent 0 bytes of 131072, total 560592
+sent 0 bytes of 131072, total 560592
+sent 0 bytes of 131072, total 560592
+sent 0 bytes of 131072, total 560592
+sent 0 bytes of 131072, total 560592
+tcpi_snd_cwnd 45 tcpi_snd_mss 1374 tcpi_rtt 482034
+interval_len 0.999635 bytes_transferred 184116
+interval forces keep
+[  5]   2.00-3.00   sec   180 KBytes  1.47 Mbits/sec    0   60.4 KBytes       
+sent 85188 bytes of 131072, total 645780
+sent 0 bytes of 131072, total 645780
+sent 0 bytes of 131072, total 645780
+sent 0 bytes of 131072, total 645780
+sent 0 bytes of 131072, total 645780
+sent 0 bytes of 131072, total 645780
+sent 0 bytes of 131072, total 645780
+sent 0 bytes of 131072, total 645780
+sent 0 bytes of 131072, total 645780
+sent 0 bytes of 131072, total 645780
+tcpi_snd_cwnd 50 tcpi_snd_mss 1374 tcpi_rtt 468639
+interval_len 1.000316 bytes_transferred 85188
+interval forces keep
+[  5]   3.00-4.00   sec  83.2 KBytes   681 Kbits/sec    0   67.1 KBytes       
+sent 83814 bytes of 131072, total 729594
+sent 0 bytes of 131072, total 729594
+sent 0 bytes of 131072, total 729594
+sent 0 bytes of 131072, total 729594
+sent 0 bytes of 131072, total 729594
+sent 0 bytes of 131072, total 729594
+sent 0 bytes of 131072, total 729594
+sent 0 bytes of 131072, total 729594
+sent 0 bytes of 131072, total 729594
+sent 0 bytes of 131072, total 729594
+sent 131072 bytes of 131072, total 860666
+sent 9076 bytes of 131072, total 869742
+sent 0 bytes of 131072, total 869742
+sent 0 bytes of 131072, total 869742
+sent 0 bytes of 131072, total 869742
+sent 0 bytes of 131072, total 869742
+sent 0 bytes of 131072, total 869742
+sent 0 bytes of 131072, total 869742
+sent 0 bytes of 131072, total 869742
+sent 0 bytes of 131072, total 869742
+tcpi_snd_cwnd 64 tcpi_snd_mss 1374 tcpi_rtt 570383
+send_results
+{
+	"cpu_util_total":	0.57782343354451193,
+	"cpu_util_user":	0.025018592113095033,
+	"cpu_util_system":	0.55284411708622561,
+	"sender_has_retransmits":	1,
+	"congestion_used":	"cubic",
+	"streams":	[{
+			"id":	1,
+			"bytes":	869742,
+			"retransmits":	0,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0,
+			"start_time":	0,
+			"end_time":	5.0004730224609375
+		}]
+}
+get_results
+{
+	"cpu_util_total":	0.688078,
+	"cpu_util_user":	0.133471,
+	"cpu_util_system":	0.55464,
+	"sender_has_retransmits":	-1,
+	"streams":	[{
+			"id":	1,
+			"bytes":	714480,
+			"retransmits":	-1,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0
+		}]
+}
+interval_len 0.999873 bytes_transferred 223962
+interval forces keep
+[  5]   4.00-5.00   sec   219 KBytes  1.79 Mbits/sec    0   85.9 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   849 KBytes  1.39 Mbits/sec    0             sender
+[  5]   0.00-5.00   sec   698 KBytes  1.14 Mbits/sec                  receiver
+
+iperf Done.
+Wed May  5 20:02:06 2021
+send_parameters:
+{
+	"tcp":	true,
+	"omit":	0,
+	"time":	5,
+	"parallel":	1,
+	"len":	131072,
+	"pacing_timer":	1000,
+	"client_version":	"3.6"
+}
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6001
+SNDBUF is 16384, expecting 0
+RCVBUF is 131072, expecting 0
+Congestion algorithm is cubic
+[  5] local 192.168.17.57 port 55056 connected to 172.26.211.223 port 6001
+sent 78318 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 41220 bytes of 131072, total 119538
+sent 70074 bytes of 131072, total 189612
+sent 0 bytes of 131072, total 189612
+sent 0 bytes of 131072, total 189612
+sent 0 bytes of 131072, total 189612
+sent 0 bytes of 131072, total 189612
+sent 0 bytes of 131072, total 189612
+sent 0 bytes of 131072, total 189612
+sent 0 bytes of 131072, total 189612
+sent 0 bytes of 131072, total 189612
+tcpi_snd_cwnd 37 tcpi_snd_mss 1374 tcpi_rtt 368276
+interval_len 1.000816 bytes_transferred 189612
+interval forces keep
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   185 KBytes  1.52 Mbits/sec    0   49.6 KBytes       
+sent 101676 bytes of 131072, total 291288
+sent 0 bytes of 131072, total 291288
+sent 0 bytes of 131072, total 291288
+sent 0 bytes of 131072, total 291288
+sent 0 bytes of 131072, total 291288
+sent 0 bytes of 131072, total 291288
+sent 0 bytes of 131072, total 291288
+sent 0 bytes of 131072, total 291288
+sent 0 bytes of 131072, total 291288
+sent 0 bytes of 131072, total 291288
+tcpi_snd_cwnd 38 tcpi_snd_mss 1374 tcpi_rtt 806876
+interval_len 0.999931 bytes_transferred 101676
+interval forces keep
+[  5]   1.00-2.00   sec  99.3 KBytes   813 Kbits/sec    0   51.0 KBytes       
+tcpi_snd_cwnd 39 tcpi_snd_mss 1374 tcpi_rtt 1299952
+interval_len 1.000403 bytes_transferred 0
+interval forces keep
+[  5]   2.00-3.00   sec  0.00 Bytes  0.00 bits/sec    0   52.3 KBytes       
+tcpi_snd_cwnd 43 tcpi_snd_mss 1374 tcpi_rtt 1637689
+interval_len 0.999968 bytes_transferred 0
+interval forces keep
+[  5]   3.00-4.00   sec  0.00 Bytes  0.00 bits/sec    0   57.7 KBytes       
+tcpi_snd_cwnd 29 tcpi_snd_mss 1374 tcpi_rtt 1920890
+send_results
+{
+	"cpu_util_total":	0.48596706773576059,
+	"cpu_util_user":	0.077645570959434959,
+	"cpu_util_system":	0.40841495557622864,
+	"sender_has_retransmits":	1,
+	"congestion_used":	"cubic",
+	"streams":	[{
+			"id":	1,
+			"bytes":	291288,
+			"retransmits":	1,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0,
+			"start_time":	0,
+			"end_time":	5.0011801719665527
+		}]
+}
+get_results
+{
+	"cpu_util_total":	0.222005,
+	"cpu_util_user":	0.053913,
+	"cpu_util_system":	0.168092,
+	"sender_has_retransmits":	-1,
+	"streams":	[{
+			"id":	1,
+			"bytes":	256938,
+			"retransmits":	-1,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0
+		}]
+}
+interval_len 1.000062 bytes_transferred 0
+interval forces keep
+[  5]   4.00-5.00   sec  0.00 Bytes  0.00 bits/sec    1   38.9 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   284 KBytes   466 Kbits/sec    1             sender
+[  5]   0.00-5.00   sec   251 KBytes   411 Kbits/sec                  receiver
+
+iperf Done.
+Wed May  5 20:02:13 2021
+send_parameters:
+{
+	"tcp":	true,
+	"omit":	0,
+	"time":	5,
+	"parallel":	1,
+	"len":	131072,
+	"pacing_timer":	1000,
+	"client_version":	"3.6"
+}
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6001
+SNDBUF is 16384, expecting 0
+RCVBUF is 131072, expecting 0
+Congestion algorithm is cubic
+[  5] local 192.168.17.57 port 55060 connected to 172.26.211.223 port 6001
+sent 76944 bytes of 131072, total 76944
+sent 0 bytes of 131072, total 76944
+sent 0 bytes of 131072, total 76944
+sent 0 bytes of 131072, total 76944
+sent 0 bytes of 131072, total 76944
+sent 0 bytes of 131072, total 76944
+sent 0 bytes of 131072, total 76944
+sent 0 bytes of 131072, total 76944
+sent 0 bytes of 131072, total 76944
+sent 0 bytes of 131072, total 76944
+sent 59082 bytes of 131072, total 136026
+sent 0 bytes of 131072, total 136026
+sent 0 bytes of 131072, total 136026
+sent 0 bytes of 131072, total 136026
+sent 0 bytes of 131072, total 136026
+sent 0 bytes of 131072, total 136026
+sent 0 bytes of 131072, total 136026
+sent 0 bytes of 131072, total 136026
+sent 0 bytes of 131072, total 136026
+sent 0 bytes of 131072, total 136026
+tcpi_snd_cwnd 10 tcpi_snd_mss 1374 tcpi_rtt 188954
+interval_len 1.000385 bytes_transferred 136026
+interval forces keep
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   133 KBytes  1.09 Mbits/sec    1   13.4 KBytes       
+sent 59082 bytes of 131072, total 195108
+sent 0 bytes of 131072, total 195108
+sent 0 bytes of 131072, total 195108
+sent 0 bytes of 131072, total 195108
+sent 0 bytes of 131072, total 195108
+sent 0 bytes of 131072, total 195108
+sent 0 bytes of 131072, total 195108
+sent 0 bytes of 131072, total 195108
+sent 0 bytes of 131072, total 195108
+sent 0 bytes of 131072, total 195108
+tcpi_snd_cwnd 11 tcpi_snd_mss 1374 tcpi_rtt 281272
+interval_len 0.999798 bytes_transferred 59082
+interval forces keep
+[  5]   1.00-2.00   sec  57.7 KBytes   473 Kbits/sec    0   14.8 KBytes       
+tcpi_snd_cwnd 11 tcpi_snd_mss 1374 tcpi_rtt 429158
+interval_len 1.000965 bytes_transferred 0
+interval forces keep
+[  5]   2.00-3.00   sec  0.00 Bytes  0.00 bits/sec    0   14.8 KBytes       
+tcpi_snd_cwnd 12 tcpi_snd_mss 1374 tcpi_rtt 557674
+interval_len 0.999930 bytes_transferred 0
+interval forces keep
+[  5]   3.00-4.00   sec  0.00 Bytes  0.00 bits/sec    0   16.1 KBytes       
+sent 65952 bytes of 131072, total 261060
+sent 0 bytes of 131072, total 261060
+sent 0 bytes of 131072, total 261060
+sent 0 bytes of 131072, total 261060
+sent 0 bytes of 131072, total 261060
+sent 0 bytes of 131072, total 261060
+sent 0 bytes of 131072, total 261060
+sent 0 bytes of 131072, total 261060
+sent 0 bytes of 131072, total 261060
+sent 0 bytes of 131072, total 261060
+tcpi_snd_cwnd 18 tcpi_snd_mss 1374 tcpi_rtt 497649
+send_results
+{
+	"cpu_util_total":	1.2272254377610081,
+	"cpu_util_user":	0,
+	"cpu_util_system":	1.2272059003101572,
+	"sender_has_retransmits":	1,
+	"congestion_used":	"cubic",
+	"streams":	[{
+			"id":	1,
+			"bytes":	261060,
+			"retransmits":	1,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0,
+			"start_time":	0,
+			"end_time":	5.0005409717559814
+		}]
+}
+get_results
+{
+	"cpu_util_total":	0.233311,
+	"cpu_util_user":	0.056823,
+	"cpu_util_system":	0.176487,
+	"sender_has_retransmits":	-1,
+	"streams":	[{
+			"id":	1,
+			"bytes":	226710,
+			"retransmits":	-1,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0
+		}]
+}
+interval_len 0.999463 bytes_transferred 65952
+interval forces keep
+[  5]   4.00-5.00   sec  64.4 KBytes   528 Kbits/sec    0   24.2 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   255 KBytes   418 Kbits/sec    1             sender
+[  5]   0.00-5.00   sec   221 KBytes   363 Kbits/sec                  receiver
+
+iperf Done.
+Wed May  5 20:02:20 2021
+Wed May  5 20:02:27 2021
+send_parameters:
+{
+	"tcp":	true,
+	"omit":	0,
+	"time":	5,
+	"parallel":	1,
+	"len":	131072,
+	"pacing_timer":	1000,
+	"client_version":	"3.6"
+}
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6001
+SNDBUF is 16384, expecting 0
+RCVBUF is 131072, expecting 0
+Congestion algorithm is cubic
+[  5] local 192.168.17.57 port 55068 connected to 172.26.211.223 port 6001
+sent 78318 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 41220 bytes of 131072, total 119538
+sent 0 bytes of 131072, total 119538
+sent 0 bytes of 131072, total 119538
+sent 0 bytes of 131072, total 119538
+sent 0 bytes of 131072, total 119538
+sent 0 bytes of 131072, total 119538
+sent 0 bytes of 131072, total 119538
+sent 0 bytes of 131072, total 119538
+sent 0 bytes of 131072, total 119538
+sent 0 bytes of 131072, total 119538
+sent 101676 bytes of 131072, total 221214
+sent 0 bytes of 131072, total 221214
+sent 0 bytes of 131072, total 221214
+sent 0 bytes of 131072, total 221214
+sent 0 bytes of 131072, total 221214
+sent 0 bytes of 131072, total 221214
+sent 0 bytes of 131072, total 221214
+sent 0 bytes of 131072, total 221214
+sent 0 bytes of 131072, total 221214
+sent 0 bytes of 131072, total 221214
+tcpi_snd_cwnd 34 tcpi_snd_mss 1374 tcpi_rtt 509695
+interval_len 1.000475 bytes_transferred 221214
+interval forces keep
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   216 KBytes  1.77 Mbits/sec    0   45.6 KBytes       
+sent 100302 bytes of 131072, total 321516
+sent 0 bytes of 131072, total 321516
+sent 0 bytes of 131072, total 321516
+sent 0 bytes of 131072, total 321516
+sent 0 bytes of 131072, total 321516
+sent 0 bytes of 131072, total 321516
+sent 0 bytes of 131072, total 321516
+sent 0 bytes of 131072, total 321516
+sent 0 bytes of 131072, total 321516
+sent 0 bytes of 131072, total 321516
+tcpi_snd_cwnd 37 tcpi_snd_mss 1374 tcpi_rtt 408919
+interval_len 0.999901 bytes_transferred 100302
+interval forces keep
+[  5]   1.00-2.00   sec  98.0 KBytes   802 Kbits/sec    0   49.6 KBytes       
+sent 85188 bytes of 131072, total 406704
+sent 0 bytes of 131072, total 406704
+sent 0 bytes of 131072, total 406704
+sent 0 bytes of 131072, total 406704
+sent 0 bytes of 131072, total 406704
+sent 0 bytes of 131072, total 406704
+sent 0 bytes of 131072, total 406704
+sent 0 bytes of 131072, total 406704
+sent 0 bytes of 131072, total 406704
+sent 0 bytes of 131072, total 406704
+tcpi_snd_cwnd 28 tcpi_snd_mss 1374 tcpi_rtt 327546
+interval_len 1.000052 bytes_transferred 85188
+interval forces keep
+[  5]   2.00-3.00   sec  83.2 KBytes   681 Kbits/sec    2   37.6 KBytes       
+sent 101676 bytes of 131072, total 508380
+sent 0 bytes of 131072, total 508380
+sent 0 bytes of 131072, total 508380
+sent 0 bytes of 131072, total 508380
+sent 0 bytes of 131072, total 508380
+sent 0 bytes of 131072, total 508380
+sent 0 bytes of 131072, total 508380
+sent 0 bytes of 131072, total 508380
+sent 0 bytes of 131072, total 508380
+sent 0 bytes of 131072, total 508380
+tcpi_snd_cwnd 22 tcpi_snd_mss 1374 tcpi_rtt 325762
+interval_len 0.999851 bytes_transferred 101676
+interval forces keep
+[  5]   3.00-4.00   sec  99.3 KBytes   814 Kbits/sec    2   29.5 KBytes       
+sent 64578 bytes of 131072, total 572958
+sent 0 bytes of 131072, total 572958
+sent 0 bytes of 131072, total 572958
+sent 0 bytes of 131072, total 572958
+sent 0 bytes of 131072, total 572958
+sent 0 bytes of 131072, total 572958
+sent 0 bytes of 131072, total 572958
+sent 0 bytes of 131072, total 572958
+sent 0 bytes of 131072, total 572958
+sent 0 bytes of 131072, total 572958
+tcpi_snd_cwnd 17 tcpi_snd_mss 1374 tcpi_rtt 228031
+send_results
+{
+	"cpu_util_total":	0.6159241047855295,
+	"cpu_util_user":	0.0020000082353280276,
+	"cpu_util_system":	0.61390448862632574,
+	"sender_has_retransmits":	1,
+	"congestion_used":	"cubic",
+	"streams":	[{
+			"id":	1,
+			"bytes":	572958,
+			"retransmits":	10,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0,
+			"start_time":	0,
+			"end_time":	5.0004639625549316
+		}]
+}
+get_results
+{
+	"cpu_util_total":	0.417502,
+	"cpu_util_user":	0.09069,
+	"cpu_util_system":	0.326812,
+	"sender_has_retransmits":	-1,
+	"streams":	[{
+			"id":	1,
+			"bytes":	468534,
+			"retransmits":	-1,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0
+		}]
+}
+interval_len 1.000185 bytes_transferred 64578
+interval forces keep
+[  5]   4.00-5.00   sec  63.1 KBytes   517 Kbits/sec    6   22.8 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   560 KBytes   917 Kbits/sec   10             sender
+[  5]   0.00-5.00   sec   458 KBytes   750 Kbits/sec                  receiver
+
+iperf Done.
+Wed May  5 20:02:34 2021
+Wed May  5 20:02:41 2021
+send_parameters:
+{
+	"tcp":	true,
+	"omit":	0,
+	"time":	5,
+	"parallel":	1,
+	"len":	131072,
+	"pacing_timer":	1000,
+	"client_version":	"3.6"
+}
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6001
+SNDBUF is 16384, expecting 0
+RCVBUF is 131072, expecting 0
+Congestion algorithm is cubic
+[  5] local 192.168.17.57 port 55076 connected to 172.26.211.223 port 6001
+sent 78318 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+tcpi_snd_cwnd 10 tcpi_snd_mss 1374 tcpi_rtt 12398
+interval_len 5.014120 bytes_transferred 78318
+interval forces keep
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-5.01   sec  76.5 KBytes   125 Kbits/sec    0   13.4 KBytes       
+tcpi_snd_cwnd 10 tcpi_snd_mss 1374 tcpi_rtt 12398
+interval_len 0.000129 bytes_transferred 0
+ignoring short interval with no data
+tcpi_snd_cwnd 10 tcpi_snd_mss 1374 tcpi_rtt 12398
+interval_len 0.000028 bytes_transferred 0
+ignoring short interval with no data
+tcpi_snd_cwnd 10 tcpi_snd_mss 1374 tcpi_rtt 12398
+interval_len 0.000021 bytes_transferred 0
+ignoring short interval with no data
+tcpi_snd_cwnd 10 tcpi_snd_mss 1374 tcpi_rtt 12398
+send_results
+{
+	"cpu_util_total":	97.467731639946791,
+	"cpu_util_user":	27.345536934823983,
+	"cpu_util_system":	70.122155842212692,
+	"sender_has_retransmits":	1,
+	"congestion_used":	"cubic",
+	"streams":	[{
+			"id":	1,
+			"bytes":	78318,
+			"retransmits":	0,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0,
+			"start_time":	0,
+			"end_time":	5.0143601894378662
+		}]
+}
+get_results
+{
+	"cpu_util_total":	0.0363,
+	"cpu_util_user":	0.014211,
+	"cpu_util_system":	0.022071,
+	"sender_has_retransmits":	-1,
+	"streams":	[{
+			"id":	1,
+			"bytes":	13740,
+			"retransmits":	-1,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0
+		}]
+}
+interval_len 0.000062 bytes_transferred 0
+ignoring short interval with no data
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.01   sec  76.5 KBytes   125 Kbits/sec    0             sender
+[  5]   0.00-5.01   sec  13.4 KBytes  21.9 Kbits/sec                  receiver
+
+iperf Done.
+Wed May  5 20:02:48 2021
+Wed May  5 20:02:55 2021
+send_parameters:
+{
+	"tcp":	true,
+	"omit":	0,
+	"time":	5,
+	"parallel":	1,
+	"len":	131072,
+	"pacing_timer":	1000,
+	"client_version":	"3.6"
+}
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6001
+SNDBUF is 16384, expecting 0
+RCVBUF is 131072, expecting 0
+Congestion algorithm is cubic
+[  5] local 192.168.17.57 port 55084 connected to 172.26.211.223 port 6001
+sent 78318 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 130530 bytes of 131072, total 208848
+sent 0 bytes of 131072, total 208848
+sent 0 bytes of 131072, total 208848
+sent 0 bytes of 131072, total 208848
+sent 0 bytes of 131072, total 208848
+sent 0 bytes of 131072, total 208848
+sent 0 bytes of 131072, total 208848
+sent 0 bytes of 131072, total 208848
+sent 0 bytes of 131072, total 208848
+sent 0 bytes of 131072, total 208848
+tcpi_snd_cwnd 34 tcpi_snd_mss 1374 tcpi_rtt 476851
+interval_len 1.000633 bytes_transferred 208848
+interval forces keep
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   204 KBytes  1.67 Mbits/sec    0   45.6 KBytes       
+sent 103050 bytes of 131072, total 311898
+sent 0 bytes of 131072, total 311898
+sent 0 bytes of 131072, total 311898
+sent 0 bytes of 131072, total 311898
+sent 0 bytes of 131072, total 311898
+sent 0 bytes of 131072, total 311898
+sent 0 bytes of 131072, total 311898
+sent 0 bytes of 131072, total 311898
+sent 0 bytes of 131072, total 311898
+sent 0 bytes of 131072, total 311898
+tcpi_snd_cwnd 10 tcpi_snd_mss 1374 tcpi_rtt 136665
+interval_len 0.999793 bytes_transferred 103050
+interval forces keep
+[  5]   1.00-2.00   sec   101 KBytes   825 Kbits/sec    7   13.4 KBytes       
+sent 64578 bytes of 131072, total 376476
+sent 0 bytes of 131072, total 376476
+sent 0 bytes of 131072, total 376476
+sent 0 bytes of 131072, total 376476
+sent 0 bytes of 131072, total 376476
+sent 0 bytes of 131072, total 376476
+sent 0 bytes of 131072, total 376476
+sent 0 bytes of 131072, total 376476
+sent 0 bytes of 131072, total 376476
+sent 0 bytes of 131072, total 376476
+sent 72822 bytes of 131072, total 449298
+sent 0 bytes of 131072, total 449298
+sent 0 bytes of 131072, total 449298
+sent 0 bytes of 131072, total 449298
+sent 0 bytes of 131072, total 449298
+sent 0 bytes of 131072, total 449298
+sent 0 bytes of 131072, total 449298
+sent 0 bytes of 131072, total 449298
+sent 0 bytes of 131072, total 449298
+sent 0 bytes of 131072, total 449298
+tcpi_snd_cwnd 22 tcpi_snd_mss 1374 tcpi_rtt 187088
+interval_len 1.000015 bytes_transferred 137400
+interval forces keep
+[  5]   2.00-3.00   sec   134 KBytes  1.10 Mbits/sec    0   29.5 KBytes       
+sent 72822 bytes of 131072, total 522120
+sent 0 bytes of 131072, total 522120
+sent 0 bytes of 131072, total 522120
+sent 0 bytes of 131072, total 522120
+sent 0 bytes of 131072, total 522120
+sent 0 bytes of 131072, total 522120
+sent 0 bytes of 131072, total 522120
+sent 0 bytes of 131072, total 522120
+sent 0 bytes of 131072, total 522120
+sent 0 bytes of 131072, total 522120
+sent 74196 bytes of 131072, total 596316
+sent 0 bytes of 131072, total 596316
+sent 0 bytes of 131072, total 596316
+sent 0 bytes of 131072, total 596316
+sent 0 bytes of 131072, total 596316
+sent 0 bytes of 131072, total 596316
+sent 0 bytes of 131072, total 596316
+sent 0 bytes of 131072, total 596316
+sent 0 bytes of 131072, total 596316
+sent 0 bytes of 131072, total 596316
+tcpi_snd_cwnd 22 tcpi_snd_mss 1374 tcpi_rtt 259970
+interval_len 0.999726 bytes_transferred 147018
+interval forces keep
+[  5]   3.00-4.00   sec   144 KBytes  1.18 Mbits/sec    0   29.5 KBytes       
+sent 75570 bytes of 131072, total 671886
+sent 0 bytes of 131072, total 671886
+sent 0 bytes of 131072, total 671886
+sent 0 bytes of 131072, total 671886
+sent 0 bytes of 131072, total 671886
+sent 0 bytes of 131072, total 671886
+sent 0 bytes of 131072, total 671886
+sent 0 bytes of 131072, total 671886
+sent 0 bytes of 131072, total 671886
+sent 0 bytes of 131072, total 671886
+tcpi_snd_cwnd 16 tcpi_snd_mss 1374 tcpi_rtt 173699
+send_results
+{
+	"cpu_util_total":	0.47054810129042018,
+	"cpu_util_user":	0.02765620801394077,
+	"cpu_util_system":	0.44291152152915075,
+	"sender_has_retransmits":	1,
+	"congestion_used":	"cubic",
+	"streams":	[{
+			"id":	1,
+			"bytes":	671886,
+			"retransmits":	8,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0,
+			"start_time":	0,
+			"end_time":	5.0006148815155029
+		}]
+}
+get_results
+{
+	"cpu_util_total":	0.549516,
+	"cpu_util_user":	0.110692,
+	"cpu_util_system":	0.438823,
+	"sender_has_retransmits":	-1,
+	"streams":	[{
+			"id":	1,
+			"bytes":	586698,
+			"retransmits":	-1,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0
+		}]
+}
+interval_len 1.000448 bytes_transferred 75570
+interval forces keep
+[  5]   4.00-5.00   sec  73.8 KBytes   604 Kbits/sec    1   21.5 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   656 KBytes  1.07 Mbits/sec    8             sender
+[  5]   0.00-5.00   sec   573 KBytes   939 Kbits/sec                  receiver
+
+iperf Done.
+Wed May  5 20:03:02 2021
+send_parameters:
+{
+	"tcp":	true,
+	"omit":	0,
+	"time":	5,
+	"parallel":	1,
+	"len":	131072,
+	"pacing_timer":	1000,
+	"client_version":	"3.6"
+}
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6001
+SNDBUF is 16384, expecting 0
+RCVBUF is 131072, expecting 0
+Congestion algorithm is cubic
+[  5] local 192.168.17.57 port 55088 connected to 172.26.211.223 port 6001
+sent 78318 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 49464 bytes of 131072, total 127782
+sent 0 bytes of 131072, total 127782
+sent 0 bytes of 131072, total 127782
+sent 0 bytes of 131072, total 127782
+sent 0 bytes of 131072, total 127782
+sent 0 bytes of 131072, total 127782
+sent 0 bytes of 131072, total 127782
+sent 0 bytes of 131072, total 127782
+sent 0 bytes of 131072, total 127782
+sent 0 bytes of 131072, total 127782
+sent 46716 bytes of 131072, total 174498
+sent 0 bytes of 131072, total 174498
+sent 0 bytes of 131072, total 174498
+sent 0 bytes of 131072, total 174498
+sent 0 bytes of 131072, total 174498
+sent 0 bytes of 131072, total 174498
+sent 5496 bytes of 131072, total 179994
+sent 0 bytes of 131072, total 179994
+sent 0 bytes of 131072, total 179994
+sent 0 bytes of 131072, total 179994
+sent 42594 bytes of 131072, total 222588
+sent 0 bytes of 131072, total 222588
+sent 0 bytes of 131072, total 222588
+sent 0 bytes of 131072, total 222588
+sent 0 bytes of 131072, total 222588
+sent 0 bytes of 131072, total 222588
+sent 0 bytes of 131072, total 222588
+sent 0 bytes of 131072, total 222588
+sent 0 bytes of 131072, total 222588
+sent 0 bytes of 131072, total 222588
+sent 41220 bytes of 131072, total 263808
+sent 0 bytes of 131072, total 263808
+sent 0 bytes of 131072, total 263808
+sent 0 bytes of 131072, total 263808
+sent 0 bytes of 131072, total 263808
+sent 0 bytes of 131072, total 263808
+sent 0 bytes of 131072, total 263808
+sent 0 bytes of 131072, total 263808
+sent 0 bytes of 131072, total 263808
+sent 0 bytes of 131072, total 263808
+tcpi_snd_cwnd 11 tcpi_snd_mss 1374 tcpi_rtt 66439
+interval_len 1.000336 bytes_transferred 263808
+interval forces keep
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   258 KBytes  2.11 Mbits/sec    4   14.8 KBytes       
+sent 41220 bytes of 131072, total 305028
+sent 0 bytes of 131072, total 305028
+sent 0 bytes of 131072, total 305028
+sent 0 bytes of 131072, total 305028
+sent 0 bytes of 131072, total 305028
+sent 0 bytes of 131072, total 305028
+sent 0 bytes of 131072, total 305028
+sent 0 bytes of 131072, total 305028
+sent 0 bytes of 131072, total 305028
+sent 0 bytes of 131072, total 305028
+sent 45342 bytes of 131072, total 350370
+sent 0 bytes of 131072, total 350370
+sent 0 bytes of 131072, total 350370
+sent 0 bytes of 131072, total 350370
+sent 0 bytes of 131072, total 350370
+sent 0 bytes of 131072, total 350370
+sent 0 bytes of 131072, total 350370
+sent 0 bytes of 131072, total 350370
+sent 0 bytes of 131072, total 350370
+sent 0 bytes of 131072, total 350370
+sent 49464 bytes of 131072, total 399834
+sent 0 bytes of 131072, total 399834
+sent 0 bytes of 131072, total 399834
+sent 0 bytes of 131072, total 399834
+sent 0 bytes of 131072, total 399834
+sent 0 bytes of 131072, total 399834
+sent 0 bytes of 131072, total 399834
+sent 0 bytes of 131072, total 399834
+sent 0 bytes of 131072, total 399834
+sent 0 bytes of 131072, total 399834
+sent 49464 bytes of 131072, total 449298
+sent 0 bytes of 131072, total 449298
+sent 0 bytes of 131072, total 449298
+sent 0 bytes of 131072, total 449298
+sent 0 bytes of 131072, total 449298
+sent 0 bytes of 131072, total 449298
+sent 0 bytes of 131072, total 449298
+sent 0 bytes of 131072, total 449298
+sent 0 bytes of 131072, total 449298
+sent 0 bytes of 131072, total 449298
+sent 53586 bytes of 131072, total 502884
+sent 0 bytes of 131072, total 502884
+sent 0 bytes of 131072, total 502884
+sent 0 bytes of 131072, total 502884
+sent 5496 bytes of 131072, total 508380
+sent 0 bytes of 131072, total 508380
+sent 0 bytes of 131072, total 508380
+sent 0 bytes of 131072, total 508380
+sent 0 bytes of 131072, total 508380
+sent 0 bytes of 131072, total 508380
+sent 42594 bytes of 131072, total 550974
+sent 0 bytes of 131072, total 550974
+sent 0 bytes of 131072, total 550974
+sent 0 bytes of 131072, total 550974
+sent 0 bytes of 131072, total 550974
+sent 0 bytes of 131072, total 550974
+sent 0 bytes of 131072, total 550974
+sent 0 bytes of 131072, total 550974
+sent 0 bytes of 131072, total 550974
+sent 0 bytes of 131072, total 550974
+sent 38472 bytes of 131072, total 589446
+sent 0 bytes of 131072, total 589446
+sent 0 bytes of 131072, total 589446
+sent 0 bytes of 131072, total 589446
+sent 0 bytes of 131072, total 589446
+sent 0 bytes of 131072, total 589446
+sent 0 bytes of 131072, total 589446
+sent 0 bytes of 131072, total 589446
+sent 0 bytes of 131072, total 589446
+sent 0 bytes of 131072, total 589446
+sent 49464 bytes of 131072, total 638910
+sent 0 bytes of 131072, total 638910
+sent 0 bytes of 131072, total 638910
+sent 0 bytes of 131072, total 638910
+sent 0 bytes of 131072, total 638910
+sent 0 bytes of 131072, total 638910
+sent 0 bytes of 131072, total 638910
+sent 0 bytes of 131072, total 638910
+sent 0 bytes of 131072, total 638910
+sent 0 bytes of 131072, total 638910
+sent 46716 bytes of 131072, total 685626
+sent 0 bytes of 131072, total 685626
+sent 0 bytes of 131072, total 685626
+sent 0 bytes of 131072, total 685626
+sent 0 bytes of 131072, total 685626
+sent 0 bytes of 131072, total 685626
+sent 0 bytes of 131072, total 685626
+sent 0 bytes of 131072, total 685626
+sent 0 bytes of 131072, total 685626
+sent 0 bytes of 131072, total 685626
+sent 45342 bytes of 131072, total 730968
+sent 0 bytes of 131072, total 730968
+sent 0 bytes of 131072, total 730968
+sent 0 bytes of 131072, total 730968
+sent 0 bytes of 131072, total 730968
+sent 0 bytes of 131072, total 730968
+sent 0 bytes of 131072, total 730968
+sent 0 bytes of 131072, total 730968
+sent 0 bytes of 131072, total 730968
+sent 0 bytes of 131072, total 730968
+sent 39846 bytes of 131072, total 770814
+sent 0 bytes of 131072, total 770814
+sent 0 bytes of 131072, total 770814
+sent 0 bytes of 131072, total 770814
+sent 0 bytes of 131072, total 770814
+sent 0 bytes of 131072, total 770814
+sent 0 bytes of 131072, total 770814
+sent 0 bytes of 131072, total 770814
+sent 0 bytes of 131072, total 770814
+sent 0 bytes of 131072, total 770814
+sent 90684 bytes of 131072, total 861498
+sent 0 bytes of 131072, total 861498
+sent 0 bytes of 131072, total 861498
+sent 0 bytes of 131072, total 861498
+sent 0 bytes of 131072, total 861498
+sent 0 bytes of 131072, total 861498
+sent 0 bytes of 131072, total 861498
+sent 0 bytes of 131072, total 861498
+sent 0 bytes of 131072, total 861498
+sent 0 bytes of 131072, total 861498
+tcpi_snd_cwnd 16 tcpi_snd_mss 1374 tcpi_rtt 58937
+interval_len 0.999850 bytes_transferred 597690
+interval forces keep
+[  5]   1.00-2.00   sec   584 KBytes  4.78 Mbits/sec    1   21.5 KBytes       
+sent 38472 bytes of 131072, total 899970
+sent 0 bytes of 131072, total 899970
+sent 0 bytes of 131072, total 899970
+sent 0 bytes of 131072, total 899970
+sent 0 bytes of 131072, total 899970
+sent 0 bytes of 131072, total 899970
+sent 0 bytes of 131072, total 899970
+sent 0 bytes of 131072, total 899970
+sent 0 bytes of 131072, total 899970
+sent 0 bytes of 131072, total 899970
+sent 103050 bytes of 131072, total 1003020
+sent 0 bytes of 131072, total 1003020
+sent 0 bytes of 131072, total 1003020
+sent 0 bytes of 131072, total 1003020
+sent 0 bytes of 131072, total 1003020
+sent 0 bytes of 131072, total 1003020
+sent 0 bytes of 131072, total 1003020
+sent 0 bytes of 131072, total 1003020
+sent 0 bytes of 131072, total 1003020
+sent 0 bytes of 131072, total 1003020
+sent 96180 bytes of 131072, total 1099200
+sent 0 bytes of 131072, total 1099200
+sent 0 bytes of 131072, total 1099200
+sent 0 bytes of 131072, total 1099200
+sent 0 bytes of 131072, total 1099200
+sent 0 bytes of 131072, total 1099200
+sent 0 bytes of 131072, total 1099200
+sent 0 bytes of 131072, total 1099200
+sent 0 bytes of 131072, total 1099200
+sent 0 bytes of 131072, total 1099200
+sent 92058 bytes of 131072, total 1191258
+sent 0 bytes of 131072, total 1191258
+sent 0 bytes of 131072, total 1191258
+sent 0 bytes of 131072, total 1191258
+sent 0 bytes of 131072, total 1191258
+sent 0 bytes of 131072, total 1191258
+sent 0 bytes of 131072, total 1191258
+sent 0 bytes of 131072, total 1191258
+sent 0 bytes of 131072, total 1191258
+sent 0 bytes of 131072, total 1191258
+tcpi_snd_cwnd 16 tcpi_snd_mss 1374 tcpi_rtt 44994
+interval_len 1.000060 bytes_transferred 329760
+interval forces keep
+[  5]   2.00-3.00   sec   322 KBytes  2.64 Mbits/sec    1   21.5 KBytes       
+sent 37098 bytes of 131072, total 1228356
+sent 0 bytes of 131072, total 1228356
+sent 0 bytes of 131072, total 1228356
+sent 0 bytes of 131072, total 1228356
+sent 0 bytes of 131072, total 1228356
+sent 0 bytes of 131072, total 1228356
+sent 0 bytes of 131072, total 1228356
+sent 0 bytes of 131072, total 1228356
+sent 0 bytes of 131072, total 1228356
+sent 0 bytes of 131072, total 1228356
+sent 45342 bytes of 131072, total 1273698
+sent 0 bytes of 131072, total 1273698
+sent 0 bytes of 131072, total 1273698
+sent 0 bytes of 131072, total 1273698
+sent 0 bytes of 131072, total 1273698
+sent 0 bytes of 131072, total 1273698
+sent 0 bytes of 131072, total 1273698
+sent 0 bytes of 131072, total 1273698
+sent 0 bytes of 131072, total 1273698
+sent 0 bytes of 131072, total 1273698
+sent 39846 bytes of 131072, total 1313544
+sent 0 bytes of 131072, total 1313544
+sent 0 bytes of 131072, total 1313544
+sent 0 bytes of 131072, total 1313544
+sent 0 bytes of 131072, total 1313544
+sent 0 bytes of 131072, total 1313544
+sent 0 bytes of 131072, total 1313544
+sent 0 bytes of 131072, total 1313544
+sent 0 bytes of 131072, total 1313544
+sent 0 bytes of 131072, total 1313544
+sent 38472 bytes of 131072, total 1352016
+sent 0 bytes of 131072, total 1352016
+sent 0 bytes of 131072, total 1352016
+sent 0 bytes of 131072, total 1352016
+sent 0 bytes of 131072, total 1352016
+sent 0 bytes of 131072, total 1352016
+sent 0 bytes of 131072, total 1352016
+sent 0 bytes of 131072, total 1352016
+sent 0 bytes of 131072, total 1352016
+sent 0 bytes of 131072, total 1352016
+sent 39846 bytes of 131072, total 1391862
+sent 0 bytes of 131072, total 1391862
+sent 0 bytes of 131072, total 1391862
+sent 0 bytes of 131072, total 1391862
+sent 0 bytes of 131072, total 1391862
+sent 0 bytes of 131072, total 1391862
+sent 0 bytes of 131072, total 1391862
+sent 0 bytes of 131072, total 1391862
+sent 64578 bytes of 131072, total 1456440
+sent 0 bytes of 131072, total 1456440
+tcpi_snd_cwnd 21 tcpi_snd_mss 1374 tcpi_rtt 132004
+interval_len 1.000173 bytes_transferred 265182
+interval forces keep
+[  5]   3.00-4.00   sec   259 KBytes  2.12 Mbits/sec    0   28.2 KBytes       
+tcpi_snd_cwnd 23 tcpi_snd_mss 1374 tcpi_rtt 393381
+send_results
+{
+	"cpu_util_total":	0.72159390542508917,
+	"cpu_util_user":	0.17028267394377106,
+	"cpu_util_system":	0.551370044286042,
+	"sender_has_retransmits":	1,
+	"congestion_used":	"cubic",
+	"streams":	[{
+			"id":	1,
+			"bytes":	1456440,
+			"retransmits":	6,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0,
+			"start_time":	0,
+			"end_time":	5.0011749267578125
+		}]
+}
+get_results
+{
+	"cpu_util_total":	0.994297,
+	"cpu_util_user":	0.179576,
+	"cpu_util_system":	0.814721,
+	"sender_has_retransmits":	-1,
+	"streams":	[{
+			"id":	1,
+			"bytes":	1430334,
+			"retransmits":	-1,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0
+		}]
+}
+interval_len 1.000756 bytes_transferred 0
+interval forces keep
+[  5]   4.00-5.00   sec  0.00 Bytes  0.00 bits/sec    0   30.9 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  1.39 MBytes  2.33 Mbits/sec    6             sender
+[  5]   0.00-5.00   sec  1.36 MBytes  2.29 Mbits/sec                  receiver
+
+iperf Done.
+Wed May  5 20:03:09 2021
+Wed May  5 20:03:16 2021
+Wed May  5 20:03:23 2021
+Wed May  5 20:03:30 2021
+Wed May  5 20:03:37 2021
+Wed May  5 20:03:44 2021
+Wed May  5 20:03:51 2021
+Wed May  5 20:03:58 2021
+Wed May  5 20:04:05 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 20:04:12 2021
+Wed May  5 20:04:19 2021
+Wed May  5 20:04:26 2021
+Wed May  5 20:04:33 2021
+Wed May  5 20:04:40 2021
+send_parameters:
+{
+	"tcp":	true,
+	"omit":	0,
+	"time":	5,
+	"parallel":	1,
+	"len":	131072,
+	"pacing_timer":	1000,
+	"client_version":	"3.6"
+}
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6002
+SNDBUF is 16384, expecting 0
+RCVBUF is 131072, expecting 0
+Congestion algorithm is cubic
+[  5] local 192.168.17.57 port 54590 connected to 172.26.211.223 port 6002
+sent 78318 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 119538 bytes of 131072, total 197856
+sent 0 bytes of 131072, total 197856
+sent 0 bytes of 131072, total 197856
+sent 0 bytes of 131072, total 197856
+sent 0 bytes of 131072, total 197856
+sent 0 bytes of 131072, total 197856
+sent 0 bytes of 131072, total 197856
+sent 0 bytes of 131072, total 197856
+sent 0 bytes of 131072, total 197856
+sent 0 bytes of 131072, total 197856
+tcpi_snd_cwnd 38 tcpi_snd_mss 1374 tcpi_rtt 396081
+interval_len 1.000697 bytes_transferred 197856
+interval forces keep
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   193 KBytes  1.58 Mbits/sec    0   51.0 KBytes       
+sent 92058 bytes of 131072, total 289914
+sent 0 bytes of 131072, total 289914
+sent 0 bytes of 131072, total 289914
+sent 0 bytes of 131072, total 289914
+sent 0 bytes of 131072, total 289914
+sent 0 bytes of 131072, total 289914
+sent 0 bytes of 131072, total 289914
+sent 0 bytes of 131072, total 289914
+sent 0 bytes of 131072, total 289914
+sent 0 bytes of 131072, total 289914
+tcpi_snd_cwnd 41 tcpi_snd_mss 1374 tcpi_rtt 669895
+interval_len 1.000005 bytes_transferred 92058
+interval forces keep
+[  5]   1.00-2.00   sec  89.9 KBytes   736 Kbits/sec    0   55.0 KBytes       
+sent 92058 bytes of 131072, total 381972
+sent 0 bytes of 131072, total 381972
+sent 0 bytes of 131072, total 381972
+sent 0 bytes of 131072, total 381972
+sent 0 bytes of 131072, total 381972
+sent 0 bytes of 131072, total 381972
+sent 0 bytes of 131072, total 381972
+sent 0 bytes of 131072, total 381972
+sent 0 bytes of 131072, total 381972
+sent 0 bytes of 131072, total 381972
+tcpi_snd_cwnd 45 tcpi_snd_mss 1374 tcpi_rtt 590494
+interval_len 0.999791 bytes_transferred 92058
+interval forces keep
+[  5]   2.00-3.00   sec  89.9 KBytes   737 Kbits/sec    0   60.4 KBytes       
+sent 92058 bytes of 131072, total 474030
+sent 0 bytes of 131072, total 474030
+sent 0 bytes of 131072, total 474030
+sent 0 bytes of 131072, total 474030
+sent 0 bytes of 131072, total 474030
+sent 0 bytes of 131072, total 474030
+sent 0 bytes of 131072, total 474030
+sent 0 bytes of 131072, total 474030
+sent 0 bytes of 131072, total 474030
+sent 0 bytes of 131072, total 474030
+sent 86562 bytes of 131072, total 560592
+sent 0 bytes of 131072, total 560592
+sent 0 bytes of 131072, total 560592
+sent 0 bytes of 131072, total 560592
+sent 0 bytes of 131072, total 560592
+sent 0 bytes of 131072, total 560592
+sent 0 bytes of 131072, total 560592
+sent 0 bytes of 131072, total 560592
+sent 0 bytes of 131072, total 560592
+sent 0 bytes of 131072, total 560592
+tcpi_snd_cwnd 51 tcpi_snd_mss 1374 tcpi_rtt 362062
+interval_len 0.999787 bytes_transferred 178620
+interval forces keep
+[  5]   3.00-4.00   sec   174 KBytes  1.43 Mbits/sec    0   68.4 KBytes       
+sent 85188 bytes of 131072, total 645780
+sent 0 bytes of 131072, total 645780
+sent 0 bytes of 131072, total 645780
+sent 0 bytes of 131072, total 645780
+sent 0 bytes of 131072, total 645780
+sent 0 bytes of 131072, total 645780
+sent 0 bytes of 131072, total 645780
+sent 0 bytes of 131072, total 645780
+sent 0 bytes of 131072, total 645780
+sent 0 bytes of 131072, total 645780
+sent 131072 bytes of 131072, total 776852
+sent 4954 bytes of 131072, total 781806
+sent 0 bytes of 131072, total 781806
+sent 0 bytes of 131072, total 781806
+sent 0 bytes of 131072, total 781806
+sent 0 bytes of 131072, total 781806
+sent 0 bytes of 131072, total 781806
+sWed May  5 20:04:47 2021
+send_parameters:
+{
+	"tcp":	true,
+	"omit":	0,
+	"time":	5,
+	"parallel":	1,
+	"len":	131072,
+	"pacing_timer":	1000,
+	"client_version":	"3.6"
+}
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6002
+SNDBUF is 16384, expecting 0
+RCVBUF is 131072, expecting 0
+Congestion algorithm is cubic
+[  5] local 192.168.17.57 port 54594 connected to 172.26.211.223 port 6002
+sent 78318 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 52212 bytes of 131072, total 130530
+sent 0 bytes of 131072, total 130530
+sent 0 bytes of 131072, total 130530
+sent 0 bytes of 131072, total 130530
+sent 0 bytes of 131072, total 130530
+sent 0 bytes of 131072, total 130530
+sent 0 bytes of 131072, total 130530
+sent 0 bytes of 131072, total 130530
+sent 0 bytes of 131072, total 130530
+sent 0 bytes of 131072, total 130530
+tcpi_snd_cwnd 31 tcpi_snd_mss 1374 tcpi_rtt 503110
+interval_len 1.000650 bytes_transferred 130530
+interval forces keep
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   127 KBytes  1.04 Mbits/sec    0   41.6 KBytes       
+sent 104424 bytes of 131072, total 234954
+sent 0 bytes of 131072, total 234954
+sent 0 bytes of 131072, total 234954
+sent 0 bytes of 131072, total 234954
+sent 0 bytes of 131072, total 234954
+sent 0 bytes of 131072, total 234954
+sent 0 bytes of 131072, total 234954
+sent 0 bytes of 131072, total 234954
+sent 0 bytes of 131072, total 234954
+sent 0 bytes of 131072, total 234954
+tcpi_snd_cwnd 32 tcpi_snd_mss 1374 tcpi_rtt 881199
+interval_len 1.000001 bytes_transferred 104424
+interval forces keep
+[  5]   1.00-2.00   sec   102 KBytes   835 Kbits/sec    0   42.9 KBytes       
+tcpi_snd_cwnd 34 tcpi_snd_mss 1374 tcpi_rtt 1292391
+interval_len 1.000466 bytes_transferred 0
+interval forces keep
+[  5]   2.00-3.00   sec  0.00 Bytes  0.00 bits/sec    0   45.6 KBytes       
+tcpi_snd_cwnd 39 tcpi_snd_mss 1374 tcpi_rtt 1683900
+interval_len 0.999986 bytes_transferred 0
+interval forces keep
+[  5]   3.00-4.00   sec  0.00 Bytes  0.00 bits/sec    0   52.3 KBytes       
+sent 93432 bytes of 131072, total 328386
+sent 0 bytes of 131072, total 328386
+sent 0 bytes of 131072, total 328386
+sent 0 bytes of 131072, total 328386
+sent 0 bytes of 131072, total 328386
+sent 0 bytes of 131072, total 328386
+sent 0 bytes of 131072, total 328386
+sent 0 bytes of 131072, total 328386
+sent 0 bytes of 131072, total 328386
+sent 0 bytes of 131072, total 328386
+tcpi_snd_cwnd 49 tcpi_snd_mss 1374 tcpi_rtt 1670732
+send_results
+{
+	"cpu_util_total":	0.52247110612005188,
+	"cpu_util_user":	0,
+	"cpu_util_system":	0.52247110612005188,
+	"sender_has_retransmits":	1,
+	"congestion_used":	"cubic",
+	"streams":	[{
+			"id":	1,
+			"bytes":	328386,
+			"retransmits":	0,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0,
+			"start_time":	0,
+			"end_time":	5.0007989406585693
+		}]
+}
+get_results
+{
+	"cpu_util_total":	0.177861,
+	"cpu_util_user":	0.042567,
+	"cpu_util_system":	0.135294,
+	"sender_has_retransmits":	-1,
+	"streams":	[{
+			"id":	1,
+			"bytes":	166254,
+			"retransmits":	-1,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0
+		}]
+}
+interval_len 0.999696 bytes_transferred 93432
+interval forces keep
+[  5]   4.00-5.00   sec  91.2 KBytes   748 Kbits/sec    0   65.7 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   321 KBytes   525 Kbits/sec    0             sender
+[  5]   0.00-5.00   sec   162 KBytes   266 Kbits/sec                  receiver
+
+iperf Done.
+Wed May  5 20:04:54 2021
+send_parameters:
+{
+	"tcp":	true,
+	"omit":	0,
+	"time":	5,
+	"parallel":	1,
+	"len":	131072,
+	"pacing_timer":	1000,
+	"client_version":	"3.6"
+}
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6002
+SNDBUF is 16384, expecting 0
+RCVBUF is 131072, expecting 0
+Congestion algorithm is cubic
+[  5] local 192.168.17.57 port 54598 connected to 172.26.211.223 port 6002
+sent 78318 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 87936 bytes of 131072, total 166254
+sent 0 bytes of 131072, total 166254
+sent 0 bytes of 131072, total 166254
+sent 0 bytes of 131072, total 166254
+sent 0 bytes of 131072, total 166254
+sent 0 bytes of 131072, total 166254
+sent 0 bytes of 131072, total 166254
+sent 0 bytes of 131072, total 166254
+sent 0 bytes of 131072, total 166254
+sent 0 bytes of 131072, total 166254
+sent 81066 bytes of 131072, total 247320
+sent 0 bytes of 131072, total 247320
+sent 0 bytes of 131072, total 247320
+sent 0 bytes of 131072, total 247320
+sent 0 bytes of 131072, total 247320
+sent 0 bytes of 131072, total 247320
+sent 0 bytes of 131072, total 247320
+sent 0 bytes of 131072, total 247320
+sent 0 bytes of 131072, total 247320
+sent 0 bytes of 131072, total 247320
+sent 129156 bytes of 131072, total 376476
+sent 0 bytes of 131072, total 376476
+sent 0 bytes of 131072, total 376476
+sent 0 bytes of 131072, total 376476
+sent 0 bytes of 131072, total 376476
+sent 0 bytes of 131072, total 376476
+sent 0 bytes of 131072, total 376476
+sent 0 bytes of 131072, total 376476
+sent 0 bytes of 131072, total 376476
+sent 0 bytes of 131072, total 376476
+tcpi_snd_cwnd 36 tcpi_snd_mss 1374 tcpi_rtt 154400
+interval_len 1.000504 bytes_transferred 376476
+interval forces keep
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   368 KBytes  3.01 Mbits/sec    2   48.3 KBytes       
+sent 131072 bytes of 131072, total 507548
+sent 10450 bytes of 131072, total 517998
+sent 0 bytes of 131072, total 517998
+sent 0 bytes of 131072, total 517998
+sent 0 bytes of 131072, total 517998
+sent 0 bytes of 131072, total 517998
+sent 0 bytes of 131072, total 517998
+sent 0 bytes of 131072, total 517998
+sent 0 bytes of 131072, total 517998
+sent 0 bytes of 131072, total 517998
+sent 129156 bytes of 131072, total 647154
+sent 0 bytes of 131072, total 647154
+sent 0 bytes of 131072, total 647154
+sent 0 bytes of 131072, total 647154
+sent 0 bytes of 131072, total 647154
+sent 0 bytes of 131072, total 647154
+sent 0 bytes of 131072, total 647154
+sent 0 bytes of 131072, total 647154
+sent 0 bytes of 131072, total 647154
+sent 0 bytes of 131072, total 647154
+tcpi_snd_cwnd 19 tcpi_snd_mss 1374 tcpi_rtt 299085
+interval_len 0.999637 bytes_transferred 270678
+interval forces keep
+[  5]   1.00-2.00   sec   264 KBytes  2.17 Mbits/sec    7   25.5 KBytes       
+sent 129156 bytes of 131072, total 776310
+sent 0 bytes of 131072, total 776310
+sent 0 bytes of 131072, total 776310
+sent 0 bytes of 131072, total 776310
+sent 0 bytes of 131072, total 776310
+sent 0 bytes of 131072, total 776310
+sent 0 bytes of 131072, total 776310
+sent 0 bytes of 131072, total 776310
+sent 0 bytes of 131072, total 776310
+sent 0 bytes of 131072, total 776310
+tcpi_snd_cwnd 21 tcpi_snd_mss 1374 tcpi_rtt 172179
+interval_len 1.000170 bytes_transferred 129156
+interval forces keep
+[  5]   2.00-3.00   sec   126 KBytes  1.03 Mbits/sec    0   28.2 KBytes       
+sent 129156 bytes of 131072, total 905466
+sent 0 bytes of 131072, total 905466
+sent 0 bytes of 131072, total 905466
+sent 0 bytes of 131072, total 905466
+sent 0 bytes of 131072, total 905466
+sent 0 bytes of 131072, total 905466
+sent 0 bytes of 131072, total 905466
+sent 0 bytes of 131072, total 905466
+sent 0 bytes of 131072, total 905466
+sent 0 bytes of 131072, total 905466
+tcpi_snd_cwnd 22 tcpi_snd_mss 1374 tcpi_rtt 225017
+interval_len 0.999796 bytes_transferred 129156
+interval forces keep
+[  5]   3.00-4.00   sec   126 KBytes  1.03 Mbits/sec    0   29.5 KBytes       
+tcpi_snd_cwnd 24 tcpi_snd_mss 1374 tcpi_rtt 323545
+send_results
+{
+	"cpu_util_total":	0.76017570648010246,
+	"cpu_util_user":	0.019814309929909082,
+	"cpu_util_system":	0.74032219910226083,
+	"sender_has_retransmits":	1,
+	"congestion_used":	"cubic",
+	"streams":	[{
+			"id":	1,
+			"bytes":	905466,
+			"retransmits":	9,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0,
+			"start_time":	0,
+			"end_time":	5.00111985206604
+		}]
+}
+get_results
+{
+	"cpu_util_total":	0.529122,
+	"cpu_util_user":	0.108371,
+	"cpu_util_system":	0.420751,
+	"sender_has_retransmits":	-1,
+	"streams":	[{
+			"id":	1,
+			"bytes":	781806,
+			"retransmits":	-1,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0
+		}]
+}
+interval_len 1.001013 bytes_transferred 0
+interval forces keep
+[  5]   4.00-5.00   sec  0.00 Bytes  0.00 bits/sec    0   32.2 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   884 KBytes  1.45 Mbits/sec    9             sender
+[  5]   0.00-5.00   sec   763 KBytes  1.25 Mbits/sec                  receiver
+
+iperf Done.
+Wed May  5 20:05:01 2021
+send_parameters:
+{
+	"tcp":	true,
+	"omit":	0,
+	"time":	5,
+	"parallel":	1,
+	"len":	131072,
+	"pacing_timer":	1000,
+	"client_version":	"3.6"
+}
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6002
+SNDBUF is 16384, expecting 0
+RCVBUF is 131072, expecting 0
+Congestion algorithm is cubic
+[  5] local 192.168.17.57 port 54602 connected to 172.26.211.223 port 6002
+sent 78318 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 105798 bytes of 131072, total 184116
+sent 0 bytes of 131072, total 184116
+sent 0 bytes of 131072, total 184116
+sent 0 bytes of 131072, total 184116
+sent 0 bytes of 131072, total 184116
+sent 0 bytes of 131072, total 184116
+sent 0 bytes of 131072, total 184116
+sent 0 bytes of 131072, total 184116
+sent 0 bytes of 131072, total 184116
+sent 0 bytes of 131072, total 184116
+tcpi_snd_cwnd 35 tcpi_snd_mss 1374 tcpi_rtt 333414
+interval_len 1.000751 bytes_transferred 184116
+interval forces keep
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   180 KBytes  1.47 Mbits/sec    0   47.0 KBytes       
+sent 103050 bytes of 131072, total 287166
+sent 0 bytes of 131072, total 287166
+sent 0 bytes of 131072, total 287166
+sent 0 bytes of 131072, total 287166
+sent 0 bytes of 131072, total 287166
+sent 0 bytes of 131072, total 287166
+sent 0 bytes of 131072, total 287166
+sent 0 bytes of 131072, total 287166
+sent 0 bytes of 131072, total 287166
+sent 0 bytes of 131072, total 287166
+tcpi_snd_cwnd 24 tcpi_snd_mss 1374 tcpi_rtt 372523
+interval_len 1.000169 bytes_transferred 103050
+interval forces keep
+[  5]   1.00-2.00   sec   101 KBytes   824 Kbits/sec    1   32.2 KBytes       
+sent 64578 bytes of 131072, total 351744
+sent 0 bytes of 131072, total 351744
+sent 0 bytes of 131072, total 351744
+sent 0 bytes of 131072, total 351744
+sent 0 bytes of 131072, total 351744
+sent 0 bytes of 131072, total 351744
+sent 0 bytes of 131072, total 351744
+sent 0 bytes of 131072, total 351744
+sent 0 bytes of 131072, total 351744
+sent 0 bytes of 131072, total 351744
+tcpi_snd_cwnd 17 tcpi_snd_mss 1374 tcpi_rtt 331789
+interval_len 0.999579 bytes_transferred 64578
+interval forces keep
+[  5]   2.00-3.00   sec  63.1 KBytes   517 Kbits/sec    1   22.8 KBytes       
+tcpi_snd_cwnd 19 tcpi_snd_mss 1374 tcpi_rtt 746241
+interval_len 1.000580 bytes_transferred 0
+interval forces keep
+[  5]   3.00-4.00   sec  0.00 Bytes  0.00 bits/sec    0   25.5 KBytes       
+tcpi_snd_cwnd 19 tcpi_snd_mss 1374 tcpi_rtt 950273
+send_results
+{
+	"cpu_util_total":	0.7889968176067168,
+	"cpu_util_user":	0,
+	"cpu_util_system":	0.78893822438314032,
+	"sender_has_retransmits":	1,
+	"congestion_used":	"cubic",
+	"streams":	[{
+			"id":	1,
+			"bytes":	351744,
+			"retransmits":	2,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0,
+			"start_time":	0,
+			"end_time":	5.0011329650878906
+		}]
+}
+get_results
+{
+	"cpu_util_total":	0.207601,
+	"cpu_util_user":	0.050944,
+	"cpu_util_system":	0.156657,
+	"sender_has_retransmits":	-1,
+	"streams":	[{
+			"id":	1,
+			"bytes":	281670,
+			"retransmits":	-1,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0
+		}]
+}
+interval_len 1.000054 bytes_transferred 0
+interval forces keep
+[  5]   4.00-5.00   sec  0.00 Bytes  0.00 bits/sec    0   25.5 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   344 KBytes   563 Kbits/sec    2             sender
+[  5]   0.00-5.00   sec   275 KBytes   451 Kbits/sec                  receiver
+
+iperf Done.
+Wed May  5 20:05:08 2021
+send_parameters:
+{
+	"tcp":	true,
+	"omit":	0,
+	"time":	5,
+	"parallel":	1,
+	"len":	131072,
+	"pacing_timer":	1000,
+	"client_version":	"3.6"
+}
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6002
+SNDBUF is 16384, expecting 0
+RCVBUF is 131072, expecting 0
+Congestion algorithm is cubic
+[  5] local 192.168.17.57 port 54606 connected to 172.26.211.223 port 6002
+sent 78318 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 103050 bytes of 131072, total 181368
+sent 0 bytes of 131072, total 181368
+sent 0 bytes of 131072, total 181368
+sent 0 bytes of 131072, total 181368
+sent 0 bytes of 131072, total 181368
+sent 0 bytes of 131072, total 181368
+sent 0 bytes of 131072, total 181368
+sent 0 bytes of 131072, total 181368
+sent 0 bytes of 131072, total 181368
+sent 0 bytes of 131072, total 181368
+tcpi_snd_cwnd 37 tcpi_snd_mss 1374 tcpi_rtt 443633
+interval_len 1.001104 bytes_transferred 181368
+interval forces keep
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   177 KBytes  1.45 Mbits/sec    0   49.6 KBytes       
+sent 90684 bytes of 131072, total 272052
+sent 0 bytes of 131072, total 272052
+sent 0 bytes of 131072, total 272052
+sent 0 bytes of 131072, total 272052
+sent 0 bytes of 131072, total 272052
+sent 0 bytes of 131072, total 272052
+sent 0 bytes of 131072, total 272052
+sent 0 bytes of 131072, total 272052
+sent 0 bytes of 131072, total 272052
+sent 0 bytes of 131072, total 272052
+tcpi_snd_cwnd 17 tcpi_snd_mss 1374 tcpi_rtt 500619
+interval_len 0.999905 bytes_transferred 90684
+interval forces keep
+[  5]   1.00-2.00   sec  88.6 KBytes   726 Kbits/sec    2   22.8 KBytes       
+sent 87936 bytes of 131072, total 359988
+sent 0 bytes of 131072, total 359988
+sent 0 bytes of 131072, total 359988
+sent 0 bytes of 131072, total 359988
+sent 0 bytes of 131072, total 359988
+sent 0 bytes of 131072, total 359988
+sent 0 bytes of 131072, total 359988
+sent 0 bytes of 131072, total 359988
+sent 0 bytes of 131072, total 359988
+sent 0 bytes of 131072, total 359988
+tcpi_snd_cwnd 21 tcpi_snd_mss 1374 tcpi_rtt 448647
+interval_len 0.999890 bytes_transferred 87936
+interval forces keep
+[  5]   2.00-3.00   sec  85.9 KBytes   704 Kbits/sec    0   28.2 KBytes       
+sent 67326 bytes of 131072, total 427314
+sent 0 bytes of 131072, total 427314
+sent 0 bytes of 131072, total 427314
+sent 0 bytes of 131072, total 427314
+sent 0 bytes of 131072, total 427314
+sent 0 bytes of 131072, total 427314
+sent 0 bytes of 131072, total 427314
+sent 0 bytes of 131072, total 427314
+sent 0 bytes of 131072, total 427314
+sent 0 bytes of 131072, total 427314
+tcpi_snd_cwnd 23 tcpi_snd_mss 1374 tcpi_rtt 476231
+interval_len 1.000115 bytes_transferred 67326
+interval forces keep
+[  5]   3.00-4.00   sec  65.7 KBytes   539 Kbits/sec    0   30.9 KBytes       
+sent 70074 bytes of 131072, total 497388
+sent 0 bytes of 131072, total 497388
+sent 0 bytes of 131072, total 497388
+sent 0 bytes of 131072, total 497388
+sent 0 bytes of 131072, total 497388
+sent 0 bytes of 131072, total 497388
+sent 0 bytes of 131072, total 497388
+sent 0 bytes of 131072, total 497388
+sent 0 bytes of 131072, total 497388
+sent 0 bytes of 131072, total 497388
+sent 74196 bytes of 131072, total 571584
+sent 0 bytes of 131072, total 571584
+sent 0 bytes of 131072, total 571584
+sent 0 bytes of 131072, total 571584
+sent 0 bytes of 131072, total 571584
+sent 0 bytes of 131072, total 571584
+sent 0 bytes of 131072, total 571584
+sent 0 bytes of 131072, total 571584
+sent 0 bytes of 131072, total 571584
+sent 0 bytes of 131072, total 571584
+tcpi_snd_cwnd 23 tcpi_snd_mss 1374 tcpi_rtt 349623
+send_results
+{
+	"cpu_util_total":	0.80969717583054512,
+	"cpu_util_user":	0,
+	"cpu_util_system":	0.80946314803272323,
+	"sender_has_retransmits":	1,
+	"congestion_used":	"cubic",
+	"streams":	[{
+			"id":	1,
+			"bytes":	571Wed May  5 20:05:15 2021
+Wed May  5 20:05:22 2021
+send_parameters:
+{
+	"tcp":	true,
+	"omit":	0,
+	"time":	5,
+	"parallel":	1,
+	"len":	131072,
+	"pacing_timer":	1000,
+	"client_version":	"3.6"
+}
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6002
+SNDBUF is 16384, expecting 0
+RCVBUF is 131072, expecting 0
+Congestion algorithm is cubic
+[  5] local 192.168.17.57 port 54614 connected to 172.26.211.223 port 6002
+sent 78318 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 108546 bytes of 131072, total 186864
+sent 0 bytes of 131072, total 186864
+sent 0 bytes of 131072, total 186864
+sent 0 bytes of 131072, total 186864
+sent 0 bytes of 131072, total 186864
+sent 0 bytes of 131072, total 186864
+sent 0 bytes of 131072, total 186864
+sent 0 bytes of 131072, total 186864
+sent 0 bytes of 131072, total 186864
+sent 0 bytes of 131072, total 186864
+tcpi_snd_cwnd 40 tcpi_snd_mss 1374 tcpi_rtt 522415
+interval_len 1.000907 bytes_transferred 186864
+interval forces keep
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   182 KBytes  1.49 Mbits/sec    0   53.7 KBytes       
+sent 96180 bytes of 131072, total 283044
+sent 0 bytes of 131072, total 283044
+sent 0 bytes of 131072, total 283044
+sent 0 bytes of 131072, total 283044
+sent 0 bytes of 131072, total 283044
+sent 0 bytes of 131072, total 283044
+sent 0 bytes of 131072, total 283044
+sent 0 bytes of 131072, total 283044
+sent 0 bytes of 131072, total 283044
+sent 0 bytes of 131072, total 283044
+tcpi_snd_cwnd 16 tcpi_snd_mss 1374 tcpi_rtt 249354
+interval_len 1.000088 bytes_transferred 96180
+interval forces keep
+[  5]   1.00-2.00   sec  93.9 KBytes   769 Kbits/sec    1   21.5 KBytes       
+sent 131072 bytes of 131072, total 414116
+sent 29686 bytes of 131072, total 443802
+sent 0 bytes of 131072, total 443802
+sent 0 bytes of 131072, total 443802
+sent 0 bytes of 131072, total 443802
+sent 0 bytes of 131072, total 443802
+sent 0 bytes of 131072, total 443802
+sent 0 bytes of 131072, total 443802
+sent 0 bytes of 131072, total 443802
+sent 0 bytes of 131072, total 443802
+tcpi_snd_cwnd 36 tcpi_snd_mss 1374 tcpi_rtt 455129
+interval_len 1.000124 bytes_transferred 160758
+interval forces keep
+[  5]   2.00-3.00   sec   157 KBytes  1.29 Mbits/sec    0   48.3 KBytes       
+sent 83814 bytes of 131072, total 527616
+sent 0 bytes of 131072, total 527616
+sent 0 bytes of 131072, total 527616
+sent 0 bytes of 131072, total 527616
+sent 0 bytes of 131072, total 527616
+sent 0 bytes of 131072, total 527616
+sent 0 bytes of 131072, total 527616
+sent 0 bytes of 131072, total 527616
+sent 0 bytes of 131072, total 527616
+sent 0 bytes of 131072, total 527616
+tcpi_snd_cwnd 41 tcpi_snd_mss 1374 tcpi_rtt 561917
+interval_len 0.999896 bytes_transferred 83814
+interval forces keep
+[  5]   3.00-4.00   sec  81.8 KBytes   671 Kbits/sec    0   55.0 KBytes       
+sent 87936 bytes of 131072, total 615552
+sent 0 bytes of 131072, total 615552
+sent 0 bytes of 131072, total 615552
+sent 0 bytes of 131072, total 615552
+sent 0 bytes of 131072, total 615552
+sent 0 bytes of 131072, total 615552
+sent 0 bytes of 131072, total 615552
+sent 0 bytes of 131072, total 615552
+sent 0 bytes of 131072, total 615552
+sent 0 bytes of 131072, total 615552
+sent 94806 bytes of 131072, total 710358
+sent 0 bytes of 131072, total 710358
+sent 0 bytes of 131072, total 710358
+sent 0 bytes of 131072, total 710358
+sent 0 bytes of 131072, total 710358
+sent 0 bytes of 131072, total 710358
+sent 0 bytes of 131072, total 710358
+sent 0 bytes of 131072, total 710358
+sent 0 bytes of 131072, total 710358
+sent 0 bytes of 131072, total 710358
+tcpi_snd_cwnd 43 tcpi_snd_mss 1374 tcpi_rtt 398542
+send_results
+{
+	"cpu_util_total":	0.5567466032232512,
+	"cpu_util_user":	0.35690848447027879,
+	"cpu_util_system":	0.19983811875297244,
+	"sender_has_retransmits":	1,
+	"congestion_used":	"cubic",
+	"streams":	[{
+			"id":	1,
+			"bytes":	710358,
+			"retransmits":	1,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0,
+			"start_time":	0,
+			"end_time":	5.0004210472106934
+		}]
+}
+get_results
+{
+	"cpu_util_total":	0.554093,
+	"cpu_util_user":	0.114592,
+	"cpu_util_system":	0.439483,
+	"sender_has_retransmits":	-1,
+	"streams":	[{
+			"id":	1,
+			"bytes":	605934,
+			"retransmits":	-1,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0
+		}]
+}
+interval_len 0.999406 bytes_transferred 182742
+interval forces keep
+[  5]   4.00-5.00   sec   178 KBytes  1.46 Mbits/sec    0   57.7 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   694 KBytes  1.14 Mbits/sec    1             sender
+[  5]   0.00-5.00   sec   592 KBytes   969 Kbits/sec                  receiver
+
+iperf Done.
+Wed May  5 20:05:29 2021
+send_parameters:
+{
+	"tcp":	true,
+	"omit":	0,
+	"time":	5,
+	"parallel":	1,
+	"len":	131072,
+	"pacing_timer":	1000,
+	"client_version":	"3.6"
+}
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6002
+SNDBUF is 16384, expecting 0
+RCVBUF is 131072, expecting 0
+Congestion algorithm is cubic
+[  5] local 192.168.17.57 port 54618 connected to 172.26.211.223 port 6002
+sent 78318 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 46716 bytes of 131072, total 125034
+sent 0 bytes of 131072, total 125034
+sent 0 bytes of 131072, total 125034
+sent 0 bytes of 131072, total 125034
+sent 0 bytes of 131072, total 125034
+sent 0 bytes of 131072, total 125034
+sent 0 bytes of 131072, total 125034
+sent 0 bytes of 131072, total 125034
+sent 0 bytes of 131072, total 125034
+sent 0 bytes of 131072, total 125034
+tcpi_snd_cwnd 32 tcpi_snd_mss 1374 tcpi_rtt 209533
+interval_len 1.000776 bytes_transferred 125034
+interval forces keep
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   122 KBytes   999 Kbits/sec    0   42.9 KBytes       
+sent 92058 bytes of 131072, total 217092
+sent 0 bytes of 131072, total 217092
+sent 0 bytes of 131072, total 217092
+sent 0 bytes of 131072, total 217092
+sent 0 bytes of 131072, total 217092
+sent 0 bytes of 131072, total 217092
+sent 0 bytes of 131072, total 217092
+sent 0 bytes of 131072, total 217092
+sent 0 bytes of 131072, total 217092
+sent 0 bytes of 131072, total 217092
+sent 86562 bytes of 131072, total 303654
+sent 0 bytes of 131072, total 303654
+sent 0 bytes of 131072, total 303654
+sent 0 bytes of 131072, total 303654
+sent 0 bytes of 131072, total 303654
+sent 0 bytes of 131072, total 303654
+sent 0 bytes of 131072, total 303654
+sent 0 bytes of 131072, total 303654
+sent 0 bytes of 131072, total 303654
+sent 0 bytes of 131072, total 303654
+tcpi_snd_cwnd 38 tcpi_snd_mss 1374 tcpi_rtt 191845
+interval_len 0.999847 bytes_transferred 178620
+interval forces keep
+[  5]   1.00-2.00   sec   174 KBytes  1.43 Mbits/sec    0   51.0 KBytes       
+sent 85188 bytes of 131072, total 388842
+sent 0 bytes of 131072, total 388842
+sent 0 bytes of 131072, total 388842
+sent 0 bytes of 131072, total 388842
+sent 0 bytes of 131072, total 388842
+sent 0 bytes of 131072, total 388842
+sent 0 bytes of 131072, total 388842
+sent 0 bytes of 131072, total 388842
+sent 0 bytes of 131072, total 388842
+sent 0 bytes of 131072, total 388842
+sent 129156 bytes of 131072, total 517998
+sent 0 bytes of 131072, total 517998
+sent 0 bytes of 131072, total 517998
+sent 0 bytes of 131072, total 517998
+sent 0 bytes of 131072, total 517998
+sent 0 bytes of 131072, total 517998
+sent 0 bytes of 131072, total 517998
+sent 0 bytes of 131072, total 517998
+sent 0 bytes of 131072, total 517998
+sent 0 bytes of 131072, total 517998
+sent 131072 bytes of 131072, total 649070
+sent 20068 bytes of 131072, total 669138
+sent 0 bytes of 131072, total 669138
+sent 0 bytes of 131072, total 669138
+sent 0 bytes of 131072, total 669138
+sent 0 bytes of 131072, total 669138
+sent 0 bytes of 131072, total 669138
+sent 0 bytes of 131072, total 669138
+sent 0 bytes of 131072, total 669138
+sent 0 bytes of 131072, total 669138
+sent 129156 bytes of 131072, total 798294
+sent 0 bytes of 131072, total 798294
+sent 0 bytes of 131072, total 798294
+sent 0 bytes of 131072, total 798294
+sent 0 bytes of 131072, total 798294
+sent 0 bytes of 131072, total 798294
+sent 0 bytes of 131072, total 798294
+sent 0 bytes of 131072, total 798294
+sent 0 bytes of 131072, total 798294
+sent 0 bytes of 131072, total 798294
+sent 129156 bytes of 131072, total 927450
+sent 0 bytes of 131072, total 927450
+sent 0 bytes of 131072, total 927450
+sent 0 bytes of 131072, total 927450
+sent 0 bytes of 131072, total 927450
+sent 0 bytes of 131072, total 927450
+sent 0 bytes of 131072, total 927450
+sent 0 bytes of 131072, total 927450
+sent 0 bytes of 131072, total 927450
+sent 0 bytes of 131072, total 927450
+sent 129156 bytes of 131072, total 1056606
+sent 0 bytes of 131072, total 1056606
+sent 0 bytes of 131072, total 1056606
+sent 0 bytes of 131072, total 1056606
+sent 0 bytes of 131072, total 1056606
+sent 0 bytes of 131072, total 1056606
+sent 0 bytes of 131072, total 1056606
+sent 0 bytes of 131072, total 1056606
+sent 0 bytes of 131072, total 1056606
+sent 0 bytes of 131072, total 1056606
+sent 129156 bytes of 131072, total 1185762
+sent 0 bytes of 131072, total 1185762
+sent 0 bytes of 131072, total 1185762
+sent 0 bytes of 131072, total 1185762
+sent 0 bytes of 131072, total 1185762
+sent 0 bytes of 131072, total 1185762
+sent 0 bytes of 131072, total 1185762
+sent 0 bytes of 131072, total 1185762
+sent 0 bytes of 131072, total 1185762
+sent 0 bytes of 131072, total 1185762
+sent 129156 bytes of 131072, total 1314918
+sent 0 bytes of 131072, total 1314918
+sent 0 bytes of 131072, total 1314918
+sent 0 bytes of 131072, total 1314918
+sent 0 bytes of 131072, total 1314918
+sent 0 bytes of 131072, total 1314918
+sent 0 bytes of 131072, total 1314918
+sent 0 bytes of 131072, total 1314918
+sent 0 bytes of 131072, total 1314918
+sent 0 bytes of 131072, total 1314918
+sent 129156 bytes of 131072, total 1444074
+sent 0 bytes of 131072, total 1444074
+sent 0 bytes of 131072, total 1444074
+sent 0 bytes of 131072, total 1444074
+sent 0 bytes of 131072, total 1444074
+sent 0 bytes of 131072, total 1444074
+sent 0 bytes of 131072, total 1444074
+sent 0 bytes of 131072, total 1444074
+sent 0 bytes of 131072, total 1444074
+sent 0 bytes of 131072, total 1444074
+tcpi_snd_cwnd 74 tcpi_snd_mss 1374 tcpi_rtt 63320
+interval_len 0.999570 bytes_transferred 1140420
+interval forces keep
+[  5]   2.00-3.00   sec  1.09 MBytes  9.13 Mbits/sec    0   99.3 KBytes       
+sent 131072 bytes of 131072, total 1575146
+sent 62662 bytes of 131072, total 1637808
+sent 0 bytes of 131072, total 1637808
+sent 0 bytes of 131072, total 1637808
+sent 0 bytes of 131072, total 1637808
+sent 0 bytes of 131072, total 1637808
+sent 0 bytes of 131072, total 1637808
+sent 0 bytes of 131072, total 1637808
+sent 0 bytes of 131072, total 1637808
+sent 0 bytes of 131072, total 1637808
+sent 129156 bytes of 131072, total 1766964
+sent 0 bytes of 131072, total 1766964
+sent 0 bytes of 131072, total 1766964
+sent 0 bytes of 131072, total 1766964
+sent 0 bytes of 131072, total 1766964
+sent 0 bytes of 131072, total 1766964
+sent 0 bytes of 131072, total 1766964
+sent 0 bytes of 131072, total 1766964
+sent 0 bytes of 131072, total 1766964
+sent 0 bytes of 131072, total 1766964
+sent 131072 bytes of 131072, total 1898036
+sent 62662 bytes of 131072, total 1960698
+sent 0 bytes of 131072, total 1960698
+sent 0 bytes of 131072, total 1960698
+sent 0 bytes of 131072, total 1960698
+sent 0 bytes of 131072, total 1960698
+sent 0 bytes of 131072, total 1960698
+sent 0 bytes of 131072, total 1960698
+sent 0 bytes of 131072, total 1960698
+sent 0 bytes of 131072, total 1960698
+tcpi_snd_cwnd 61 tcpi_snd_mss 1374 tcpi_rtt 275037
+interval_len 1.000233 bytes_transferred 516624
+interval forces keep
+[  5]   3.00-4.00   sec   505 KBytes  4.13 Mbits/sec    1   81.8 KBytes       
+tcpi_snd_cwnd 34 tcpi_snd_mss 1374 tcpi_rtt 492540
+send_results
+{
+	"cpu_util_total":	0.62947984579083671,
+	"cpu_util_user":	0.15348041567917831,
+	"cpu_util_system":	0.47598015107439184,
+	"sender_has_retransmits":	1,
+	"congestion_used":	"cubic",
+	"streams":	[{
+			"id":	1,
+			"bytes":	1960698,
+			"retransmits":	2,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0,
+			"start_time":	0,
+			"end_time":	5.0011579990386963
+		}]
+}
+get_results
+{
+	"cpu_util_total":	0.796349,
+	"cpu_util_user":	0.157124,
+	"cpu_util_system":	0.639225,
+	"sender_has_retransmits":	-1,
+	"streams":	[{
+			"id":	1,
+			"bytes":	1815054,
+			"retransmits":	-1,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0
+		}]
+}
+interval_len 1.000732 bytes_transferred 0
+interval forces keep
+[  5]   4.00-5.00   sec  0.00 Bytes  0.00 bits/sec    1   45.6 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  1.87 MBytes  3.14 Mbits/sec    2             sender
+[  5]   0.00-5.00   sec  1.73 MBytes  2.90 Mbits/sec                  receiver
+
+iperf Done.
+Wed May  5 20:05:36 2021
+send_parameters:
+{
+	"tcp":	true,
+	"omit":	0,
+	"time":	5,
+	"parallel":	1,
+	"len":	131072,
+	"pacing_timer":	1000,
+	"client_version":	"3.6"
+}
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6002
+SNDBUF is 16384, expecting 0
+RCVBUF is 131072, expecting 0
+Congestion algorithm is cubic
+[  5] local 192.168.17.57 port 54622 connected to 172.26.211.223 port 6002
+sent 78318 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 50838 bytes of 131072, total 129156
+sent 0 bytes of 131072, total 129156
+sent 0 bytes of 131072, total 129156
+sent 0 bytes of 131072, total 129156
+sent 0 bytes of 131072, total 129156
+sent 0 bytes of 131072, total 129156
+sent 0 bytes of 131072, total 129156
+sent 0 bytes of 131072, total 129156
+sent 0 bytes of 131072, total 129156
+sent 0 bytes of 131072, total 129156
+sent 38472 bytes of 131072, total 167628
+sent 0 bytes of 131072, total 167628
+sent 0 bytes of 131072, total 167628
+sent 0 bytes of 131072, total 167628
+sent 0 bytes of 131072, total 167628
+sent 0 bytes of 131072, total 167628
+sent 0 bytes of 131072, total 167628
+sent 0 bytes of 131072, total 167628
+sent 0 bytes of 131072, total 167628
+sent 0 bytes of 131072, total 167628
+tcpi_snd_cwnd 17 tcpi_snd_mss 1374 tcpi_rtt 174277
+interval_len 1.000307 bytes_transferred 167628
+interval forces keep
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   164 KBytes  1.34 Mbits/sec    1   22.8 KBytes       
+sent 35724 bytes of 131072, total 203352
+sent 0 bytes of 131072, total 203352
+sent 0 bytes of 131072, total 203352
+sent 0 bytes of 131072, total 203352
+sent 0 bytes of 131072, total 203352
+sent 0 bytes of 131072, total 203352
+sent 0 bytes of 131072, total 203352
+sent 0 bytes of 131072, total 203352
+sent 0 bytes of 131072, total 203352
+sent 0 bytes of 131072, total 203352
+sent 46716 bytes of 131072, total 250068
+sent 0 bytes of 131072, total 250068
+sent 0 bytes of 131072, total 250068
+sent 0 bytes of 131072, total 250068
+sent 0 bytes of 131072, total 250068
+sent 0 bytes of 131072, total 250068
+sent 0 bytes of 131072, total 250068
+sent 0 bytes of 131072, total 250068
+sent 0 bytes of 131072, total 250068
+sent 0 bytes of 131072, total 250068
+tcpi_snd_cwnd 11 tcpi_snd_mss 1374 tcpi_rtt 306019
+interval_len 0.999881 bytes_transferred 82440
+interval forces keep
+[  5]   1.00-2.00   sec  80.5 KBytes   660 Kbits/sec    2   14.8 KBytes       
+sent 90684 bytes of 131072, total 340752
+sent 0 bytes of 131072, total 340752
+sent 0 bytes of 131072, total 340752
+sent 0 bytes of 131072, total 340752
+sent 0 bytes of 131072, total 340752
+sent 0 bytes of 131072, total 340752
+sent 0 bytes of 131072, total 340752
+sent 0 bytes of 131072, total 340752
+sent 0 bytes of 131072, total 340752
+sent 0 bytes of 131072, total 340752
+tcpi_snd_cwnd 11 tcpi_snd_mss 1374 tcpi_rtt 194715
+interval_len 1.000637 bytes_transferred 90684
+interval forces keep
+[  5]   2.00-3.00   sec  88.6 KBytes   725 Kbits/sec    0   14.8 KBytes       
+tcpi_snd_cwnd 10 tcpi_snd_mss 1374 tcpi_rtt 301998
+interval_len 1.000257 bytes_transferred 0
+interval forces keep
+[  5]   3.00-4.00   sec  0.00 Bytes  0.00 bits/sec    1   13.4 KBytes       
+sent 87936 bytes of 131072, total 428688
+sent 0 bytes of 131072, total 428688
+sent 0 bytes of 131072, total 428688
+sent 0 bytes of 131072, total 428688
+sent 0 bytes of 131072, total 428688
+sent 0 bytes of 131072, total 428688
+sent 0 bytes of 131072, total 428688
+sent 0 bytes of 131072, total 428688
+sent 0 bytes of 131072, total 428688
+sent 0 bytes of 131072, total 428688
+tcpi_snd_cwnd 7 tcpi_snd_mss 1374 tcpi_rtt 288432
+send_results
+{
+	"cpu_util_total":	0.51192605808702429,
+	"cpu_util_user":	0.067979766022583862,
+	"cpu_util_system":	0.44394629206444042,
+	"sender_has_retransmits":	1,
+	"congestion_used":	"cubic",
+	"streams":	[{
+			"id":	1,
+			"bytes":	428688,
+			"retransmits":	6,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0,
+			"start_time":	0,
+			"end_time":	5.000478982925415
+		}]
+}
+get_results
+{
+	"cpu_util_total":	0.222029,
+	"cpu_util_user":	0.050803,
+	"cpu_util_system":	0.171226,
+	"sender_has_retransmits":	-1,
+	"streams":	[{
+			"id":	1,
+			"bytes":	299532,
+			"retransmits":	-1,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0
+		}]
+}
+interval_len 0.999397 bytes_transferred 87936
+interval forces keep
+[  5]   4.00-5.00   sec  85.9 KBytes   704 Kbits/sec    2   9.39 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   419 KBytes   686 Kbits/sec    6             sender
+[  5]   0.00-5.00   sec   293 KBytes   479 Kbits/sec                  receiver
+
+iperf Done.
+Wed May  5 20:05:43 2021
+Wed May  5 20:05:50 2021
+Wed May  5 20:05:57 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 20:06:04 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 20:06:11 2021
+Wed May  5 20:06:18 2021
+Wed May  5 20:06:25 2021
+send_parameters:
+{
+	"tcp":	true,
+	"omit":	0,
+	"time":	5,
+	"parallel":	1,
+	"len":	131072,
+	"pacing_timer":	1000,
+	"client_version":	"3.6"
+}
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6001
+SNDBUF is 16384, expecting 0
+RCVBUF is 131072, expecting 0
+Congestion algorithm is cubic
+[  5] local 192.168.17.57 port 55180 connected to 172.26.211.223 port 6001
+sent 78318 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 41220 bytes of 131072, total 119538
+sent 0 bytes of 131072, total 119538
+sent 0 bytes of 131072, total 119538
+sent 0 bytes of 131072, total 119538
+sent 0 bytes of 131072, total 119538
+sent 0 bytes of 131072, total 119538
+sent 0 bytes of 131072, total 119538
+sent 0 bytes of 131072, total 119538
+sent 0 bytes of 131072, total 119538
+sent 0 bytes of 131072, total 119538
+sent 100302 bytes of 131072, total 219840
+sent 0 bytes of 131072, total 219840
+sent 0 bytes of 131072, total 219840
+sent 0 bytes of 131072, total 219840
+sent 0 bytes of 131072, total 219840
+sent 0 bytes of 131072, total 219840
+sent 0 bytes of 131072, total 219840
+sent 0 bytes of 131072, total 219840
+sent 0 bytes of 131072, total 219840
+sent 0 bytes of 131072, total 219840
+tcpi_snd_cwnd 34 tcpi_snd_mss 1374 tcpi_rtt 466118
+interval_len 1.000205 bytes_transferred 219840
+interval forces keep
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   215 KBytes  1.76 Mbits/sec    0   45.6 KBytes       
+tcpi_snd_cwnd 35 tcpi_snd_mss 1374 tcpi_rtt 941747
+interval_len 1.000892 bytes_transferred 0
+interval forces keep
+[  5]   1.00-2.00   sec  0.00 Bytes  0.00 bits/sec    0   47.0 KBytes       
+tcpi_snd_cwnd 36 tcpi_snd_mss 1374 tcpi_rtt 1530232
+interval_len 0.999981 bytes_transferred 0
+interval forces keep
+[  5]   2.00-3.00   sec  0.00 Bytes  0.00 bits/sec    0   48.3 KBytes       
+tcpi_snd_cwnd 38 tcpi_snd_mss 1374 tcpi_rtt 1898015
+interval_len 0.999998 bytes_transferred 0
+interval forces keep
+[  5]   3.00-4.00   sec  0.00 Bytes  0.00 bits/sec    0   51.0 KBytes       
+sent 93432 bytes of 131072, total 313272
+sent 0 bytes of 131072, total 313272
+sent 0 bytes of 131072, total 313272
+sent 0 bytes of 131072, total 313272
+sent 0 bytes of 131072, total 313272
+sent 0 bytes of 131072, total 313272
+sent 0 bytes of 131072, total 313272
+sent 0 bytes of 131072, total 313272
+sent 0 bytes of 131072, total 313272
+sent 0 bytes of 131072, total 313272
+tcpi_snd_cwnd 53 tcpi_snd_mss 1374 tcpi_rtt 830502
+send_results
+{
+	"cpu_util_total":	0.51886281503436449,
+	"cpu_util_user":	0,
+	"cpu_util_system":	0.51886281503436449,
+	"sender_has_retransmits":	1,
+	"congestion_used":	"cubic",
+	"streams":	[{
+			"id":	1,
+			"bytes":	313272,
+			"retransmits":	0,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0,
+			"start_time":	0,
+			"end_time":	5.000938892364502
+		}]
+}
+get_results
+{
+	"cpu_util_total":	0.288749,
+	"cpu_util_user":	0.064458,
+	"cpu_util_system":	0.224307,
+	"sender_has_retransmits":	-1,
+	"streams":	[{
+			"id":	1,
+			"bytes":	261060,
+			"retransmits":	-1,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0
+		}]
+}
+interval_len 0.999863 bytes_transferred 93432
+interval forces keep
+[  5]   4.00-5.00   sec  91.2 KBytes   748 Kbits/sec    0   71.1 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   306 KBytes   501 Kbits/sec    0             sender
+[  5]   0.00-5.00   sec   255 KBytes   418 Kbits/sec                  receiver
+
+iperf Done.
+Wed May  5 20:06:32 2021
+send_parameters:
+{
+	"tcp":	true,
+	"omit":	0,
+	"time":	5,
+	"parallel":	1,
+	"len":	131072,
+	"pacing_timer":	1000,
+	"client_version":	"3.6"
+}
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6001
+SNDBUF is 16384, expecting 0
+RCVBUF is 131072, expecting 0
+Congestion algorithm is cubic
+[  5] local 192.168.17.57 port 55184 connected to 172.26.211.223 port 6001
+sent 78318 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 97554 bytes of 131072, total 175872
+sent 0 bytes of 131072, total 175872
+sent 0 bytes of 131072, total 175872
+sent 0 bytes of 131072, total 175872
+sent 0 bytes of 131072, total 175872
+sent 0 bytes of 131072, total 175872
+sent 0 bytes of 131072, total 175872
+sent 0 bytes of 131072, total 175872
+sent 0 bytes of 131072, total 175872
+sent 0 bytes of 131072, total 175872
+sent 97554 bytes of 131072, total 273426
+sent 0 bytes of 131072, total 273426
+sent 0 bytes of 131072, total 273426
+sent 0 bytes of 131072, total 273426
+sent 0 bytes of 131072, total 273426
+sent 0 bytes of 131072, total 273426
+sent 0 bytes of 131072, total 273426
+sent 0 bytes of 131072, total 273426
+sent 0 bytes of 131072, total 273426
+sent 0 bytes of 131072, total 273426
+tcpi_snd_cwnd 39 tcpi_snd_mss 1374 tcpi_rtt 343853
+interval_len 1.000249 bytes_transferred 273426
+interval forces keep
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   267 KBytes  2.19 Mbits/sec    0   52.3 KBytes       
+sent 96180 bytes of 131072, total 369606
+sent 0 bytes of 131072, total 369606
+sent 0 bytes of 131072, total 369606
+sent 0 bytes of 131072, total 369606
+sent 0 bytes of 131072, total 369606
+sent 0 bytes of 131072, total 369606
+sent 0 bytes of 131072, total 369606
+sent 0 bytes of 131072, total 369606
+sent 0 bytes of 131072, total 369606
+sent 0 bytes of 131072, total 369606
+tcpi_snd_cwnd 43 tcpi_snd_mss 1374 tcpi_rtt 374900
+interval_len 1.000221 bytes_transferred 96180
+interval forces keep
+[  5]   1.00-2.00   sec  93.9 KBytes   769 Kbits/sec    0   57.7 KBytes       
+sent 90684 bytes of 131072, total 460290
+sent 0 bytes of 131072, total 460290
+sent 0 bytes of 131072, total 460290
+sent 0 bytes of 131072, total 460290
+sent 0 bytes of 131072, total 460290
+sent 0 bytes of 131072, total 460290
+sent 0 bytes of 131072, total 460290
+sent 0 bytes of 131072, total 460290
+sent 0 bytes of 131072, total 460290
+sent 0 bytes of 131072, total 460290
+sent 90684 bytes of 131072, total 550974
+sent 0 bytes of 131072, total 550974
+sent 0 bytes of 131072, total 550974
+sent 0 bytes of 131072, total 550974
+sent 0 bytes of 131072, total 550974
+sent 0 bytes of 131072, total 550974
+sent 0 bytes of 131072, total 550974
+sent 0 bytes of 131072, total 550974
+sent 0 bytes of 131072, total 550974
+sent 0 bytes of 131072, total 550974
+tcpi_snd_cwnd 48 tcpi_snd_mss 1374 tcpi_rtt 389865
+interval_len 0.999794 bytes_transferred 181368
+interval forces keep
+[  5]   2.00-3.00   sec   177 KBytes  1.45 Mbits/sec    0   64.4 KBytes       
+sent 83814 bytes of 131072, total 634788
+sent 0 bytes of 131072, total 634788
+sent 0 bytes of 131072, total 634788
+sent 0 bytes of 131072, total 634788
+sent 0 bytes of 131072, total 634788
+sent 0 bytes of 131072, total 634788
+sent 0 bytes of 131072, total 634788
+sent 0 bytes of 131072, total 634788
+sent 0 bytes of 131072, total 634788
+sent 0 bytes of 131072, total 634788
+tcpi_snd_cwnd 52 tcpi_snd_mss 1374 tcpi_rtt 617079
+interval_len 1.000328 bytes_transferred 83814
+interval forces keep
+[  5]   3.00-4.00   sec  81.8 KBytes   670 Kbits/sec    0   69.8 KBytes       
+sent 85188 bytes of 131072, total 719976
+sent 0 bytes of 131072, total 719976
+sent 0 bytes of 131072, total 719976
+sent 0 bytes of 131072, total 719976
+sent 0 bytes of 131072, total 719976
+sent 0 bytes of 131072, total 719976
+sent 0 bytes of 131072, total 719976
+sent 0 bytes of 131072, total 719976
+sent 0 bytes of 131072, total 719976
+sent 0 bytes of 131072, total 719976
+sent 129156 bytes of 131072, total 849132
+sent 0 bytes of 131072, total 849132
+sent 0 bytes of 131072, total 849132
+sent 0 bytes of 131072, total 849132
+sent 0 bytes of 131072, total 849132
+sent 0 bytes of 131072, total 849132
+sent 0 bytes of 131072, total 849132
+sent 0 bytes of 131072, total 849132
+sent 0 bytes of 131072, total 849132
+sent 0 bytes of 131072, total 849132
+tcpi_snd_cwnd 39 tcpi_snd_mss 1374 tcpi_rtt 224071
+send_results
+{
+	"cpu_util_total":	0.517186387992697,
+	"cpu_util_user":	0.087204491975789736,
+	"cpu_util_system":	0.42858489264816158,
+	"sender_has_retransmits":	1,
+	"congestion_used":	"cubic",
+	"streams":	[{
+			"id":	1,
+			"bytes":	849132,
+			"retransmits":	3,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0,
+			"start_time":	0,
+			"end_time":	5.000540018081665
+		}]
+}
+get_results
+{
+	"cpu_util_total":	0.571333,
+	"cpu_util_user":	0.109097,
+	"cpu_util_system":	0.462203,
+	"sender_has_retransmits":	-1,
+	"streams":	[{
+			"id":	1,
+			"bytes":	708984,
+			"retransmits":	-1,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0
+		}]
+}
+interval_len 0.999948 bytes_transferred 214344
+interval forces keep
+[  5]   4.00-5.00   sec   209 KBytes  1.71 Mbits/sec    3   52.3 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   829 KBytes  1.36 Mbits/sec    3             sender
+[  5]   0.00-5.00   sec   692 KBytes  1.13 Mbits/sec                  receiver
+
+iperf Done.
+Wed May  5 20:06:39 2021
+send_parameters:
+{
+	"tcp":	true,
+	"omit":	0,
+	"time":	5,
+	"parallel":	1,
+	"len":	131072,
+	"pacing_timer":	1000,
+	"client_version":	"3.6"
+}
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6001
+SNDBUF is 16384, expecting 0
+RCVBUF is 131072, expecting 0
+Congestion algorithm is cubic
+[  5] local 192.168.17.57 port 55188 connected to 172.26.211.223 port 6001
+sent 78318 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+tcpi_snd_cwnd 10 tcpi_snd_mss 1374 tcpi_rtt 7852
+interval_len 3.826046 bytes_transferred 78318
+interval forces keep
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-3.83   sec  76.5 KBytes   164 Kbits/sec    0   13.4 KBytes       
+tcpi_snd_cwnd 10 tcpi_snd_mss 1374 tcpi_rtt 7852
+interval_len 0.000200 bytes_transferred 0
+ignoring short interval with no data
+tcpi_snd_cwnd 10 tcpi_snd_mss 1374 tcpi_rtt 7852
+interval_len 0.000026 bytes_transferred 0
+ignoring short interval with no data
+tcpi_snd_cwnd 10 tcpi_snd_mss 1374 tcpi_rtt 7852
+interval_len 0.173959 bytes_transferred 0
+interval forces keep
+[  5]   3.83-4.00   sec  0.00 Bytes  0.00 bits/sec    0   13.4 KBytes       
+sent 109920 bytes of 131072, total 188238
+sent 0 bytes of 131072, total 188238
+sent 0 bytes of 131072, total 188238
+sent 0 bytes of 131072, total 188238
+sent 0 bytes of 131072, total 188238
+sent 0 bytes of 131072, total 188238
+sent 0 bytes of 131072, total 188238
+sent 0 bytes of 131072, total 188238
+sent 0 bytes of 131072, total 188238
+sent 0 bytes of 131072, total 188238
+tcpi_snd_cwnd 33 tcpi_snd_mss 1374 tcpi_rtt 269873
+send_results
+{
+	"cpu_util_total":	75.178748734307135,
+	"cpu_util_user":	20.335645545104825,
+	"cpu_util_system":	54.842847840882634,
+	"sender_has_retransmits":	1,
+	"congestion_used":	"cubic",
+	"streams":	[{
+			"id":	1,
+			"bytes":	188238,
+			"retransmits":	1,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0,
+			"start_time":	0,
+			"end_time":	5.0007569789886475
+		}]
+}
+get_results
+{
+	"cpu_util_total":	0.099673,
+	"cpu_util_user":	0.032397,
+	"cpu_util_system":	0.067291,
+	"sender_has_retransmits":	-1,
+	"streams":	[{
+			"id":	1,
+			"bytes":	74196,
+			"retransmits":	-1,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0
+		}]
+}
+interval_len 1.000526 bytes_transferred 109920
+interval forces keep
+[  5]   4.00-5.00   sec   107 KBytes   879 Kbits/sec    1   44.3 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   184 KBytes   301 Kbits/sec    1             sender
+[  5]   0.00-5.00   sec  72.5 KBytes   119 Kbits/sec                  receiver
+
+iperf Done.
+Wed May  5 20:06:46 2021
+send_parameters:
+{
+	"tcp":	true,
+	"omit":	0,
+	"time":	5,
+	"parallel":	1,
+	"len":	131072,
+	"pacing_timer":	1000,
+	"client_version":	"3.6"
+}
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6001
+SNDBUF is 16384, expecting 0
+RCVBUF is 131072, expecting 0
+Congestion algorithm is cubic
+[  5] local 192.168.17.57 port 55192 connected to 172.26.211.223 port 6001
+sent 78318 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 114042 bytes of 131072, total 192360
+sent 0 bytes of 131072, total 192360
+sent 0 bytes of 131072, total 192360
+sent 0 bytes of 131072, total 192360
+sent 0 bytes of 131072, total 192360
+sent 0 bytes of 131072, total 192360
+sent 0 bytes of 131072, total 192360
+sent 0 bytes of 131072, total 192360
+sent 0 bytes of 131072, total 192360
+sent 0 bytes of 131072, total 192360
+tcpi_snd_cwnd 40 tcpi_snd_mss 1374 tcpi_rtt 519682
+interval_len 1.000918 bytes_transferred 192360
+interval forces keep
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   188 KBytes  1.54 Mbits/sec    0   53.7 KBytes       
+sent 93432 bytes of 131072, total 285792
+sent 0 bytes of 131072, total 285792
+sent 0 bytes of 131072, total 285792
+sent 0 bytes of 131072, total 285792
+sent 0 bytes of 131072, total 285792
+sent 0 bytes of 131072, total 285792
+sent 0 bytes of 131072, total 285792
+sent 0 bytes of 131072, total 285792
+sent 0 bytes of 131072, total 285792
+sent 0 bytes of 131072, total 285792
+sent 94806 bytes of 131072, total 380598
+sent 0 bytes of 131072, total 380598
+sent 0 bytes of 131072, total 380598
+sent 0 bytes of 131072, total 380598
+sent 0 bytes of 131072, total 380598
+sent 0 bytes of 131072, total 380598
+sent 0 bytes of 131072, total 380598
+sent 0 bytes of 131072, total 380598
+sent 0 bytes of 131072, total 380598
+sent 0 bytes of 131072, total 380598
+tcpi_snd_cwnd 44 tcpi_snd_mss 1374 tcpi_rtt 518266
+interval_len 0.999417 bytes_transferred 188238
+interval forces keep
+[  5]   1.00-2.00   sec   184 KBytes  1.51 Mbits/sec    0   59.0 KBytes       
+sent 90684 bytes of 131072, total 471282
+sent 0 bytes of 131072, total 471282
+sent 0 bytes of 131072, total 471282
+sent 0 bytes of 131072, total 471282
+sent 0 bytes of 131072, total 471282
+sent 0 bytes of 131072, total 471282
+sent 0 bytes of 131072, total 471282
+sent 0 bytes of 131072, total 471282
+sent 0 bytes of 131072, total 471282
+sent 0 bytes of 131072, total 471282
+tcpi_snd_cwnd 47 tcpi_snd_mss 1374 tcpi_rtt 728666
+interval_len 0.999972 bytes_transferred 90684
+interval forces keep
+[  5]   2.00-3.00   sec  88.6 KBytes   725 Kbits/sec    0   63.1 KBytes       
+sent 131072 bytes of 131072, total 602354
+sent 6328 bytes of 131072, total 608682
+sent 0 bytes of 131072, total 608682
+sent 0 bytes of 131072, total 608682
+sent 0 bytes of 131072, total 608682
+sent 0 bytes of 131072, total 608682
+sent 0 bytes of 131072, total 608682
+sent 0 bytes of 131072, total 608682
+sent 0 bytes of 131072, total 608682
+sent 0 bytes of 131072, total 608682
+tcpi_snd_cwnd 11 tcpi_snd_mss 1374 tcpi_rtt 347109
+interval_len 0.999877 bytes_transferred 137400
+interval forces keep
+[  5]   3.00-4.00   sec   134 KBytes  1.10 Mbits/sec    5   14.8 KBytes       
+tcpi_snd_cwnd 40 tcpi_snd_mss 1374 tcpi_rtt 598016
+send_results
+{
+	"cpu_util_total":	0.60142995798803167,
+	"cpu_util_user":	0,
+	"cpu_util_system":	0.60139078964169579,
+	"sender_has_retransmits":	1,
+	"congestion_used":	"cubic",
+	"streams":	[{
+			"id":	1,
+			"bytes":	608682,
+			"retransmits":	5,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0,
+			"start_time":	0,
+			"end_time":	5.0011451244354248
+		}]
+}
+get_results
+{
+	"cpu_util_total":	0.436671,
+	"cpu_util_user":	0.089459,
+	"cpu_util_system":	0.347228,
+	"sender_has_retransmits":	-1,
+	"streams":	[{
+			"id":	1,
+			"bytes":	539982,
+			"retransmits":	-1,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0
+		}]
+}
+interval_len 1.000961 bytes_transferred 0
+interval forces keep
+[  5]   4.00-5.00   sec  0.00 Bytes  0.00 bits/sec    0   53.7 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   594 KBytes   974 Kbits/sec    5             sender
+[  5]   0.00-5.00   sec   527 KBytes   864 Kbits/sec                  receiver
+
+iperf Done.
+Wed May  5 20:06:53 2021
+send_parameters:
+{
+	"tcp":	true,
+	"omit":	0,
+	"time":	5,
+	"parallel":	1,
+	"len":	131072,
+	"pacing_timer":	1000,
+	"client_version":	"3.6"
+}
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6001
+SNDBUF is 16384, expecting 0
+RCVBUF is 131072, expecting 0
+Congestion algorithm is cubic
+[  5] local 192.168.17.57 port 55196 connected to 172.26.211.223 port 6001
+sent 78318 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 97554 bytes of 131072, total 175872
+sent 0 bytes of 131072, total 175872
+sent 0 bytes of 131072, total 175872
+sent 0 bytes of 131072, total 175872
+sent 0 bytes of 131072, total 175872
+sent 0 bytes of 131072, total 175872
+sent 0 bytes of 131072, total 175872
+sent 0 bytes of 131072, total 175872
+sent 0 bytes of 131072, total 175872
+sent 0 bytes of 131072, total 175872
+sent 83814 bytes of 131072, total 259686
+sent 0 bytes of 131072, total 259686
+sent 0 bytes of 131072, total 259686
+sent 0 bytes of 131072, total 259686
+sent 0 bytes of 131072, total 259686
+sent 0 bytes of 131072, total 259686
+sent 0 bytes of 131072, total 259686
+sent 0 bytes of 131072, total 259686
+sent 0 bytes of 131072, total 259686
+sent 0 bytes of 131072, total 259686
+sent 83814 bytes of 131072, total 343500
+sent 0 bytes of 131072, total 343500
+sent 0 bytes of 131072, total 343500
+sent 0 bytes of 131072, total 343500
+sent 0 bytes of 131072, total 343500
+sent 0 bytes of 131072, total 343500
+sent 0 bytes of 131072, total 343500
+sent 0 bytes of 131072, total 343500
+sent 0 bytes of 131072, total 343500
+sent 0 bytes of 131072, total 343500
+tcpi_snd_cwnd 52 tcpi_snd_mss 1374 tcpi_rtt 396187
+interval_len 1.000170 bytes_transferred 343500
+interval forces keep
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   335 KBytes  2.75 Mbits/sec    0   69.8 KBytes       
+sent 131072 bytes of 131072, total 474572
+sent 13198 bytes of 131072, total 487770
+sent 0 bytes of 131072, total 487770
+sent 0 bytes of 131072, total 487770
+sent 0 bytes of 131072, total 487770
+sent 0 bytes of 131072, total 487770
+sent 0 bytes of 131072, total 487770
+sent 0 bytes of 131072, total 487770
+sent 0 bytes of 131072, total 487770
+sent 0 bytes of 131072, total 487770
+tcpi_snd_cwnd 58 tcpi_snd_mss 1374 tcpi_rtt 474564
+interval_len 1.000595 bytes_transferred 144270
+interval forces keep
+[  5]   1.00-2.00   sec   141 KBytes  1.15 Mbits/sec    0   77.8 KBytes       
+sent 129156 bytes of 131072, total 616926
+sent 0 bytes of 131072, total 616926
+sent 0 bytes of 131072, total 616926
+sent 0 bytes of 131072, total 616926
+sent 0 bytes of 131072, total 616926
+sent 0 bytes of 131072, total 616926
+sent 0 bytes of 131072, total 616926
+sent 0 bytes of 131072, total 616926
+sent 0 bytes of 131072, total 616926
+sent 0 bytes of 131072, total 616926
+tcpi_snd_cwnd 60 tcpi_snd_mss 1374 tcpi_rtt 984397
+interval_len 0.999616 bytes_transferred 129156
+interval forces keep
+[  5]   2.00-3.00   sec   126 KBytes  1.03 Mbits/sec    0   80.5 KBytes       
+tcpi_snd_cwnd 62 tcpi_snd_mss 1374 tcpi_rtt 1116759
+interval_len 1.000700 bytes_transferred 0
+interval forces keep
+[  5]   3.00-4.00   sec  0.00 Bytes  0.00 bits/sec    0   83.2 KBytes       
+sent 129156 bytes of 131072, total 746082
+sent 0 bytes of 131072, total 746082
+sent 0 bytes of 131072, total 746082
+sent 0 bytes of 131072, total 746082
+sent 0 bytes of 131072, total 746082
+sent 0 bytes of 131072, total 746082
+sent 0 bytes of 131072, total 746082
+sent 0 bytes of 131072, total 746082
+sent 0 bytes of 131072, total 746082
+sent 0 bytes of 131072, total 746082
+tcpi_snd_cwnd 70 tcpi_snd_mss 1374 tcpi_rtt 1220184
+send_results
+{
+	"cpu_util_total":	0.52005689477924544,
+	"cpu_util_user":	0.021279851146561897,
+	"cpu_util_system":	0.49877704363268355,
+	"sender_has_retransmits":	1,
+	"congestion_used":	"cubic",
+	"streams":	[{
+			"id":	1,
+			"bytes":	746082,
+			"retransmits":	0,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0,
+			"start_time":	0,
+			"end_time":	5.0005371570587158
+		}]
+}
+get_results
+{
+	"cpu_util_total":	0.497247,
+	"cpu_util_user":	0.099614,
+	"cpu_util_system":	0.397633,
+	"sender_has_retransmits":	-1,
+	"streams":	[{
+			"id":	1,
+			"bytes":	517998,
+			"retransmits":	-1,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0
+		}]
+}
+interval_len 0.999456 bytes_transferred 129156
+interval forces keep
+[  5]   4.00-5.00   sec   126 KBytes  1.03 Mbits/sec    0   93.9 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   729 KBytes  1.19 Mbits/sec    0             sender
+[  5]   0.00-5.00   sec   506 KBytes   829 Kbits/sec                  receiver
+
+iperf Done.
+Wed May  5 20:07:00 2021
+send_parameters:
+{
+	"tcp":	true,
+	"omit":	0,
+	"time":	5,
+	"parallel":	1,
+	"len":	131072,
+	"pacing_timer":	1000,
+	"client_version":	"3.6"
+}
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6001
+SNDBUF is 16384, expecting 0
+RCVBUF is 131072, expecting 0
+Congestion algorithm is cubic
+[  5] local 192.168.17.57 port 55200 connected to 172.26.211.223 port 6001
+sent 78318 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 103050 bytes of 131072, total 181368
+sent 0 bytes of 131072, total 181368
+sent 0 bytes of 131072, total 181368
+sent 0 bytes of 131072, total 181368
+sent 0 bytes of 131072, total 181368
+sent 0 bytes of 131072, total 181368
+sent 0 bytes of 131072, total 181368
+sent 0 bytes of 131072, total 181368
+sent 0 bytes of 131072, total 181368
+sent 0 bytes of 131072, total 181368
+tcpi_snd_cwnd 35 tcpi_snd_mss 1374 tcpi_rtt 441220
+interval_len 1.000742 bytes_transferred 181368
+interval forces keep
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   177 KBytes  1.45 Mbits/sec    0   47.0 KBytes       
+sent 100302 bytes of 131072, total 281670
+sent 0 bytes of 131072, total 281670
+sent 0 bytes of 131072, total 281670
+sent 0 bytes of 131072, total 281670
+sent 0 bytes of 131072, total 281670
+sent 0 bytes of 131072, total 281670
+sent 0 bytes of 131072, total 281670
+sent 0 bytes of 131072, total 281670
+sent 0 bytes of 131072, total 281670
+sent 0 bytes of 131072, total 281670
+sent 93432 bytes of 131072, total 375102
+sent 0 bytes of 131072, total 375102
+sent 0 bytes of 131072, total 375102
+sent 0 bytes of 131072, total 375102
+sent 0 bytes of 131072, total 375102
+sent 0 bytes of 131072, total 375102
+sent 0 bytes of 131072, total 375102
+sent 0 bytes of 131072, total 375102
+sent 0 bytes of 131072, total 375102
+sent 0 bytes of 131072, total 375102
+tcpi_snd_cwnd 40 tcpi_snd_mss 1374 tcpi_rtt 448840
+interval_len 0.999483 bytes_transferred 193734
+interval forces keep
+[  5]   1.00-2.00   sec   189 KBytes  1.55 Mbits/sec    0   53.7 KBytes       
+sent 96180 bytes of 131072, total 471282
+sent 0 bytes of 131072, total 471282
+sent 0 bytes of 131072, total 471282
+sent 0 bytes of 131072, total 471282
+sent 0 bytes of 131072, total 471282
+sent 0 bytes of 131072, total 471282
+sent 0 bytes of 131072, total 471282
+sent 0 bytes of 131072, total 471282
+sent 0 bytes of 131072, total 471282
+sent 0 bytes of 131072, total 471282
+tcpi_snd_cwnd 46 tcpi_snd_mss 1374 tcpi_rtt 456159
+interval_len 1.000374 bytes_transferred 96180
+interval forces keep
+[  5]   2.00-3.00   sec  93.9 KBytes   769 Kbits/sec    0   61.7 KBytes       
+sent 89310 bytes of 131072, total 560592
+sent 0 bytes of 131072, total 560592
+sent 0 bytes of 131072, total 560592
+sent 0 bytes of 131072, total 560592
+sent 0 bytes of 131072, total 560592
+sent 0 bytes of 131072, total 560592
+sent 0 bytes of 131072, total 560592
+sent 0 bytes of 131072, total 560592
+sent 0 bytes of 131072, total 560592
+sent 0 bytes of 131072, total 560592
+sent 89310 bytes of 131072, total 649902
+sent 0 bytes of 131072, total 649902
+sent 0 bytes of 131072, total 649902
+sent 0 bytes of 131072, total 649902
+sent 0 bytes of 131072, total 649902
+sent 0 bytes of 131072, total 649902
+sent 0 bytes of 131072, total 649902
+sent 0 bytes of 131072, total 649902
+sent 0 bytes of 131072, total 649902
+sent 0 bytes of 131072, total 649902
+tcpi_snd_cwnd 51 tcpi_snd_mss 1374 tcpi_rtt 383708
+interval_len 0.999915 bytes_transferred 178620
+interval forces keep
+[  5]   3.00-4.00   sec   174 KBytes  1.43 Mbits/sec    0   68.4 KBytes       
+sent 82440 bytes of 131072, total 732342
+sent 0 bytes of 131072, total 732342
+sent 0 bytes of 131072, total 732342
+sent 0 bytes of 131072, total 732342
+sent 64578 bytes of 131072, total 796920
+sent 0 bytes of 131072, total 796920
+sent 0 bytes of 131072, total 796920
+sent 0 bytes of 131072, total 796920
+sent 0 bytes of 131072, total 796920
+sent 0 bytes of 131072, total 796920
+sent 129156 bytes of 131072, total 926076
+sent 0 bytes of 131072, total 926076
+sent 0 bytes of 131072, total 926076
+sent 0 bytes of 131072, total 926076
+sent 0 bytes of 131072, total 926076
+sent 0 bytes of 131072, total 926076
+sent 0 bytes of 131072, total 926076
+sent 0 bytes of 131072, total 926076
+sent 0 bytes of 131072, total 926076
+sent 0 bytes of 131072, total 926076
+tcpi_snd_cwnd 38 tcpi_snd_mss 1374 tcpi_rtt 239078
+send_results
+{
+	"cpu_util_total":	1.1672624412077444,
+	"cpu_util_user":	0.032065396223430589,
+	"cpu_util_system":	1.1352751580080007,
+	"sender_has_retransmits":	1,
+	"congestion_used":	"cubic",
+	"streams":	[{
+			"id":	1,
+			"bytes":	926076,
+			"retransmits":	1,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0,
+			"start_time":	0,
+			"end_time":	5.000330924987793
+		}]
+}
+get_results
+{
+	"cpu_util_total":	0.539931,
+	"cpu_util_user":	0.103734,
+	"cpu_util_system":	0.43618,
+	"sender_has_retransmits":	-1,
+	"streams":	[{
+			"id":	1,
+			"bytes":	684252,
+			"retransmits":	-1,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0
+		}]
+}
+interval_len 0.999817 bytes_transferred 276174
+interval forces keep
+[  5]   4.00-5.00   sec   270 KBytes  2.21 Mbits/sec    1   51.0 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec   904 KBytes  1.48 Mbits/sec    1             sender
+[  5]   0.00-5.00   sec   668 KBytes  1.09 Mbits/sec                  receiver
+
+iperf Done.
+Wed May  5 20:07:07 2021
+send_parameters:
+{
+	"tcp":	true,
+	"omit":	0,
+	"time":	5,
+	"parallel":	1,
+	"len":	131072,
+	"pacing_timer":	1000,
+	"client_version":	"3.6"
+}
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6001
+SNDBUF is 16384, expecting 0
+RCVBUF is 131072, expecting 0
+Congestion algorithm is cubic
+[  5] local 192.168.17.57 port 55204 connected to 172.26.211.223 port 6001
+sent 78318 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 37098 bytes of 131072, total 115416
+sent 0 bytes of 131072, total 115416
+sent 0 bytes of 131072, total 115416
+sent 0 bytes of 131072, total 115416
+sent 0 bytes of 131072, total 115416
+sent 0 bytes of 131072, total 115416
+sent 0 bytes of 131072, total 115416
+sent 0 bytes of 131072, total 115416
+sent 0 bytes of 131072, total 115416
+sent 0 bytes of 131072, total 115416
+sent 90684 bytes of 131072, total 206100
+sent 0 bytes of 131072, total 206100
+sent 0 bytes of 131072, total 206100
+sent 0 bytes of 131072, total 206100
+sent 0 bytes of 131072, total 206100
+sent 0 bytes of 131072, total 206100
+sent 0 bytes of 131072, total 206100
+sent 0 bytes of 131072, total 206100
+sent 0 bytes of 131072, total 206100
+sent 0 bytes of 131072, total 206100
+sent 131072 bytes of 131072, total 337172
+sent 62662 bytes of 131072, total 399834
+sent 0 bytes of 131072, total 399834
+sent 0 bytes of 131072, total 399834
+sent 0 bytes of 131072, total 399834
+sent 0 bytes of 131072, total 399834
+sent 0 bytes of 131072, total 399834
+sent 0 bytes of 131072, total 399834
+sent 0 bytes of 131072, total 399834
+sent 0 bytes of 131072, total 399834
+sent 129156 bytes of 131072, total 528990
+sent 0 bytes of 131072, total 528990
+sent 0 bytes of 131072, total 528990
+sent 0 bytes of 131072, total 528990
+sent 0 bytes of 131072, total 528990
+sent 0 bytes of 131072, total 528990
+sent 0 bytes of 131072, total 528990
+sent 0 bytes of 131072, total 528990
+sent 0 bytes of 131072, total 528990
+sent 0 bytes of 131072, total 528990
+sent 129156 bytes of 131072, total 658146
+sent 0 bytes of 131072, total 658146
+sent 0 bytes of 131072, total 658146
+sent 0 bytes of 131072, total 658146
+sent 0 bytes of 131072, total 658146
+sent 0 bytes of 131072, total 658146
+sent 0 bytes of 131072, total 658146
+sent 0 bytes of 131072, total 658146
+sent 0 bytes of 131072, total 658146
+sent 0 bytes of 131072, total 658146
+tcpi_snd_cwnd 70 tcpi_snd_mss 1374 tcpi_rtt 185196
+interval_len 1.000314 bytes_transferred 658146
+interval forces keep
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   643 KBytes  5.26 Mbits/sec    0   93.9 KBytes       
+sent 129156 bytes of 131072, total 787302
+sent 0 bytes of 131072, total 787302
+sent 0 bytes of 131072, total 787302
+sent 0 bytes of 131072, total 787302
+sent 0 bytes of 131072, total 787302
+sent 0 bytes of 131072, total 787302
+sent 0 bytes of 131072, total 787302
+sent 0 bytes of 131072, total 787302
+sent 0 bytes of 131072, total 787302
+sent 0 bytes of 131072, total 787302
+sent 129156 bytes of 131072, total 916458
+sent 0 bytes of 131072, total 916458
+sent 0 bytes of 131072, total 916458
+sent 0 bytes of 131072, total 916458
+sent 0 bytes of 131072, total 916458
+sent 0 bytes of 131072, total 916458
+sent 0 bytes of 131072, total 916458
+sent 0 bytes of 131072, total 916458
+sent 0 bytes of 131072, total 916458
+sent 0 bytes of 131072, total 916458
+sent 131072 bytes of 131072, total 1047530
+sent 62662 bytes of 131072, total 1110192
+sent 0 bytes of 131072, total 1110192
+sent 0 bytes of 131072, total 1110192
+sent 0 bytes of 131072, total 1110192
+sent 0 bytes of 131072, total 1110192
+sent 0 bytes of 131072, total 1110192
+sent 0 bytes of 131072, total 1110192
+sent 0 bytes of 131072, total 1110192
+sent 0 bytes of 131072, total 1110192
+sent 131072 bytes of 131072, total 1241264
+sent 62662 bytes of 131072, total 1303926
+sent 0 bytes of 131072, total 1303926
+sent 0 bytes of 131072, total 1303926
+sent 0 bytes of 131072, total 1303926
+sent 0 bytes of 131072, total 1303926
+sent 0 bytes of 131072, total 1303926
+sent 0 bytes of 131072, total 1303926
+sent 0 bytes of 131072, total 1303926
+sent 0 bytes of 131072, total 1303926
+sent 129156 bytes of 131072, total 1433082
+sent 0 bytes of 131072, total 1433082
+sent 0 bytes of 131072, total 1433082
+sent 0 bytes of 131072, total 1433082
+sent 0 bytes of 131072, total 1433082
+sent 0 bytes of 131072, total 1433082
+sent 0 bytes of 131072, total 1433082
+sent 0 bytes of 131072, total 1433082
+sent 0 bytes of 131072, total 1433082
+sent 0 bytes of 131072, total 1433082
+sent 129156 bytes of 131072, total 1562238
+sent 0 bytes of 131072, total 1562238
+sent 0 bytes of 131072, total 1562238
+sent 0 bytes of 131072, total 1562238
+sent 0 bytes of 131072, total 1562238
+sent 0 bytes of 131072, total 1562238
+sent 0 bytes of 131072, total 1562238
+sent 0 bytes of 131072, total 1562238
+sent 0 bytes of 131072, total 1562238
+sent 0 bytes of 131072, total 1562238
+tcpi_snd_cwnd 63 tcpi_snd_mss 1374 tcpi_rtt 56249
+interval_len 0.999830 bytes_transferred 904092
+interval forces keep
+[  5]   1.00-2.00   sec   883 KBytes  7.23 Mbits/sec    1   84.5 KBytes       
+sent 131072 bytes of 131072, total 1693310
+sent 62662 bytes of 131072, total 1755972
+sent 0 bytes of 131072, total 1755972
+sent 0 bytes of 131072, total 1755972
+sent 0 bytes of 131072, total 1755972
+sent 0 bytes of 131072, total 1755972
+sent 0 bytes of 131072, total 1755972
+sent 0 bytes of 131072, total 1755972
+sent 0 bytes of 131072, total 1755972
+sent 0 bytes of 131072, total 1755972
+sent 131072 bytes of 131072, total 1887044
+sent 62662 bytes of 131072, total 1949706
+sent 0 bytes of 131072, total 1949706
+sent 0 bytes of 131072, total 1949706
+sent 0 bytes of 131072, total 1949706
+sent 0 bytes of 131072, total 1949706
+sent 0 bytes of 131072, total 1949706
+sent 0 bytes of 131072, total 1949706
+sent 0 bytes of 131072, total 1949706
+sent 0 bytes of 131072, total 1949706
+sent 129156 bytes of 131072, total 2078862
+sent 0 bytes of 131072, total 2078862
+sent 0 bytes of 131072, total 2078862
+sent 0 bytes of 131072, total 2078862
+sent 0 bytes of 131072, total 2078862
+sent 0 bytes of 131072, total 2078862
+sent 0 bytes of 131072, total 2078862
+sent 0 bytes of 131072, total 2078862
+sent 0 bytes of 131072, total 2078862
+sent 0 bytes of 131072, total 2078862
+sent 131072 bytes of 131072, total 2209934
+sent 62662 bytes of 131072, total 2272596
+sent 0 bytes of 131072, total 2272596
+sent 0 bytes of 131072, total 2272596
+sent 0 bytes of 131072, total 2272596
+sent 0 bytes of 131072, total 2272596
+sent 0 bytes of 131072, total 2272596
+sent 0 bytes of 131072, total 2272596
+sent 0 bytes of 131072, total 2272596
+sent 0 bytes of 131072, total 2272596
+sent 129156 bytes of 131072, total 2401752
+sent 0 bytes of 131072, total 2401752
+sent 0 bytes of 131072, total 2401752
+sent 0 bytes of 131072, total 2401752
+sent 0 bytes of 131072, total 2401752
+sent 0 bytes of 131072, total 2401752
+sent 0 bytes of 131072, total 2401752
+sent 0 bytes of 131072, total 2401752
+sent 0 bytes of 131072, total 2401752
+sent 0 bytes of 131072, total 2401752
+tcpi_snd_cwnd 72 tcpi_snd_mss 1374 tcpi_rtt 176646
+interval_len 1.000104 bytes_transferred 839514
+interval forces keep
+[  5]   2.00-3.00   sec   820 KBytes  6.72 Mbits/sec    0   96.6 KBytes       
+sent 129156 bytes of 131072, total 2530908
+sent 0 bytes of 131072, total 2530908
+sent 0 bytes of 131072, total 2530908
+sent 0 bytes of 131072, total 2530908
+sent 0 bytes of 131072, total 2530908
+sent 0 bytes of 131072, total 2530908
+sent 0 bytes of 131072, total 2530908
+sent 0 bytes of 131072, total 2530908
+sent 0 bytes of 131072, total 2530908
+sent 0 bytes of 131072, total 2530908
+sent 129156 bytes of 131072, total 2660064
+sent 0 bytes of 131072, total 2660064
+sent 0 bytes of 131072, total 2660064
+sent 0 bytes of 131072, total 2660064
+sent 0 bytes of 131072, total 2660064
+sent 64578 bytes of 131072, total 2724642
+sent 0 bytes of 131072, total 2724642
+sent 0 bytes of 131072, total 2724642
+sent 0 bytes of 131072, total 2724642
+sent 0 bytes of 131072, total 2724642
+sent 131072 bytes of 131072, total 2855714
+sent 62662 bytes of 131072, total 2918376
+sent 0 bytes of 131072, total 2918376
+sent 0 bytes of 131072, total 2918376
+sent 0 bytes of 131072, total 2918376
+sent 0 bytes of 131072, total 2918376
+sent 0 bytes of 131072, total 2918376
+sent 0 bytes of 131072, total 2918376
+sent 0 bytes of 131072, total 2918376
+sent 0 bytes of 131072, total 2918376
+tcpi_snd_cwnd 76 tcpi_snd_mss 1374 tcpi_rtt 169553
+interval_len 0.999956 bytes_transferred 516624
+interval forces keep
+[  5]   3.00-4.00   sec   505 KBytes  4.13 Mbits/sec    0    102 KBytes       
+sent 131072 bytes of 131072, total 3049448
+sent 62662 bytes of 131072, total 3112110
+sent 0 bytes of 131072, total 3112110
+sent 0 bytes of 131072, total 3112110
+sent 0 bytes of 131072, total 3112110
+sent 0 bytes of 131072, total 3112110
+sent 0 bytes of 131072, total 3112110
+sent 0 bytes of 131072, total 3112110
+sent 0 bytes of 131072, total 3112110
+sent 0 bytes of 131072, total 3112110
+sent 131072 bytes of 131072, total 3243182
+sent 73654 bytes of 131072, total 3316836
+sent 0 bytes of 131072, total 3316836
+sent 0 bytes of 131072, total 3316836
+sent 0 bytes of 131072, total 3316836
+sent 0 bytes of 131072, total 3316836
+sent 0 bytes of 131072, total 3316836
+sent 0 bytes of 131072, total 3316836
+sent 0 bytes of 131072, total 3316836
+sent 0 bytes of 131072, total 3316836
+sent 129156 bytes of 131072, total 3445992
+sent 0 bytes of 131072, total 3445992
+sent 0 bytes of 131072, total 3445992
+sent 0 bytes of 131072, total 3445992
+sent 0 bytes of 131072, total 3445992
+sent 0 bytes of 131072, total 3445992
+sent 0 bytes of 131072, total 3445992
+sent 0 bytes of 131072, total 3445992
+sent 0 bytes of 131072, total 3445992
+sent 0 bytes of 131072, total 3445992
+tcpi_snd_cwnd 58 tcpi_snd_mss 1374 tcpi_rtt 160208
+send_results
+{
+	"cpu_util_total":	0.75363780952981463,
+	"cpu_util_user":	0.069594671440668623,
+	"cpu_util_system":	0.68406278095435646,
+	"sender_has_retransmits":	1,
+	"congestion_used":	"cubic",
+	"streams":	[{
+			"id":	1,
+			"bytes":	3445992,
+			"retransmits":	9,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0,
+			"start_time":	0,
+			"end_time":	5.0003199577331543
+		}]
+}
+get_results
+{
+	"cpu_util_total":	1.253228,
+	"cpu_util_user":	0.224697,
+	"cpu_util_system":	1.028531,
+	"sender_has_retransmits":	-1,
+	"streams":	[{
+			"id":	1,
+			"bytes":	3279738,
+			"retransmits":	-1,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0
+		}]
+}
+interval_len 1.000116 bytes_transferred 527616
+interval forces keep
+[  5]   4.00-5.00   sec   515 KBytes  4.22 Mbits/sec    8   77.8 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  3.29 MBytes  5.51 Mbits/sec    9             sender
+[  5]   0.00-5.00   sec  3.13 MBytes  5.25 Mbits/sec                  receiver
+
+iperf Done.
+Wed May  5 20:07:14 2021
+send_parameters:
+{
+	"tcp":	true,
+	"omit":	0,
+	"time":	5,
+	"parallel":	1,
+	"len":	131072,
+	"pacing_timer":	1000,
+	"client_version":	"3.6"
+}
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6001
+SNDBUF is 16384, expecting 0
+RCVBUF is 131072, expecting 0
+Congestion algorithm is cubic
+[  5] local 192.168.17.57 port 55208 connected to 172.26.211.223 port 6001
+sent 78318 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 108546 bytes of 131072, total 186864
+sent 0 bytes of 131072, total 186864
+sent 0 bytes of 131072, total 186864
+sent 0 bytes of 131072, total 186864
+sent 0 bytes of 131072, total 186864
+sent 0 bytes of 131072, total 186864
+sent 0 bytes of 131072, total 186864
+sent 0 bytes of 131072, total 186864
+sent 0 bytes of 131072, total 186864
+sent 0 bytes of 131072, total 186864
+sent 129156 bytes of 131072, total 316020
+sent 0 bytes of 131072, total 316020
+sent 0 bytes of 131072, total 316020
+sent 0 bytes of 131072, total 316020
+sent 0 bytes of 131072, total 316020
+sent 0 bytes of 131072, total 316020
+sent 0 bytes of 131072, total 316020
+sent 0 bytes of 131072, total 316020
+sent 0 bytes of 131072, total 316020
+sent 0 bytes of 131072, total 316020
+sent 131072 bytes of 131072, total 447092
+sent 62662 bytes of 131072, total 509754
+sent 0 bytes of 131072, total 509754
+sent 0 bytes of 131072, total 509754
+sent 0 bytes of 131072, total 509754
+sent 0 bytes of 131072, total 509754
+sent 0 bytes of 131072, total 509754
+sent 0 bytes of 131072, total 509754
+sent 0 bytes of 131072, total 509754
+sent 0 bytes of 131072, total 509754
+tcpi_snd_cwnd 17 tcpi_snd_mss 1374 tcpi_rtt 193297
+interval_len 1.000706 bytes_transferred 509754
+interval forces keep
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   498 KBytes  4.08 Mbits/sec    8   22.8 KBytes       
+sent 131072 bytes of 131072, total 640826
+sent 62662 bytes of 131072, total 703488
+sent 0 bytes of 131072, total 703488
+sent 0 bytes of 131072, total 703488
+sent 0 bytes of 131072, total 703488
+sent 0 bytes of 131072, total 703488
+sent 0 bytes of 131072, total 703488
+sent 0 bytes of 131072, total 703488
+sent 0 bytes of 131072, total 703488
+sent 0 bytes of 131072, total 703488
+sent 129156 bytes of 131072, total 832644
+sent 0 bytes of 131072, total 832644
+sent 0 bytes of 131072, total 832644
+sent 0 bytes of 131072, total 832644
+sent 0 bytes of 131072, total 832644
+sent 0 bytes of 131072, total 832644
+sent 0 bytes of 131072, total 832644
+sent 0 bytes of 131072, total 832644
+sent 0 bytes of 131072, total 832644
+sent 0 bytes of 131072, total 832644
+tcpi_snd_cwnd 37 tcpi_snd_mss 1374 tcpi_rtt 183145
+interval_len 0.999622 bytes_transferred 322890
+interval forces keep
+[  5]   1.00-2.00   sec   315 KBytes  2.58 Mbits/sec    7   49.6 KBytes       
+sent 129156 bytes of 131072, total 961800
+sent 0 bytes of 131072, total 961800
+sent 0 bytes of 131072, total 961800
+sent 0 bytes of 131072, total 961800
+sent 0 bytes of 131072, total 961800
+sent 0 bytes of 131072, total 961800
+sent 0 bytes of 131072, total 961800
+sent 0 bytes of 131072, total 961800
+sent 0 bytes of 131072, total 961800
+sent 0 bytes of 131072, total 961800
+sent 129156 bytes of 131072, total 1090956
+sent 0 bytes of 131072, total 1090956
+sent 0 bytes of 131072, total 1090956
+sent 0 bytes of 131072, total 1090956
+sent 0 bytes of 131072, total 1090956
+sent 0 bytes of 131072, total 1090956
+sent 0 bytes of 131072, total 1090956
+sent 0 bytes of 131072, total 1090956
+sent 0 bytes of 131072, total 1090956
+sent 0 bytes of 131072, total 1090956
+tcpi_snd_cwnd 13 tcpi_snd_mss 1374 tcpi_rtt 47544
+interval_len 0.999783 bytes_transferred 258312
+interval forces keep
+[  5]   2.00-3.00   sec   252 KBytes  2.07 Mbits/sec    6   17.4 KBytes       
+tcpi_snd_cwnd 6 tcpi_snd_mss 1374 tcpi_rtt 173114
+interval_len 1.000961 bytes_transferred 0
+interval forces keep
+[  5]   3.00-4.00   sec  0.00 Bytes  0.00 bits/sec    3   8.05 KBytes       
+sent 129156 bytes of 131072, total 1220112
+sent 0 bytes of 131072, total 1220112
+sent 0 bytes of 131072, total 1220112
+sent 0 bytes of 131072, total 1220112
+sent 0 bytes of 131072, total 1220112
+sent 0 bytes of 131072, total 1220112
+sent 0 bytes of 131072, total 1220112
+sent 0 bytes of 131072, total 1220112
+sent 0 bytes of 131072, total 1220112
+sent 0 bytes of 131072, total 1220112
+sent 129156 bytes of 131072, total 1349268
+sent 0 bytes of 131072, total 1349268
+sent 0 bytes of 131072, total 1349268
+sent 0 bytes of 131072, total 1349268
+sent 0 bytes of 131072, total 1349268
+sent 0 bytes of 131072, total 1349268
+sent 0 bytes of 131072, total 1349268
+sent 0 bytes of 131072, total 1349268
+sent 0 bytes of 131072, total 1349268
+sent 0 bytes of 131072, total 1349268
+sent 129156 bytes of 131072, total 1478424
+sent 0 bytes of 131072, total 1478424
+sent 0 bytes of 131072, total 1478424
+sent 0 bytes of 131072, total 1478424
+sent 0 bytes of 131072, total 1478424
+sent 0 bytes of 131072, total 1478424
+sent 0 bytes of 131072, total 1478424
+sent 0 bytes of 131072, total 1478424
+sent 0 bytes of 131072, total 1478424
+sent 0 bytes of 131072, total 1478424
+tcpi_snd_cwnd 5 tcpi_snd_mss 1374 tcpi_rtt 14164
+send_results
+{
+	"cpu_util_total":	0.536760985716584,
+	"cpu_util_user":	0,
+	"cpu_util_system":	0.53610114503705686,
+	"sender_has_retransmits":	1,
+	"congestion_used":	"cubic",
+	"streams":	[{
+			"id":	1,
+			"bytes":	1478424,
+			"retransmits":	33,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0,
+			"start_time":	0,
+			"end_time":	5.0003149509429932
+		}]
+}
+get_results
+{
+	"cpu_util_total":	0.421904,
+	"cpu_util_user":	0.085083,
+	"cpu_util_system":	0.336806,
+	"sender_has_retransmits":	-1,
+	"streams":	[{
+			"id":	1,
+			"bytes":	1189884,
+			"retransmits":	-1,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0
+		}]
+}
+interval_len 0.999243 bytes_transferred 387468
+interval forces keep
+[  5]   4.00-5.00   sec   378 KBytes  3.10 Mbits/sec    9   6.71 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  1.41 MBytes  2.37 Mbits/sec   33             sender
+[  5]   0.00-5.00   sec  1.13 MBytes  1.90 Mbits/sec                  receiver
+
+iperf Done.
+Wed May  5 20:07:21 2021
+send_parameters:
+{
+	"tcp":	true,
+	"omit":	0,
+	"time":	5,
+	"parallel":	1,
+	"len":	131072,
+	"pacing_timer":	1000,
+	"client_version":	"3.6"
+}
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6001
+SNDBUF is 16384, expecting 0
+RCVBUF is 131072, expecting 0
+Congestion algorithm is cubic
+[  5] local 192.168.17.57 port 55212 connected to 172.26.211.223 port 6001
+sent 78318 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 116790 bytes of 131072, total 195108
+sent 0 bytes of 131072, total 195108
+sent 0 bytes of 131072, total 195108
+sent 0 bytes of 131072, total 195108
+sent 0 bytes of 131072, total 195108
+sent 0 bytes of 131072, total 195108
+sent 0 bytes of 131072, total 195108
+sent 0 bytes of 131072, total 195108
+sent 0 bytes of 131072, total 195108
+sent 0 bytes of 131072, total 195108
+sent 86562 bytes of 131072, total 281670
+sent 0 bytes of 131072, total 281670
+sent 0 bytes of 131072, total 281670
+sent 0 bytes of 131072, total 281670
+sent 0 bytes of 131072, total 281670
+sent 0 bytes of 131072, total 281670
+sent 0 bytes of 131072, total 281670
+sent 0 bytes of 131072, total 281670
+sent 0 bytes of 131072, total 281670
+sent 0 bytes of 131072, total 281670
+sent 64578 bytes of 131072, total 346248
+sent 0 bytes of 131072, total 346248
+sent 0 bytes of 131072, total 346248
+sent 0 bytes of 131072, total 346248
+sent 0 bytes of 131072, total 346248
+sent 0 bytes of 131072, total 346248
+sent 0 bytes of 131072, total 346248
+sent 0 bytes of 131072, total 346248
+sent 0 bytes of 131072, total 346248
+sent 0 bytes of 131072, total 346248
+sent 129156 bytes of 131072, total 475404
+sent 0 bytes of 131072, total 475404
+sent 0 bytes of 131072, total 475404
+sent 0 bytes of 131072, total 475404
+sent 0 bytes of 131072, total 475404
+sent 0 bytes of 131072, total 475404
+sent 0 bytes of 131072, total 475404
+sent 0 bytes of 131072, total 475404
+sent 0 bytes of 131072, total 475404
+sent 0 bytes of 131072, total 475404
+sent 64578 bytes of 131072, total 539982
+sent 0 bytes of 131072, total 539982
+sent 0 bytes of 131072, total 539982
+sent 0 bytes of 131072, total 539982
+sent 0 bytes of 131072, total 539982
+sent 0 bytes of 131072, total 539982
+sent 0 bytes of 131072, total 539982
+sent 0 bytes of 131072, total 539982
+sent 0 bytes of 131072, total 539982
+sent 0 bytes of 131072, total 539982
+sent 64578 bytes of 131072, total 604560
+sent 0 bytes of 131072, total 604560
+sent 0 bytes of 131072, total 604560
+sent 0 bytes of 131072, total 604560
+sent 0 bytes of 131072, total 604560
+sent 0 bytes of 131072, total 604560
+sent 0 bytes of 131072, total 604560
+sent 0 bytes of 131072, total 604560
+sent 0 bytes of 131072, total 604560
+sent 0 bytes of 131072, total 604560
+tcpi_snd_cwnd 10 tcpi_snd_mss 1374 tcpi_rtt 25142
+interval_len 1.000170 bytes_transferred 604560
+interval forces keep
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   590 KBytes  4.84 Mbits/sec   14   13.4 KBytes       
+sent 64578 bytes of 131072, total 669138
+sent 0 bytes of 131072, total 669138
+sent 0 bytes of 131072, total 669138
+sent 0 bytes of 131072, total 669138
+sent 0 bytes of 131072, total 669138
+sent 0 bytes of 131072, total 669138
+sent 0 bytes of 131072, total 669138
+sent 0 bytes of 131072, total 669138
+sent 0 bytes of 131072, total 669138
+sent 0 bytes of 131072, total 669138
+tcpi_snd_cwnd 4 tcpi_snd_mss 1374 tcpi_rtt 161673
+interval_len 1.000756 bytes_transferred 64578
+interval forces keep
+[  5]   1.00-2.00   sec  63.1 KBytes   516 Kbits/sec    5   5.37 KBytes       
+sent 64578 bytes of 131072, total 733716
+sent 0 bytes of 131072, total 733716
+sent 0 bytes of 131072, total 733716
+sent 0 bytes of 131072, total 733716
+sent 0 bytes of 131072, total 733716
+sent 0 bytes of 131072, total 733716
+sent 0 bytes of 131072, total 733716
+sent 0 bytes of 131072, totWed May  5 20:07:28 2021
+iperf3: error - unable to receive control message: Connection reset by peer
+Wed May  5 20:07:35 2021
+Wed May  5 20:07:42 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 20:07:49 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 20:07:56 2021
+Wed May  5 20:08:03 2021
+Wed May  5 20:08:10 2021
+Wed May  5 20:08:17 2021
+Wed May  5 20:08:24 2021
+Wed May  5 20:08:31 2021
+Wed May  5 20:08:38 2021
+Wed May  5 20:08:45 2021
+Wed May  5 20:08:52 2021
+Wed May  5 20:08:59 2021
+Wed May  5 20:09:06 2021
+Wed May  5 20:09:13 2021
+Wed May  5 20:09:20 2021
+Wed May  5 20:09:27 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 20:09:34 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 20:09:41 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 20:09:48 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 20:09:55 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 20:10:02 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 20:10:09 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 20:10:16 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 20:10:23 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 20:10:30 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 20:10:37 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 20:10:44 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 20:10:51 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 20:10:58 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 20:11:05 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 20:11:12 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 20:11:19 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 20:11:26 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable

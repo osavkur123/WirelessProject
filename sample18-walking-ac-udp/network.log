@@ -1,0 +1,191 @@
+2021-05-05T22:46:54.672
+*-*
+2021-05-05T22:47:10.636
+*-*
+2021-05-05T22:47:26.631
+*-*
+2021-05-05T22:47:36.912
+*-*
+2021-05-05T22:47:50.064
+*-*
+2021-05-05T22:48:00.334
+*-*
+2021-05-05T22:48:13.505
+*-*
+2021-05-05T22:48:23.787
+*-*
+2021-05-05T22:48:39.738
+*-*
+2021-05-05T22:48:55.700
+*-*
+2021-05-05T22:49:11.682
+*-*
+2021-05-05T22:49:27.656
+*-*
+2021-05-05T22:49:43.620
+*-*
+2021-05-05T22:49:59.589
+*-*
+2021-05-05T22:50:15.555
+*-*
+2021-05-05T22:50:31.518
+*-*
+2021-05-05T22:50:44.683
+*-*
+2021-05-05T22:50:59.229
+*-*
+2021-05-05T22:51:13.729
+*-*
+2021-05-05T22:51:28.169
+*-*
+2021-05-05T22:51:38.447
+*-*
+2021-05-05T22:51:53.022
+*-*
+2021-05-05T22:52:07.572
+*-*
+2021-05-05T22:52:21.952
+*-*
+2021-05-05T22:52:36.338
+*-*
+2021-05-05T22:52:46.623
+*-*
+2021-05-05T22:52:59.775
+*-*
+2021-05-05T22:53:15.744
+*-*
+2021-05-05T22:53:26.016
+*-*
+2021-05-05T22:53:36.287
+*-*
+          Cell 90 - Address: B8:27:EB:6C:F0:84
+                    Channel:36
+                    Frequency:5.18 GHz (Channel 36)
+                    Quality=41/70  Signal level=-69 dBm  
+                    Encryption key:on
+                    ESSID:"WirelessProject"
+                    Bit Rates:6 Mb/s; 9 Mb/s; 12 Mb/s; 18 Mb/s; 24 Mb/s
+                              36 Mb/s; 48 Mb/s; 54 Mb/s
+                    Mode:Master
+                    Extra:tsf=0000000000000000
+                    Extra: Last beacon: 80ms ago
+2021-05-05T22:53:53.473
+*-*
+          Cell 48 - Address: B8:27:EB:6C:F0:84
+                    Channel:36
+                    Frequency:5.18 GHz (Channel 36)
+                    Quality=29/70  Signal level=-81 dBm  
+                    Encryption key:on
+                    ESSID:"WirelessProject"
+                    Bit Rates:6 Mb/s; 9 Mb/s; 12 Mb/s; 18 Mb/s; 24 Mb/s
+                              36 Mb/s; 48 Mb/s; 54 Mb/s
+                    Mode:Master
+                    Extra:tsf=0000000000000000
+                    Extra: Last beacon: 20ms ago
+2021-05-05T22:54:08.017
+*-*
+          Cell 30 - Address: B8:27:EB:6C:F0:84
+                    Channel:36
+                    Frequency:5.18 GHz (Channel 36)
+                    Quality=37/70  Signal level=-73 dBm  
+                    Encryption key:on
+                    ESSID:"WirelessProject"
+                    Bit Rates:6 Mb/s; 9 Mb/s; 12 Mb/s; 18 Mb/s; 24 Mb/s
+                              36 Mb/s; 48 Mb/s; 54 Mb/s
+                    Mode:Master
+                    Extra:tsf=0000000000000000
+                    Extra: Last beacon: 50ms ago
+2021-05-05T22:54:22.515
+*-*
+          Cell 13 - Address: B8:27:EB:6C:F0:84
+                    Channel:36
+                    Frequency:5.18 GHz (Channel 36)
+                    Quality=35/70  Signal level=-75 dBm  
+                    Encryption key:on
+                    ESSID:"WirelessProject"
+                    Bit Rates:6 Mb/s; 9 Mb/s; 12 Mb/s; 18 Mb/s; 24 Mb/s
+                              36 Mb/s; 48 Mb/s; 54 Mb/s
+                    Mode:Master
+                    Extra:tsf=0000000000000000
+                    Extra: Last beacon: 60ms ago
+2021-05-05T22:54:41.318
+*-*
+          Cell 13 - Address: B8:27:EB:6C:F0:84
+                    Channel:36
+                    Frequency:5.18 GHz (Channel 36)
+                    Quality=35/70  Signal level=-75 dBm  
+                    Encryption key:on
+                    ESSID:"WirelessProject"
+                    Bit Rates:6 Mb/s; 9 Mb/s; 12 Mb/s; 18 Mb/s; 24 Mb/s
+                              36 Mb/s; 48 Mb/s; 54 Mb/s
+                    Mode:Master
+                    Extra:tsf=0000000000000000
+                    Extra: Last beacon: 80ms ago
+2021-05-05T22:54:55.948
+*-*
+2021-05-05T22:55:10.512
+*-*
+2021-05-05T22:55:24.998
+*-*
+2021-05-05T22:55:35.285
+*-*
+          Cell 02 - Address: B8:27:EB:6C:F0:84
+                    Channel:36
+                    Frequency:5.18 GHz (Channel 36)
+                    Quality=38/70  Signal level=-72 dBm  
+                    Encryption key:on
+                    ESSID:"WirelessProject"
+                    Bit Rates:6 Mb/s; 9 Mb/s; 12 Mb/s; 18 Mb/s; 24 Mb/s
+                              36 Mb/s; 48 Mb/s; 54 Mb/s
+                    Mode:Master
+                    Extra:tsf=0000000000000000
+                    Extra: Last beacon: 60ms ago
+2021-05-05T22:55:49.907
+*-*
+          Cell 02 - Address: B8:27:EB:6C:F0:84
+                    Channel:36
+                    Frequency:5.18 GHz (Channel 36)
+                    Quality=52/70  Signal level=-58 dBm  
+                    Encryption key:on
+                    ESSID:"WirelessProject"
+                    Bit Rates:6 Mb/s; 9 Mb/s; 12 Mb/s; 18 Mb/s; 24 Mb/s
+                              36 Mb/s; 48 Mb/s; 54 Mb/s
+                    Mode:Master
+                    Extra:tsf=0000000000000000
+                    Extra: Last beacon: 40ms ago
+2021-05-05T22:56:04.383
+*-*
+2021-05-05T22:56:18.913
+*-*
+2021-05-05T22:56:33.454
+*-*
+2021-05-05T22:56:50.501
+*-*
+2021-05-05T22:57:00.784
+*-*
+2021-05-05T22:57:13.844
+*-*
+2021-05-05T22:57:24.116
+*-*
+2021-05-05T22:57:40.077
+*-*
+2021-05-05T22:57:53.232
+*-*
+2021-05-05T22:58:03.506
+*-*
+2021-05-05T22:58:16.663
+*-*
+2021-05-05T22:58:26.934
+*-*
+2021-05-05T22:58:37.202
+*-*
+2021-05-05T22:58:51.741
+*-*
+2021-05-05T22:59:02.052
+*-*
+2021-05-05T22:59:15.208
+*-*
+2021-05-05T22:59:28.362
+*-*
+2021-05-05T22:59:41.544
+*-*

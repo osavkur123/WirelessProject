@@ -1,0 +1,1356 @@
+Wed May  5 23:13:29 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:13:36 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:13:43 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:13:50 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:13:57 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:14:04 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:14:11 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:14:18 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:14:25 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:14:32 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:14:39 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:14:46 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:14:53 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:15:00 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:15:07 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:15:14 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:15:21 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:15:28 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:15:35 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:15:42 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:15:49 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:15:56 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:16:03 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:16:10 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:16:17 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:16:24 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:16:31 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:16:38 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:16:45 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:16:52 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:16:59 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:17:06 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:17:13 2021
+Wed May  5 23:17:20 2021
+Wed May  5 23:17:27 2021
+send_parameters:
+{
+	"tcp":	true,
+	"omit":	0,
+	"time":	5,
+	"parallel":	1,
+	"len":	131072,
+	"pacing_timer":	1000,
+	"client_version":	"3.6"
+}
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6001
+SNDBUF is 16384, expecting 0
+RCVBUF is 131072, expecting 0
+Congestion algorithm is cubic
+[  5] local 192.168.17.57 port 50042 connected to 172.26.211.223 port 6001
+sent 78318 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 103050 bytes of 131072, total 181368
+sent 0 bytes of 131072, total 181368
+sent 0 bytes of 131072, total 181368
+sent 0 bytes of 131072, total 181368
+sent 0 bytes of 131072, total 181368
+sent 0 bytes of 131072, total 181368
+sent 0 bytes of 131072, total 181368
+sent 0 bytes of 131072, total 181368
+sent 0 bytes of 131072, total 181368
+sent 0 bytes of 131072, total 181368
+sent 129156 bytes of 131072, total 310524
+sent 0 bytes of 131072, total 310524
+sent 0 bytes of 131072, total 310524
+sent 0 bytes of 131072, total 310524
+sent 0 bytes of 131072, total 310524
+sent 0 bytes of 131072, total 310524
+sent 0 bytes of 131072, total 310524
+sent 0 bytes of 131072, total 310524
+sent 0 bytes of 131072, total 310524
+sent 0 bytes of 131072, total 310524
+sent 129156 bytes of 131072, total 439680
+sent 0 bytes of 131072, total 439680
+sent 0 bytes of 131072, total 439680
+sent 0 bytes of 131072, total 439680
+sent 0 bytes of 131072, total 439680
+sent 0 bytes of 131072, total 439680
+sent 0 bytes of 131072, total 439680
+sent 0 bytes of 131072, total 439680
+sent 0 bytes of 131072, total 439680
+sent 0 bytes of 131072, total 439680
+sent 129156 bytes of 131072, total 568836
+sent 0 bytes of 131072, total 568836
+sent 0 bytes of 131072, total 568836
+sent 0 bytes of 131072, total 568836
+sent 0 bytes of 131072, total 568836
+sent 0 bytes of 131072, total 568836
+sent 0 bytes of 131072, total 568836
+sent 0 bytes of 131072, total 568836
+sent 0 bytes of 131072, total 568836
+sent 0 bytes of 131072, total 568836
+sent 129156 bytes of 131072, total 697992
+sent 0 bytes of 131072, total 697992
+sent 0 bytes of 131072, total 697992
+sent 0 bytes of 131072, total 697992
+sent 0 bytes of 131072, total 697992
+sent 0 bytes of 131072, total 697992
+sent 0 bytes of 131072, total 697992
+sent 0 bytes of 131072, total 697992
+sent 0 bytes of 131072, total 697992
+sent 0 bytes of 131072, total 697992
+sent 129156 bytes of 131072, total 827148
+sent 0 bytes of 131072, total 827148
+sent 0 bytes of 131072, total 827148
+sent 0 bytes of 131072, total 827148
+sent 0 bytes of 131072, total 827148
+sent 0 bytes of 131072, total 827148
+sent 0 bytes of 131072, total 827148
+sent 0 bytes of 131072, total 827148
+sent 0 bytes of 131072, total 827148
+sent 0 bytes of 131072, total 827148
+sent 129156 bytes of 131072, total 956304
+sent 0 bytes of 131072, total 956304
+sent 0 bytes of 131072, total 956304
+sent 0 bytes of 131072, total 956304
+sent 0 bytes of 131072, total 956304
+sent 0 bytes of 131072, total 956304
+sent 0 bytes of 131072, total 956304
+sent 0 bytes of 131072, total 956304
+sent 0 bytes of 131072, total 956304
+sent 0 bytes of 131072, total 956304
+sent 129156 bytes of 131072, total 1085460
+sent 0 bytes of 131072, total 1085460
+sent 0 bytes of 131072, total 1085460
+sent 0 bytes of 131072, total 1085460
+sent 0 bytes of 131072, total 1085460
+sent 0 bytes of 131072, total 1085460
+sent 0 bytes of 131072, total 1085460
+sent 0 bytes of 131072, total 1085460
+sent 0 bytes of 131072, total 1085460
+sent 0 bytes of 131072, total 1085460
+sent 129156 bytes of 131072, total 1214616
+sent 0 bytes of 131072, total 1214616
+sent 0 bytes of 131072, total 1214616
+sent 0 bytes of 131072, total 1214616
+sent 0 bytes of 131072, total 1214616
+sent 0 bytes of 131072, total 1214616
+sent 0 bytes of 131072, total 1214616
+sent 0 bytes of 131072, total 1214616
+sent 0 bytes of 131072, total 1214616
+sent 0 bytes of 131072, total 1214616
+sent 129156 bytes of 131072, total 1343772
+sent 0 bytes of 131072, total 1343772
+sent 0 bytes of 131072, total 1343772
+sent 0 bytes of 131072, total 1343772
+sent 0 bytes of 131072, total 1343772
+sent 0 bytes of 131072, total 1343772
+sent 0 bytes of 131072, total 1343772
+sent 0 bytes of 131072, total 1343772
+sent 0 bytes of 131072, total 1343772
+sent 0 bytes of 131072, total 1343772
+sent 129156 bytes of 131072, total 1472928
+sent 0 bytes of 131072, total 1472928
+sent 0 bytes of 131072, total 1472928
+sent 0 bytes of 131072, total 1472928
+sent 0 bytes of 131072, total 1472928
+sent 0 bytes of 131072, total 1472928
+sent 0 bytes of 131072, total 1472928
+sent 0 bytes of 131072, total 1472928
+sent 0 bytes of 131072, total 1472928
+sent 0 bytes of 131072, total 1472928
+sent 129156 bytes of 131072, total 1602084
+sent 0 bytes of 131072, total 1602084
+sent 0 bytes of 131072, total 1602084
+sent 0 bytes of 131072, total 1602084
+sent 0 bytes of 131072, total 1602084
+sent 0 bytes of 131072, total 1602084
+sent 0 bytes of 131072, total 1602084
+sent 0 bytes of 131072, total 1602084
+sent 0 bytes of 131072, total 1602084
+sent 0 bytes of 131072, total 1602084
+sent 129156 bytes of 131072, total 1731240
+sent 0 bytes of 131072, total 1731240
+sent 0 bytes of 131072, total 1731240
+sent 0 bytes of 131072, total 1731240
+sent 0 bytes of 131072, total 1731240
+sent 0 bytes of 131072, total 1731240
+sent 0 bytes of 131072, total 1731240
+sent 0 bytes of 131072, total 1731240
+sent 0 bytes of 131072, total 1731240
+sent 0 bytes of 131072, total 1731240
+sent 129156 bytes of 131072, total 1860396
+sent 0 bytes of 131072, total 1860396
+sent 0 bytes of 131072, total 1860396
+sent 0 bytes of 131072, total 1860396
+sent 0 bytes of 131072, total 1860396
+sent 0 bytes of 131072, total 1860396
+sent 0 bytes of 131072, total 1860396
+sent 0 bytes of 131072, total 1860396
+sent 0 bytes of 131072, total 1860396
+sent 0 bytes of 131072, total 1860396
+sent 129156 bytes of 131072, total 1989552
+sent 0 bytes of 131072, total 1989552
+sent 0 bytes of 131072, total 1989552
+sent 0 bytes of 131072, total 1989552
+sent 0 bytes of 131072, total 1989552
+sent 0 bytes of 131072, total 1989552
+sent 0 bytes of 131072, total 1989552
+sent 0 bytes of 131072, total 1989552
+sent 0 bytes of 131072, total 1989552
+sent 0 bytes of 131072, total 1989552
+sent 129156 bytes of 131072, total 2118708
+sent 0 bytes of 131072, total 2118708
+sent 0 bytes of 131072, total 2118708
+sent 0 bytes of 131072, total 2118708
+sent 0 bytes of 131072, total 2118708
+sent 0 bytes of 131072, total 2118708
+sent 0 bytes of 131072, total 2118708
+sent 0 bytes of 131072, total 2118708
+sent 0 bytes of 131072, total 2118708
+sent 0 bytes of 131072, total 2118708
+sent 129156 bytes of 131072, total 2247864
+sent 0 bytes of 131072, total 2247864
+sent 0 bytes of 131072, total 2247864
+sent 0 bytes of 131072, total 2247864
+sent 0 bytes of 131072, total 2247864
+sent 0 bytes of 131072, total 2247864
+sent 0 bytes of 131072, total 2247864
+sent 0 bytes of 131072, total 2247864
+sent 0 bytes of 131072, total 2247864
+sent 0 bytes of 131072, total 2247864
+sent 129156 bytes of 131072, total 2377020
+sent 0 bytes of 131072, total 2377020
+sent 0 bytes of 131072, total 2377020
+sent 0 bytes of 131072, total 2377020
+sent 0 bytes of 131072, total 2377020
+sent 0 bytes of 131072, total 2377020
+sent 0 bytes of 131072, total 2377020
+sent 0 bytes of 131072, total 2377020
+sent 0 bytes of 131072, total 2377020
+sent 0 bytes of 131072, total 2377020
+tcpi_snd_cwnd 53 tcpi_snd_mss 1374 tcpi_rtt 20371
+interval_len 1.000108 bytes_transferred 2377020
+interval forces keep
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  2.27 MBytes  19.0 Mbits/sec   34   71.1 KBytes       
+sent 129156 bytes of 131072, total 2506176
+sent 0 bytes of 131072, total 2506176
+sent 0 bytes of 131072, total 2506176
+sent 0 bytes of 131072, total 2506176
+sent 0 bytes of 131072, total 2506176
+sent 0 bytes of 131072, total 2506176
+sent 0 bytes of 131072, total 2506176
+sent 0 bytes of 131072, total 2506176
+sent 0 bytes of 131072, total 2506176
+sent 0 bytes of 131072, total 2506176
+sent 129156 bytes of 131072, total 2635332
+sent 0 bytes of 131072, total 2635332
+sent 0 bytes of 131072, total 2635332
+sent 0 bytes of 131072, total 2635332
+sent 0 bytes of 131072, total 2635332
+sent 0 bytes of 131072, total 2635332
+sent 0 bytes of 131072, total 2635332
+sent 0 bytes of 131072, total 2635332
+sent 0 bytes of 131072, total 2635332
+sent 0 bytes of 131072, total 2635332
+sent 129156 bytes of 131072, total 2764488
+sent 0 bytes of 131072, total 2764488
+sent 0 bytes of 131072, total 2764488
+sent 0 bytes of 131072, total 2764488
+sent 0 bytes of 131072, total 2764488
+sent 0 bytes of 131072, total 2764488
+sent 0 bytes of 131072, total 2764488
+sent 0 bytes of 131072, total 2764488
+sent 0 bytes of 131072, total 2764488
+sent 0 bytes of 131072, total 2764488
+sent 129156 bytes of 131072, total 2893644
+sent 0 bytes of 131072, total 2893644
+sent 0 bytes of 131072, total 2893644
+sent 0 bytes of 131072, total 2893644
+sent 0 bytes of 131072, total 2893644
+sent 0 bytes of 131072, total 2893644
+sent 0 bytes of 131072, total 2893644
+sent 0 bytes of 131072, total 2893644
+sent 0 bytes of 131072, total 2893644
+sent 0 bytes of 131072, total 2893644
+sent 129156 bytes of 131072, total 3022800
+sent 0 bytes of 131072, total 3022800
+sent 0 bytes of 131072, total 3022800
+sent 0 bytes of 131072, total 3022800
+sent 0 bytes of 131072, total 3022800
+sent 0 bytes of 131072, total 3022800
+sent 0 bytes of 131072, total 3022800
+sent 0 bytes of 131072, total 3022800
+sent 0 bytes of 131072, total 3022800
+sent 0 bytes of 131072, total 3022800
+sent 129156 bytes of 131072, total 3151956
+sent 0 bytes of 131072, total 3151956
+sent 0 bytes of 131072, total 3151956
+sent 0 bytes of 131072, total 3151956
+sent 0 bytes of 131072, total 3151956
+sent 0 bytes of 131072, total 3151956
+sent 0 bytes of 131072, total 3151956
+sent 0 bytes of 131072, total 3151956
+sent 0 bytes of 131072, total 3151956
+sent 0 bytes of 131072, total 3151956
+sent 129156 bytes of 131072, total 3281112
+sent 0 bytes of 131072, total 3281112
+sent 0 bytes of 131072, total 3281112
+sent 0 bytes of 131072, total 3281112
+sent 0 bytes of 131072, total 3281112
+sent 0 bytes of 131072, total 3281112
+sent 0 bytes of 131072, total 3281112
+sent 0 bytes of 131072, total 3281112
+sent 0 bytes of 131072, total 3281112
+sent 0 bytes of 131072, total 3281112
+sent 129156 bytes of 131072, total 3410268
+sent 0 bytes of 131072, total 3410268
+sent 0 bytes of 131072, total 3410268
+sent 0 bytes of 131072, total 3410268
+sent 0 bytes of 131072, total 3410268
+sent 0 bytes of 131072, total 3410268
+sent 0 bytes of 131072, total 3410268
+sent 0 bytes of 131072, total 3410268
+sent 0 bytes of 131072, total 3410268
+sent 0 bytes of 131072, total 3410268
+sent 129156 bytes of 131072, total 3539424
+sent 0 bytes of 131072, total 3539424
+sent 0 bytes of 131072, total 3539424
+sent 0 bytes of 131072, total 3539424
+sent 0 bytes of 131072, total 3539424
+sent 0 bytes of 131072, total 3539424
+sent 0 bytes of 131072, total 3539424
+sent 0 bytes of 131072, total 3539424
+sent 0 bytes of 131072, total 3539424
+sent 0 bytes of 131072, total 3539424
+sent 129156 bytes of 131072, total 3668580
+sent 0 bytes of 131072, total 3668580
+sent 0 bytes of 131072, total 3668580
+sent 0 bytes of 131072, total 3668580
+sent 0 bytes of 131072, total 3668580
+sent 0 bytes of 131072, total 3668580
+sent 0 bytes of 131072, total 3668580
+sent 0 bytes of 131072, total 3668580
+sent 0 bytes of 131072, total 3668580
+sent 0 bytes of 131072, total 3668580
+sent 129156 bytes of 131072, total 3797736
+sent 0 bytes of 131072, total 3797736
+sent 0 bytes of 131072, total 3797736
+sent 0 bytes of 131072, total 3797736
+sent 0 bytes of 131072, total 3797736
+sent 0 bytes of 131072, total 3797736
+sent 0 bytes of 131072, total 3797736
+sent 0 bytes of 131072, total 3797736
+sent 0 bytes of 131072, total 3797736
+sent 0 bytes of 131072, total 3797736
+sent 129156 bytes of 131072, total 3926892
+sent 0 bytes of 131072, total 3926892
+sent 0 bytes of 131072, total 3926892
+sent 0 bytes of 131072, total 3926892
+sent 0 bytes of 131072, total 3926892
+sent 0 bytes of 131072, total 3926892
+sent 0 bytes of 131072, total 3926892
+sent 0 bytes of 131072, total 3926892
+sent 0 bytes of 131072, total 3926892
+sent 0 bytes of 131072, total 3926892
+sent 129156 bytes of 131072, total 4056048
+sent 0 bytes of 131072, total 4056048
+sent 0 bytes of 131072, total 4056048
+sent 0 bytes of 131072, total 4056048
+sent 0 bytes of 131072, total 4056048
+sent 0 bytes of 131072, total 4056048
+sent 0 bytes of 131072, total 4056048
+sent 0 bytes of 131072, total 4056048
+sent 0 bytes of 131072, total 4056048
+sent 0 bytes of 131072, total 4056048
+sent 129156 bytes of 131072, total 4185204
+sent 0 bytes of 131072, total 4185204
+sent 0 bytes of 131072, total 4185204
+sent 0 bytes of 131072, total 4185204
+sent 0 bytes of 131072, total 4185204
+sent 0 bytes of 131072, total 4185204
+sent 0 bytes of 131072, total 4185204
+sent 0 bytes of 131072, total 4185204
+sent 0 bytes of 131072, total 4185204
+sent 0 bytes of 131072, total 4185204
+sent 129156 bytes of 131072, total 4314360
+sent 0 bytes of 131072, total 4314360
+sent 0 bytes of 131072, total 4314360
+sent 0 bytes of 131072, total 4314360
+sent 0 bytes of 131072, total 4314360
+sent 0 bytes of 131072, total 4314360
+sent 0 bytes of 131072, total 4314360
+sent 0 bytes of 131072, total 4314360
+sent 0 bytes of 131072, total 4314360
+sent 0 bytes of 131072, total 4314360
+sent 129156 bytes of 131072, total 4443516
+sent 0 bytes of 131072, total 4443516
+sent 0 bytes of 131072, total 4443516
+sent 0 bytes of 131072, total 4443516
+sent 0 bytes of 131072, total 4443516
+sent 0 bytes of 131072, total 4443516
+sent 0 bytes of 131072, total 4443516
+sent 0 bytes of 131072, total 4443516
+sent 0 bytes of 131072, total 4443516
+sent 0 bytes of 131072, total 4443516
+sent 129156 bytes of 131072, total 4572672
+sent 0 bytes of 131072, total 4572672
+sent 0 bytes of 131072, total 4572672
+sent 0 bytes of 131072, total 4572672
+sent 0 bytes of 131072, total 4572672
+sent 0 bytes of 131072, total 4572672
+sent 0 bytes of 131072, total 4572672
+sent 0 bytes of 131072, total 4572672
+sent 0 bytes of 131072, total 4572672
+sent 0 bytes of 131072, total 4572672
+sent 129156 bytes of 131072, total 4701828
+sent 0 bytes of 131072, total 4701828
+sent 0 bytes of 131072, total 4701828
+sent 0 bytes of 131072, total 4701828
+sent 0 bytes of 131072, total 4701828
+sent 0 bytes of 131072, total 4701828
+sent 0 bytes of 131072, total 4701828
+sent 0 bytes of 131072, total 4701828
+sent 0 bytes of 131072, total 4701828
+sent 0 bytes of 131072, total 4701828
+sent 129156 bytes of 131072, total 4830984
+sent 0 bytes of 131072, total 4830984
+sent 64578 bytes of 131072, total 4895562
+sent 0 bytes of 131072, total 4895562
+sent 0 bytes of 131072, total 4895562
+sent 0 bytes of 131072, total 4895562
+sent 0 bytes of 131072, total 4895562
+sent 0 bytes of 131072, total 4895562
+sent 0 bytes of 131072, total 4895562
+sent 0 bytes of 131072, total 4895562
+sent 129156 bytes of 131072, total 5024718
+sent 0 bytes of 131072, total 5024718
+sent 0 bytes of 131072, total 5024718
+sent 0 bytes of 131072, total 5024718
+sent 0 bytes of 131072, total 5024718
+sent 0 bytes of 131072, total 5024718
+sent 0 bytes of 131072, total 5024718
+sent 0 bytes of 131072, total 5024718
+sent 0 bytes of 131072, total 5024718
+sent 0 bytes of 131072, total 5024718
+sent 129156 bytes of 131072, total 5153874
+sent 0 bytes of 131072, total 5153874
+sent 0 bytes of 131072, total 5153874
+sent 0 bytes of 131072, total 5153874
+sent 0 bytes of 131072, total 5153874
+sent 0 bytes of 131072, total 5153874
+sent 0 bytes of 131072, total 5153874
+sent 0 bytes of 131072, total 5153874
+sent 0 bytes of 131072, total 5153874
+sent 0 bytes of 131072, total 5153874
+sent 129156 bytes of 131072, total 5283030
+sent 0 bytes of 131072, total 5283030
+sent 0 bytes of 131072, total 5283030
+sent 0 bytes of 131072, total 5283030
+sent 0 bytes of 131072, total 5283030
+sent 0 bytes of 131072, total 5283030
+sent 0 bytes of 131072, total 5283030
+sent 0 bytes of 131072, total 5283030
+sent 0 bytes of 131072, total 5283030
+sent 0 bytes of 131072, total 5283030
+sent 129156 bytes of 131072, total 5412186
+sent 0 bytes of 131072, total 5412186
+sent 0 bytes of 131072, total 5412186
+sent 0 bytes of 131072, total 5412186
+sent 0 bytes of 131072, total 5412186
+sent 0 bytes of 131072, total 5412186
+sent 0 bytes of 131072, total 5412186
+sent 0 bytes of 131072, total 5412186
+sent 0 bytes of 131072, total 5412186
+sent 0 bytes of 131072, total 5412186
+sent 129156 bytes of 131072, total 5541342
+sent 64578 bytes of 131072, total 5605920
+sent 0 bytes of 131072, total 5605920
+sent 0 bytes of 131072, total 5605920
+sent 0 bytes of 131072, total 5605920
+sent 0 bytes of 131072, total 5605920
+sent 0 bytes of 131072, total 5605920
+sent 0 bytes of 131072, total 5605920
+sent 0 bytes of 131072, total 5605920
+sent 0 bytes of 131072, total 5605920
+sent 129156 bytes of 131072, total 5735076
+sent 0 bytes of 131072, total 5735076
+sent 0 bytes of 131072, total 5735076
+sent 0 bytes of 131072, total 5735076
+sent 0 bytes of 131072, total 5735076
+sent 0 bytes of 131072, total 5735076
+sent 0 bytes of 131072, total 5735076
+sent 0 bytes of 131072, total 5735076
+sent 0 bytes of 131072, total 5735076
+sent 0 bytes of 131072, total 5735076
+tcpi_snd_cwnd 73 tcpi_snd_mss 1374 tcpi_rtt 25287
+interval_len 1.000042 bytes_transferred 3358056
+interval forces keep
+[  5]   1.00-2.00   sec  3.20 MBytes  26.9 Mbits/sec    0   98.0 KBytes       
+sent 129156 bytes of 131072, total 5864232
+sent 0 bytes of 131072, total 5864232
+sent 0 bytes of 131072, total 5864232
+sent 0 bytes of 131072, total 5864232
+sent 0 bytes of 131072, total 5864232
+sent 0 bytes of 131072, total 5864232
+sent 0 bytes of 131072, total 5864232
+sent 0 bytes of 131072, total 5864232
+sent 0 bytes of 131072, total 5864232
+sent 0 bytes of 131072, total 5864232
+sent 129156 bytes of 131072, total 5993388
+sent 0 bytes of 131072, total 5993388
+sent 0 bytes of 131072, total 5993388
+sent 0 bytes of 131072, total 5993388
+sent 0 bytes of 131072, total 5993388
+sent 0 bytes of 131072, total 5993388
+sent 0 bytes of 131072, total 5993388
+sent 0 bytes of 131072, total 5993388
+sent 0 bytes of 131072, total 5993388
+sent 0 bytes of 131072, total 5993388
+sent 131072 bytes of 131072, total 6124460
+sent 62662 bytes of 131072, total 6187122
+sent 0 bytes of 131072, total 6187122
+sent 0 bytes of 131072, total 6187122
+sent 0 bytes of 131072, total 6187122
+sent 0 bytes of 131072, total 6187122
+sent 0 bytes of 131072, total 6187122
+sent 0 bytes of 131072, total 6187122
+sent 0 bytes of 131072, total 6187122
+sent 0 bytes of 131072, total 6187122
+sent 131072 bytes of 131072, total 6318194
+sent 62662 bytes of 131072, total 6380856
+sent 0 bytes of 131072, total 6380856
+sent 0 bytes of 131072, total 6380856
+sent 0 bytes of 131072, total 6380856
+sent 0 bytes of 131072, total 6380856
+sent 0 bytes of 131072, total 6380856
+sent 0 bytes of 131072, total 6380856
+sent 0 bytes of 131072, total 6380856
+sent 0 bytes of 131072, total 6380856
+sent 129156 bytes of 131072, total 6510012
+sent 0 bytes of 131072, total 6510012
+sent 0 bytes of 131072, total 6510012
+sent 0 bytes of 131072, total 6510012
+sent 0 bytes of 131072, total 6510012
+sent 0 bytes of 131072, total 6510012
+sent 0 bytes of 131072, total 6510012
+sent 0 bytes of 131072, total 6510012
+sent 0 bytes of 131072, total 6510012
+sent 0 bytes of 131072, total 6510012
+sent 129156 bytes of 131072, total 6639168
+sent 0 bytes of 131072, total 6639168
+sent 0 bytes of 131072, total 6639168
+sent 0 bytes of 131072, total 6639168
+sent 0 bytes of 131072, total 6639168
+sent 0 bytes of 131072, total 6639168
+sent 0 bytes of 131072, total 6639168
+sent 0 bytes of 131072, total 6639168
+sent 0 bytes of 131072, total 6639168
+sent 0 bytes of 131072, total 6639168
+sent 131072 bytes of 131072, total 6770240
+sent 62662 bytes of 131072, total 6832902
+sent 0 bytes of 131072, total 6832902
+sent 0 bytes of 131072, total 6832902
+sent 0 bytes of 131072, total 6832902
+sent 0 bytes of 131072, total 6832902
+sent 0 bytes of 131072, total 6832902
+sent 0 bytes of 131072, total 6832902
+sent 0 bytes of 131072, total 6832902
+sent 0 bytes of 131072, total 6832902
+sent 129156 bytes of 131072, total 6962058
+sent 0 bytes of 131072, total 6962058
+sent 0 bytes of 131072, total 6962058
+sent 0 bytes of 131072, total 6962058
+sent 0 bytes of 131072, total 6962058
+sent 0 bytes of 131072, total 6962058
+sent 0 bytes of 131072, total 6962058
+sent 0 bytes of 131072, total 6962058
+sent 0 bytes of 131072, total 6962058
+sent 0 bytes of 131072, total 6962058
+sent 131072 bytes of 131072, total 7093130
+sent 62662 bytes of 131072, total 7155792
+sent 0 bytes of 131072, total 7155792
+sent 0 bytes of 131072, total 7155792
+sent 0 bytes of 131072, total 7155792
+sent 0 bytes of 131072, total 7155792
+sent 0 bytes of 131072, total 7155792
+sent 0 bytes of 131072, total 7155792
+sent 0 bytes of 131072, total 7155792
+sent 0 bytes of 131072, total 7155792
+sent 129156 bytes of 131072, total 7284948
+sent 0 bytes of 131072, total 7284948
+sent 0 bytes of 131072, total 7284948
+sent 0 bytes of 131072, total 7284948
+sent 0 bytes of 131072, total 7284948
+sent 0 bytes of 131072, total 7284948
+sent 0 bytes of 131072, total 7284948
+sent 0 bytes of 131072, total 7284948
+sent 0 bytes of 131072, total 7284948
+sent 0 bytes of 131072, total 7284948
+sent 129156 bytes of 131072, total 7414104
+sent 0 bytes of 131072, total 7414104
+sent 0 bytes of 131072, total 7414104
+sent 0 bytes of 131072, total 7414104
+sent 0 bytes of 131072, total 7414104
+sent 0 bytes of 131072, total 7414104
+sent 0 bytes of 131072, total 7414104
+sent 0 bytes of 131072, total 7414104
+sent 0 bytes of 131072, total 7414104
+sent 0 bytes of 131072, total 7414104
+sent 129156 bytes of 131072, total 7543260
+sent 0 bytes of 131072, total 7543260
+sent 0 bytes of 131072, total 7543260
+sent 0 bytes of 131072, total 7543260
+sent 0 bytes of 131072, total 7543260
+sent 0 bytes of 131072, total 7543260
+sent 0 bytes of 131072, total 7543260
+sent 0 bytes of 131072, total 7543260
+sent 0 bytes of 131072, total 7543260
+sent 0 bytes of 131072, total 7543260
+sent 129156 bytes of 131072, total 7672416
+sent 0 bytes of 131072, total 7672416
+sent 0 bytes of 131072, total 7672416
+sent 0 bytes of 131072, total 7672416
+sent 0 bytes of 131072, total 7672416
+sent 0 bytes of 131072, total 7672416
+sent 0 bytes of 131072, total 7672416
+sent 0 bytes of 131072, total 7672416
+sent 0 bytes of 131072, total 7672416
+sent 0 bytes of 131072, total 7672416
+sent 129156 bytes of 131072, total 7801572
+sent 0 bytes of 131072, total 7801572
+sent 0 bytes of 131072, total 7801572
+sent 0 bytes of 131072, total 7801572
+sent 0 bytes of 131072, total 7801572
+sent 0 bytes of 131072, total 7801572
+sent 0 bytes of 131072, total 7801572
+sent 0 bytes of 131072, total 7801572
+sent 0 bytes of 131072, total 7801572
+sent 0 bytes of 131072, total 7801572
+sent 129156 bytes of 131072, total 7930728
+sent 0 bytes of 131072, total 7930728
+sent 0 bytes of 131072, total 7930728
+sent 0 bytes of 131072, total 7930728
+sent 0 bytes of 131072, total 7930728
+sent 0 bytes of 131072, total 7930728
+sent 0 bytes of 131072, total 7930728
+sent 0 bytes of 131072, total 7930728
+sent 0 bytes of 131072, total 7930728
+sent 0 bytes of 131072, total 7930728
+sent 129156 bytes of 131072, total 8059884
+sent 0 bytes of 131072, total 8059884
+sent 0 bytes of 131072, total 8059884
+sent 0 bytes of 131072, total 8059884
+sent 0 bytes of 131072, total 8059884
+sent 0 bytes of 131072, total 8059884
+sent 0 bytes of 131072, total 8059884
+sent 0 bytes of 131072, total 8059884
+sent 0 bytes of 131072, total 8059884
+sent 0 bytes of 131072, total 8059884
+sent 131072 bytes of 131072, total 8190956
+sent 62662 bytes of 131072, total 8253618
+sent 0 bytes of 131072, total 8253618
+sent 0 bytes of 131072, total 8253618
+sent 0 bytes of 131072, total 8253618
+sent 0 bytes of 131072, total 8253618
+sent 0 bytes of 131072, total 8253618
+sent 0 bytes of 131072, total 8253618
+sent 0 bytes of 131072, total 8253618
+sent 0 bytes of 131072, total 8253618
+sent 131072 bytes of 131072, total 8384690
+sent 62662 bytes of 131072, total 8447352
+sent 0 bytes of 131072, total 8447352
+sent 0 bytes of 131072, total 8447352
+sent 0 bytes of 131072, total 8447352
+sent 0 bytes of 131072, total 8447352
+sent 0 bytes of 131072, total 8447352
+sent 0 bytes of 131072, total 8447352
+sent 0 bytes of 131072, total 8447352
+sent 0 bytes of 131072, total 8447352
+sent 131072 bytes of 131072, total 8578424
+sent 62662 bytes of 131072, total 8641086
+sent 0 bytes of 131072, total 8641086
+sent 0 bytes of 131072, total 8641086
+sent 0 bytes of 131072, total 8641086
+sent 0 bytes of 131072, total 8641086
+sent 0 bytes of 131072, total 8641086
+sent 0 bytes of 131072, total 8641086
+sent 0 bytes of 131072, total 8641086
+sent 0 bytes of 131072, total 8641086
+sent 131072 bytes of 131072, total 8772158
+sent 62662 bytes of 131072, total 8834820
+sent 0 bytes of 131072, total 8834820
+sent 0 bytes of 131072, total 8834820
+sent 0 bytes of 131072, total 8834820
+sent 0 bytes of 131072, total 8834820
+sent 0 bytes of 131072, total 8834820
+sent 0 bytes of 131072, total 8834820
+sent 0 bytes of 131072, total 8834820
+sent 0 bytes of 131072, total 8834820
+sent 131072 bytes of 131072, total 8965892
+sent 62662 bytes of 131072, total 9028554
+sent 0 bytes of 131072, total 9028554
+sent 0 bytes of 131072, total 9028554
+sent 0 bytes of 131072, total 9028554
+sent 0 bytes of 131072, total 9028554
+sent 0 bytes of 131072, total 9028554
+sent 0 bytes of 131072, total 9028554
+sent 0 bytes of 131072, total 9028554
+sent 0 bytes of 131072, total 9028554
+sent 131072 bytes of 131072, total 9159626
+sent 62662 bytes of 131072, total 9222288
+sent 0 bytes of 131072, total 9222288
+sent 0 bytes of 131072, total 9222288
+sent 0 bytes of 131072, total 9222288
+sent 0 bytes of 131072, total 9222288
+sent 0 bytes of 131072, total 9222288
+sent 0 bytes of 131072, total 9222288
+sent 0 bytes of 131072, total 9222288
+sent 0 bytes of 131072, total 9222288
+sent 131072 bytes of 131072, total 9353360
+sent 62662 bytes of 131072, total 9416022
+sent 0 bytes of 131072, total 9416022
+sent 0 bytes of 131072, total 9416022
+sent 0 bytes of 131072, total 9416022
+sent 0 bytes of 131072, total 9416022
+sent 0 bytes of 131072, total 9416022
+sent 0 bytes of 131072, total 9416022
+sent 0 bytes of 131072, total 9416022
+sent 0 bytes of 131072, total 9416022
+sent 131072 bytes of 131072, total 9547094
+sent 62662 bytes of 131072, total 9609756
+sent 0 bytes of 131072, total 9609756
+sent 0 bytes of 131072, total 9609756
+sent 0 bytes of 131072, total 9609756
+sent 0 bytes of 131072, total 9609756
+sent 0 bytes of 131072, total 9609756
+sent 0 bytes of 131072, total 9609756
+sent 0 bytes of 131072, total 9609756
+sent 0 bytes of 131072, total 9609756
+tcpi_snd_cwnd 91 tcpi_snd_mss 1374 tcpi_rtt 27542
+interval_len 0.999973 bytes_transferred 3874680
+interval forces keep
+[  5]   2.00-3.00   sec  3.70 MBytes  31.0 Mbits/sec    0    122 KBytes       
+sent 131072 bytes of 131072, total 9740828
+sent 62662 bytes of 131072, total 9803490
+sent 0 bytes of 131072, total 9803490
+sent 0 bytes of 131072, total 9803490
+sent 0 bytes of 131072, total 9803490
+sent 0 bytes of 131072, total 9803490
+sent 0 bytes of 131072, total 9803490
+sent 0 bytes of 131072, total 9803490
+sent 0 bytes of 131072, total 9803490
+sent 0 bytes of 131072, total 9803490
+sent 131072 bytes of 131072, total 9934562
+sent 62662 bytes of 131072, total 9997224
+sent 0 bytes of 131072, total 9997224
+sent 0 bytes of 131072, total 9997224
+sent 0 bytes of 131072, total 9997224
+sent 0 bytes of 131072, total 9997224
+sent 0 bytes of 131072, total 9997224
+sent 0 bytes of 131072, total 9997224
+sent 0 bytes of 131072, total 9997224
+sent 0 bytes of 131072, total 9997224
+sent 131072 bytes of 131072, total 10128296
+sent 62662 bytes of 131072, total 10190958
+sent 0 bytes of 131072, total 10190958
+sent 0 bytes of 131072, total 10190958
+sent 0 bytes of 131072, total 10190958
+sent 0 bytes of 131072, total 10190958
+sent 0 bytes of 131072, total 10190958
+sent 0 bytes of 131072, total 10190958
+sent 0 bytes of 131072, total 10190958
+sent 0 bytes of 131072, total 10190958
+sent 131072 bytes of 131072, total 10322030
+sent 62662 bytes of 131072, total 10384692
+sent 0 bytes of 131072, total 10384692
+sent 0 bytes of 131072, total 10384692
+sent 0 bytes of 131072, total 10384692
+sent 0 bytes of 131072, total 10384692
+sent 0 bytes of 131072, total 10384692
+sent 0 bytes of 131072, total 10384692
+sent 0 bytes of 131072, total 10384692
+sent 0 bytes of 131072, total 10384692
+sent 131072 bytes of 131072, total 10515764
+sent 62662 bytes of 131072, total 10578426
+sent 0 bytes of 131072, total 10578426
+sent 0 bytes of 131072, total 10578426
+sent 0 bytes of 131072, total 10578426
+sent 0 bytes of 131072, total 10578426
+sent 0 bytes of 131072, total 10578426
+sent 0 bytes of 131072, total 10578426
+sent 0 bytes of 131072, total 10578426
+sent 0 bytes of 131072, total 10578426
+sent 131072 bytes of 131072, total 10709498
+sent 62662 bytes of 131072, total 10772160
+sent 0 bytes of 131072, total 10772160
+sent 0 bytes of 131072, total 10772160
+sent 0 bytes of 131072, total 10772160
+sent 0 bytes of 131072, total 10772160
+sent 0 bytes of 131072, total 10772160
+sent 0 bytes of 131072, total 10772160
+sent 0 bytes of 131072, total 10772160
+sent 0 bytes of 131072, total 10772160
+sent 131072 bytes of 131072, total 10903232
+sent 127240 bytes of 131072, total 11030472
+sent 0 bytes of 131072, total 11030472
+sent 0 bytes of 131072, total 11030472
+sent 0 bytes of 131072, total 11030472
+sent 0 bytes of 131072, total 11030472
+sent 0 bytes of 131072, total 11030472
+sent 0 bytes of 131072, total 11030472
+sent 0 bytes of 131072, total 11030472
+sent 0 bytes of 131072, total 11030472
+sent 131072 bytes of 131072, total 11161544
+sent 62662 bytes of 131072, total 11224206
+sent 0 bytes of 131072, total 11224206
+sent 0 bytes of 131072, total 11224206
+sent 0 bytes of 131072, total 11224206
+sent 0 bytes of 131072, total 11224206
+sent 0 bytes of 131072, total 11224206
+sent 0 bytes of 131072, total 11224206
+sent 0 bytes of 131072, total 11224206
+sent 0 bytes of 131072, total 11224206
+sent 131072 bytes of 131072, total 11355278
+sent 62662 bytes of 131072, total 11417940
+sent 0 bytes of 131072, total 11417940
+sent 0 bytes of 131072, total 11417940
+sent 0 bytes of 131072, total 11417940
+sent 0 bytes of 131072, total 11417940
+sent 0 bytes of 131072, total 11417940
+sent 0 bytes of 131072, total 11417940
+sent 0 bytes of 131072, total 11417940
+sent 0 bytes of 131072, total 11417940
+sent 131072 bytes of 131072, total 11549012
+sent 127240 bytes of 131072, total 11676252
+sent 0 bytes of 131072, total 11676252
+sent 0 bytes of 131072, total 11676252
+sent 0 bytes of 131072, total 11676252
+sent 0 bytes of 131072, total 11676252
+sent 0 bytes of 131072, total 11676252
+sent 0 bytes of 131072, total 11676252
+sent 0 bytes of 131072, total 11676252
+sent 0 bytes of 131072, total 11676252
+sent 131072 bytes of 131072, total 11807324
+sent 62662 bytes of 131072, total 11869986
+sent 0 bytes of 131072, total 11869986
+sent 0 bytes of 131072, total 11869986
+sent 0 bytes of 131072, total 11869986
+sent 0 bytes of 131072, total 11869986
+sent 0 bytes of 131072, total 11869986
+sent 0 bytes of 131072, total 11869986
+sent 0 bytes of 131072, total 11869986
+sent 0 bytes of 131072, total 11869986
+sent 131072 bytes of 131072, total 12001058
+sent 62662 bytes of 131072, total 12063720
+sent 0 bytes of 131072, total 12063720
+sent 0 bytes of 131072, total 12063720
+sent 0 bytes of 131072, total 12063720
+sent 0 bytes of 131072, total 12063720
+sent 0 bytes of 131072, total 12063720
+sent 0 bytes of 131072, total 12063720
+sent 0 bytes of 131072, total 12063720
+sent 0 bytes of 131072, total 12063720
+sent 131072 bytes of 131072, total 12194792
+sent 62662 bytes of 131072, total 12257454
+sent 0 bytes of 131072, total 12257454
+sent 0 bytes of 131072, total 12257454
+sent 0 bytes of 131072, total 12257454
+sent 0 bytes of 131072, total 12257454
+sent 0 bytes of 131072, total 12257454
+sent 0 bytes of 131072, total 12257454
+sent 0 bytes of 131072, total 12257454
+sent 0 bytes of 131072, total 12257454
+sent 131072 bytes of 131072, total 12388526
+sent 127240 bytes of 131072, total 12515766
+sent 0 bytes of 131072, total 12515766
+sent 0 bytes of 131072, total 12515766
+sent 0 bytes of 131072, total 12515766
+sent 0 bytes of 131072, total 12515766
+sent 0 bytes of 131072, total 12515766
+sent 0 bytes of 131072, total 12515766
+sent 0 bytes of 131072, total 12515766
+sent 0 bytes of 131072, total 12515766
+sent 131072 bytes of 131072, total 12646838
+sent 62662 bytes of 131072, total 12709500
+sent 0 bytes of 131072, total 12709500
+sent 0 bytes of 131072, total 12709500
+sent 0 bytes of 131072, total 12709500
+sent 0 bytes of 131072, total 12709500
+sent 0 bytes of 131072, total 12709500
+sent 0 bytes of 131072, total 12709500
+sent 0 bytes of 131072, total 12709500
+sent 0 bytes of 131072, total 12709500
+sent 131072 bytes of 131072, total 12840572
+sent 62662 bytes of 131072, total 12903234
+sent 0 bytes of 131072, total 12903234
+sent 0 bytes of 131072, total 12903234
+sent 0 bytes of 131072, total 12903234
+sent 0 bytes of 131072, total 12903234
+sent 0 bytes of 131072, total 12903234
+sent 0 bytes of 131072, total 12903234
+sent 0 bytes of 131072, total 12903234
+sent 0 bytes of 131072, total 12903234
+sent 131072 bytes of 131072, total 13034306
+sent 62662 bytes of 131072, total 13096968
+sent 0 bytes of 131072, total 13096968
+sent 0 bytes of 131072, total 13096968
+sent 0 bytes of 131072, total 13096968
+sent 0 bytes of 131072, total 13096968
+sent 0 bytes of 131072, total 13096968
+sent 0 bytes of 131072, total 13096968
+sent 0 bytes of 131072, total 13096968
+sent 0 bytes of 131072, total 13096968
+tcpi_snd_cwnd 104 tcpi_snd_mss 1374 tcpi_rtt 42380
+interval_len 1.000404 bytes_transferred 3487212
+interval forces keep
+[  5]   3.00-4.00   sec  3.33 MBytes  27.9 Mbits/sec    0    140 KBytes       
+sent 131072 bytes of 131072, total 13228040
+sent 127240 bytes of 131072, total 13355280
+sent 0 bytes of 131072, total 13355280
+sent 0 bytes of 131072, total 13355280
+sent 0 bytes of 131072, total 13355280
+sent 0 bytes of 131072, total 13355280
+sent 0 bytes of 131072, total 13355280
+sent 0 bytes of 131072, total 13355280
+sent 0 bytes of 131072, total 13355280
+sent 0 bytes of 131072, total 13355280
+sent 131072 bytes of 131072, total 13486352
+sent 62662 bytes of 131072, total 13549014
+sent 0 bytes of 131072, total 13549014
+sent 0 bytes of 131072, total 13549014
+sent 0 bytes of 131072, total 13549014
+sent 0 bytes of 131072, total 13549014
+sent 0 bytes of 131072, total 13549014
+sent 0 bytes of 131072, total 13549014
+sent 0 bytes of 131072, total 13549014
+sent 0 bytes of 131072, total 13549014
+sent 131072 bytes of 131072, total 13680086
+sent 62662 bytes of 131072, total 13742748
+sent 0 bytes of 131072, total 13742748
+sent 0 bytes of 131072, total 13742748
+sent 0 bytes of 131072, total 13742748
+sent 0 bytes of 131072, total 13742748
+sent 0 bytes of 131072, total 13742748
+sent 0 bytes of 131072, total 13742748
+sent 0 bytes of 131072, total 13742748
+sent 0 bytes of 131072, total 13742748
+sent 131072 bytes of 131072, total 13873820
+sent 62662 bytes of 131072, total 13936482
+sent 0 bytes of 131072, total 13936482
+sent 0 bytes of 131072, total 13936482
+sent 0 bytes of 131072, total 13936482
+sent 0 bytes of 131072, total 13936482
+sent 0 bytes of 131072, total 13936482
+sent 0 bytes of 131072, total 13936482
+sent 0 bytes of 131072, total 13936482
+sent 0 bytes of 131072, total 13936482
+sent 131072 bytes of 131072, total 14067554
+sent 62662 bytes of 131072, total 14130216
+sent 0 bytes of 131072, total 14130216
+sent 0 bytes of 131072, total 14130216
+sent 0 bytes of 131072, total 14130216
+sent 0 bytes of 131072, total 14130216
+sent 0 bytes of 131072, total 14130216
+sent 0 bytes of 131072, total 14130216
+sent 0 bytes of 131072, total 14130216
+sent 0 bytes of 131072, total 14130216
+sent 131072 bytes of 131072, total 14261288
+sent 62662 bytes of 131072, total 14323950
+sent 0 bytes of 131072, total 14323950
+sent 0 bytes of 131072, total 14323950
+sent 0 bytes of 131072, total 14323950
+sent 0 bytes of 131072, total 14323950
+sent 0 bytes of 131072, total 14323950
+sent 0 bytes of 131072, total 14323950
+sent 0 bytes of 131072, total 14323950
+sent 0 bytes of 131072, total 14323950
+sent 131072 bytes of 131072, total 14455022
+sent 62662 bytes of 131072, total 14517684
+sent 0 bytes of 131072, total 14517684
+sent 0 bytes of 131072, total 14517684
+sent 0 bytes of 131072, total 14517684
+sent 0 bytes of 131072, total 14517684
+sent 0 bytes of 131072, total 14517684
+sent 0 bytes of 131072, total 14517684
+sent 0 bytes of 131072, total 14517684
+sent 129156 bytes of 131072, total 14646840
+sent 131072 bytes of 131072, total 14777912
+sent 62662 bytes of 131072, total 14840574
+sent 0 bytes of 131072, total 14840574
+sent 0 bytes of 131072, total 14840574
+sent 0 bytes of 131072, total 14840574
+sent 0 bytes of 131072, total 14840574
+sent 0 bytes of 131072, total 14840574
+sent 0 bytes of 131072, total 14840574
+sent 0 bytes of 131072, total 14840574
+sent 0 bytes of 131072, total 14840574
+tcpi_snd_cwnd 58 tcpi_snd_mss 1374 tcpi_rtt 40160
+send_results
+{
+	"cpu_util_total":	1.5209330867575255,
+	"cpu_util_user":	0.26544465556904046,
+	"cpu_util_system":	1.2555366616994599,
+	"sender_has_retransmits":	1,
+	"congestion_used":	"cubic",
+	"streams":	[{
+			"id":	1,
+			"bytes":	14840574,
+			"retransmits":	64,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0,
+			"start_time":	0,
+			"end_time":	5.0002758502960205
+		}]
+}
+get_results
+{
+	"cpu_util_total":	1.541067,
+	"cpu_util_user":	0.253111,
+	"cpu_util_system":	1.288003,
+	"sender_has_retransmits":	-1,
+	"streams":	[{
+			"id":	1,
+			"bytes":	14519058,
+			"retransmits":	-1,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0
+		}]
+}
+interval_len 0.999749 bytes_transferred 1743606
+interval forces keep
+[  5]   4.00-5.00   sec  1.66 MBytes  14.0 Mbits/sec   30   77.8 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  14.2 MBytes  23.7 Mbits/sec   64             sender
+[  5]   0.00-5.00   sec  13.8 MBytes  23.2 Mbits/sec                  receiver
+
+iperf Done.
+Wed May  5 23:17:34 2021
+send_parameters:
+{
+	"tcp":	true,
+	"omit":	0,
+	"time":	5,
+	"parallel":	1,
+	"len":	131072,
+	"pacing_timer":	1000,
+	"client_version":	"3.6"
+}
+Connecting to host nprabhalmac.wifi.local.cmu.edu, port 6001
+SNDBUF is 16384, expecting 0
+RCVBUF is 131072, expecting 0
+Congestion algorithm is cubic
+[  5] local 192.168.17.57 port 50046 connected to 172.26.211.223 port 6001
+sent 78318 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 0 bytes of 131072, total 78318
+sent 114042 bytes of 131072, total 192360
+sent 0 bytes of 131072, total 192360
+sent 0 bytes of 131072, total 192360
+sent 0 bytes of 131072, total 192360
+sent 0 bytes of 131072, total 192360
+sent 0 bytes of 131072, total 192360
+sent 0 bytes of 131072, total 192360
+sent 0 bytes of 131072, total 192360
+sent 0 bytes of 131072, total 192360
+sent 0 bytes of 131072, total 192360
+sent 131072 bytes of 131072, total 323432
+sent 62662 bytes of 131072, total 386094
+sent 0 bytes of 131072, total 386094
+sent 0 bytes of 131072, total 386094
+sent 0 bytes of 131072, total 386094
+sent 0 bytes of 131072, total 386094
+sent 0 bytes of 131072, total 386094
+sent 0 bytes of 131072, total 386094
+sent 0 bytes of 131072, total 386094
+sent 0 bytes of 131072, total 386094
+sent 129156 bytes of 131072, total 515250
+sent 0 bytes of 131072, total 515250
+sent 0 bytes of 131072, total 515250
+sent 0 bytes of 131072, total 515250
+sent 0 bytes of 131072, total 515250
+sent 0 bytes of 131072, total 515250
+sent 0 bytes of 131072, total 515250
+sent 0 bytes of 131072, total 515250
+sent 0 bytes of 131072, total 515250
+sent 0 bytes of 131072, total 515250
+sent 129156 bytes of 131072, total 644406
+sent 0 bytes of 131072, total 644406
+sent 0 bytes of 131072, total 644406
+sent 0 bytes of 131072, total 644406
+sent 0 bytes of 131072, total 644406
+sent 0 bytes of 131072, total 644406
+sent 64578 bytes of 131072, total 708984
+sent 0 bytes of 131072, total 708984
+sent 0 bytes of 131072, total 708984
+sent 0 bytes of 131072, total 708984
+tcpi_snd_cwnd 78 tcpi_snd_mss 1374 tcpi_rtt 191949
+interval_len 1.000208 bytes_transferred 708984
+interval forces keep
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   692 KBytes  5.67 Mbits/sec    0    105 KBytes       
+sent 131072 bytes of 131072, total 840056
+sent 62662 bytes of 131072, total 902718
+sent 0 bytes of 131072, total 902718
+sent 0 bytes of 131072, total 902718
+sent 0 bytes of 131072, total 902718
+sent 0 bytes of 131072, total 902718
+sent 0 bytes of 131072, total 902718
+sent 0 bytes of 131072, total 902718
+sent 0 bytes of 131072, total 902718
+sent 0 bytes of 131072, total 902718
+tcpi_snd_cwnd 87 tcpi_snd_mss 1374 tcpi_rtt 231464
+interval_len 1.000435 bytes_transferred 193734
+interval forces keep
+[  5]   1.00-2.00   sec   189 KBytes  1.55 Mbits/sec    0    117 KBytes       
+sent 129156 bytes of 131072, total 1031874
+sent 0 bytes of 131072, total 1031874
+sent 0 bytes of 131072, total 1031874
+sent 0 bytes of 131072, total 1031874
+sent 0 bytes of 131072, total 1031874
+sent 0 bytes of 131072, total 1031874
+sent 0 bytes of 131072, total 1031874
+sent 0 bytes of 131072, total 1031874
+sent 0 bytes of 131072, total 1031874
+sent 0 bytes of 131072, total 1031874
+sent 131072 bytes of 131072, total 1162946
+sent 62662 bytes of 131072, total 1225608
+sent 0 bytes of 131072, total 1225608
+sent 0 bytes of 131072, total 1225608
+sent 0 bytes of 131072, total 1225608
+sent 0 bytes of 131072, total 1225608
+sent 0 bytes of 131072, total 1225608
+sent 0 bytes of 131072, total 1225608
+sent 0 bytes of 131072, total 1225608
+sent 0 bytes of 131072, total 1225608
+sent 131072 bytes of 131072, total 1356680
+sent 62662 bytes of 131072, total 1419342
+sent 0 bytes of 131072, total 1419342
+sent 0 bytes of 131072, total 1419342
+sent 0 bytes of 131072, total 1419342
+sent 0 bytes of 131072, total 1419342
+sent 0 bytes of 131072, total 1419342
+sent 0 bytes of 131072, total 1419342
+sent 0 bytes of 131072, total 1419342
+sent 0 bytes of 131072, total 1419342
+sent 131072 bytes of 131072, total 1550414
+sent 62662 bytes of 131072, total 1613076
+sent 0 bytes of 131072, total 1613076
+sent 0 bytes of 131072, total 1613076
+sent 0 bytes of 131072, total 1613076
+sent 0 bytes of 131072, total 1613076
+sent 0 bytes of 131072, total 1613076
+sent 0 bytes of 131072, total 1613076
+sent 0 bytes of 131072, total 1613076
+sent 0 bytes of 131072, total 1613076
+tcpi_snd_cwnd 69 tcpi_snd_mss 1374 tcpi_rtt 126808
+interval_len 0.999631 bytes_transferred 710358
+interval forces keep
+[  5]   2.00-3.00   sec   694 KBytes  5.68 Mbits/sec    3   92.6 KBytes       
+sent 131072 bytes of 131072, total 1744148
+sent 62662 bytes of 131072, total 1806810
+sent 0 bytes of 131072, total 1806810
+sent 0 bytes of 131072, total 1806810
+sent 0 bytes of 131072, total 1806810
+sent 0 bytes of 131072, total 1806810
+sent 0 bytes of 131072, total 1806810
+sent 0 bytes of 131072, total 1806810
+sent 0 bytes of 131072, total 1806810
+sent 0 bytes of 131072, total 1806810
+sent 131072 bytes of 131072, total 1937882
+sent 62662 bytes of 131072, total 2000544
+sent 0 bytes of 131072, total 2000544
+sent 0 bytes of 131072, total 2000544
+sent 0 bytes of 131072, total 2000544
+sent 0 bytes of 131072, total 2000544
+sent 0 bytes of 131072, total 2000544
+sent 0 bytes of 131072, total 2000544
+sent 0 bytes of 131072, total 2000544
+sent 0 bytes of 131072, total 2000544
+tcpi_snd_cwnd 80 tcpi_snd_mss 1374 tcpi_rtt 126326
+interval_len 1.000212 bytes_transferred 387468
+interval forces keep
+[  5]   3.00-4.00   sec   378 KBytes  3.10 Mbits/sec    0    107 KBytes       
+sent 131072 bytes of 131072, total 2131616
+sent 62662 bytes of 131072, total 2194278
+sent 0 bytes of 131072, total 2194278
+sent 0 bytes of 131072, total 2194278
+sent 0 bytes of 131072, total 2194278
+sent 0 bytes of 131072, total 2194278
+sent 0 bytes of 131072, total 2194278
+sent 0 bytes of 131072, total 2194278
+sent 0 bytes of 131072, total 2194278
+sent 0 bytes of 131072, total 2194278
+sent 131072 bytes of 131072, total 2325350
+sent 62662 bytes of 131072, total 2388012
+sent 0 bytes of 131072, total 2388012
+sent 0 bytes of 131072, total 2388012
+sent 0 bytes of 131072, total 2388012
+sent 0 bytes of 131072, total 2388012
+sent 0 bytes of 131072, total 2388012
+sent 0 bytes of 131072, total 2388012
+sent 0 bytes of 131072, total 2388012
+sent 0 bytes of 131072, total 2388012
+sent 131072 bytes of 131072, total 2519084
+sent 62662 bytes of 131072, total 2581746
+sent 0 bytes of 131072, total 2581746
+sent 0 bytes of 131072, total 2581746
+sent 0 bytes of 131072, total 2581746
+sent 0 bytes of 131072, total 2581746
+sent 0 bytes of 131072, total 2581746
+sent 0 bytes of 131072, total 2581746
+sent 0 bytes of 131072, total 2581746
+sent 0 bytes of 131072, total 2581746
+sent 131072 bytes of 131072, total 2712818
+sent 62662 bytes of 131072, total 2775480
+sent 0 bytes of 131072, total 2775480
+sent 0 bytes of 131072, total 2775480
+sent 0 bytes of 131072, total 2775480
+sent 0 bytes of 131072, total 2775480
+sent 0 bytes of 131072, total 2775480
+sent 0 bytes of 131072, total 2775480
+sent 0 bytes of 131072, total 2775480
+sent 0 bytes of 131072, total 2775480
+tcpi_snd_cwnd 86 tcpi_snd_mss 1374 tcpi_rtt 71395
+send_results
+{
+	"cpu_util_total":	0.57819234868257485,
+	"cpu_util_user":	0.19273078289419163,
+	"cpu_util_system":	0.38546156578838325,
+	"sender_has_retransmits":	1,
+	"congestion_used":	"cubic",
+	"streams":	[{
+			"id":	1,
+			"bytes":	2775480,
+			"retransmits":	3,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0,
+			"start_time":	0,
+			"end_time":	5.0002529621124268
+		}]
+}
+get_results
+{
+	"cpu_util_total":	0.522519,
+	"cpu_util_user":	0.088301,
+	"cpu_util_system":	0.434218,
+	"sender_has_retransmits":	-1,
+	"streams":	[{
+			"id":	1,
+			"bytes":	2473200,
+			"retransmits":	-1,
+			"jitter":	0,
+			"errors":	0,
+			"packets":	0
+		}]
+}
+interval_len 0.999767 bytes_transferred 774936
+interval forces keep
+[  5]   4.00-5.00   sec   757 KBytes  6.20 Mbits/sec    0    115 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5.00   sec  2.65 MBytes  4.44 Mbits/sec    3             sender
+[  5]   0.00-5.00   sec  2.36 MBytes  3.96 Mbits/sec                  receiver
+
+iperf Done.
+Wed May  5 23:17:41 2021
+Wed May  5 23:17:48 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:17:55 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:18:03 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:18:10 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:18:17 2021
+Wed May  5 23:18:24 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:18:30 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:18:38 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:18:45 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:18:52 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:18:58 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:19:06 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:19:12 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:19:20 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:19:26 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:19:33 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:19:41 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:19:48 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:19:55 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:20:02 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:20:09 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:20:16 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:20:23 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
+Wed May  5 23:20:30 2021
+iperf3: error - unable to connect to server: Resource temporarily unavailable
